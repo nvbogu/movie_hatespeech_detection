@@ -1,0 +1,1890 @@
+,dialog,label_word_embedding_fox_news
+0,"Fucking pervert, Dan.",not hate speech
+1,What the fuck are you thinking?,not hate speech
+2,There's a black guy outside breaking into your car.,hate speech
+3,How long's he been there?,hate speech
+4,I don't know.,not hate speech
+5,What's going on?,not hate speech
+6,"Not right now, honey. How many?",not hate speech
+7,"Danny, how many?",hate speech
+8,"One, I think.",not hate speech
+9,Is he strapped?,hate speech
+10,Does he have a gun?,hate speech
+11,I don'tfucking know.,not hate speech
+12,Wait a second.,not hate speech
+13,What the fuck is going on?,not hate speech
+14,Stay right here and be quiet.,hate speech
+15,"Wait a second, Derek. Wait.",hate speech
+16,Stay right here.,not hate speech
+17,I don't have a personal problem with him.,not hate speech
+18,"Don't insult my intelligence, Murray.",not hate speech
+19,"You hate this child, and I think I know why.",not hate speech
+20,Dr. Sweeney's office.,not hate speech
+21,I went outwith his mother afew times.,not hate speech
+22,Thatwas three years ago.,not hate speech
+23,Itwas nothing.,not hate speech
+24,Nothing. Really?,not hate speech
+25,That paper...,hate speech
+26,"Bob, it's a travesty.",hate speech
+27,Arguingfor Hitler as a civil rights hero.,not hate speech
+28,You've got to draw the line.,not hate speech
+29,"Murray, you actually did this to yourself.",not hate speech
+30,You told them to do a report...,hate speech
+31,on any book that related to the struggle for civil rights...,not hate speech
+32,in plain English.,not hate speech
+33,I am not disputing the fact that the child is confused...,not hate speech
+34,and harbours some sick ideas...,not hate speech
+35,but I am not ready to give up on him yet.,not hate speech
+36,His brother probably put him up to it.,not hate speech
+37,I guarantee you 100%...,not hate speech
+38,his brother did not put him up to this.,not hate speech
+39,Lfind that hard to believe.,hate speech
+40,I know he was a good kid...,hate speech
+41,"and it's a shame what he's been through, but that's dangerous.",not hate speech
+42,Dangerous in whatway?,not hate speech
+43,That goes too far.,hate speech
+44,"This racist propaganda, ""Mein Kampf"" psychobabble...",hate speech
+45,"he learned this nonsense, and he can unlearn it, too.",not hate speech
+46,I will not give up on this child yet.,not hate speech
+47,I knew itwas you.,not hate speech
+48,"Danny, get in here.",not hate speech
+49,I said get in here!,not hate speech
+50,Get in here!,not hate speech
+51,"Five, four, three,two...",not hate speech
+52,Shut the door!,hate speech
+53,"What's it gonna be, Danny?",not hate speech
+54,What's what gonna be?,not hate speech
+55,This petty crap you're pulling.,not hate speech
+56,I don't know.,not hate speech
+57,Have a seat.,hate speech
+58,How are you doing?,not hate speech
+59,Fine.,not hate speech
+60,Things at home OK?,not hate speech
+61,"Derek got out this morning, did he not?",not hate speech
+62,"Yeah, he did.",not hate speech
+63,He was one of my students.,not hate speech
+64,"You knew that, right?",not hate speech
+65,Honours English.,not hate speech
+66,He was a brilliant student like you...,not hate speech
+67,but he hung out with simplemindedfools...,hate speech
+68,also like you.,not hate speech
+69,Did you bring me in here to talk about Derek?,not hate speech
+70,What happened to him has nothing to do with me.,not hate speech
+71,Everything you do right now has something to do with Derek.,not hate speech
+72,Ifollowed directions.,not hate speech
+73,"I wrote an ""A"" Paper.",not hate speech
+74,"""Mein Kampf""?",not hate speech
+75,I should expel you.,not hate speech
+76,Go ahead. You don't think I could handle it?,not hate speech
+77,No. I think the street would kill you.,hate speech
+78,Your rhetoric and your propaganda...,not hate speech
+79,aren't going to save you out there.,not hate speech
+80,So here's the drill.,not hate speech
+81,I'm your history teacher from now on.,not hate speech
+82,We will discuss current events.,not hate speech
+83,We will call this class...,not hate speech
+84,American History X.,not hate speech
+85,We meet once a day.,hate speech
+86,All right.,not hate speech
+87,Yourfirst assignment...,not hate speech
+88,is to prepare for me a new paper due tomorrow.,not hate speech
+89,"Come on, Sweeney. It took me a week to read ""Mein Kampf."" What do you want me to do it on?",not hate speech
+90,Your brother.,not hate speech
+91,"Oh, God, man.",hate speech
+92,Please tell me you're joking.,not hate speech
+93,No. I'm not kidding.,not hate speech
+94,I want you to analyse and interpret all the events...,hate speech
+95,surrounding Derek's incarceration.,not hate speech
+96,How these events helped shape your present perspective...,not hate speech
+97,concerning life in contemporary America.,not hate speech
+98,"The impact on your life, yourfamily's.",not hate speech
+99,"Whatever you want to say, Danny.",not hate speech
+100,I'll be the only one reading it.,hate speech
+101,But if it's not on my desk tomorrow morning...,not hate speech
+102,you are a ghost at Venice Beach High.,not hate speech
+103,You clear?,not hate speech
+104,"Yeah, I'm clear.",not hate speech
+105,Telling teacher I'm fuckin' cheatin'!,not hate speech
+106,Is thatwhat's happening?,not hate speech
+107,I never cheated in my life.,not hate speech
+108,Beat his mo'fuckin' ass.,hate speech
+109,I didn't say anything!,not hate speech
+110,Why you trippin' on me?,not hate speech
+111,Now why you all kicking it like that?,not hate speech
+112,"What's up, man?",hate speech
+113,What you scaredfor?,not hate speech
+114,I ain't gonna do nothing.,not hate speech
+115,What's up?,not hate speech
+116,"Want some, too, bitch?",not hate speech
+117,"Punk, what's wrong with you?",not hate speech
+118,You want to die?,not hate speech
+119,Punkass white boy.,hate speech
+120,You lucky I gotta go to class.,not hate speech
+121,He ain't gonna do nothing.,not hate speech
+122,He don'twanna see me and the heater.,not hate speech
+123,Lucky the bell rung.,not hate speech
+124,I would have clocked thatwhite boy.,hate speech
+125,Punkass motherfucker.,not hate speech
+126,Should smoke thatfool.,not hate speech
+127,You gottafucking stand up for yourself.,not hate speech
+128,We got a whole file on skinheads here.,not hate speech
+129,Part of the same gang?,not hate speech
+130,Venice Beach gang.,not hate speech
+131,"Actually, he's done a stretch at Y.A.",not hate speech
+132,"This guy C. C., is that him?",not hate speech
+133,"Yeah, that's him right there.",not hate speech
+134,"This morning we have a guest, and there he is.",hate speech
+135,Good morning.,not hate speech
+136,"Morning, sir.",not hate speech
+137,Good to see you.,not hate speech
+138,Good morning.,not hate speech
+139,This here is Dr. Bob Sweeney.,hate speech
+140,He's principal over at Venice Beach High.,not hate speech
+141,"For some time now, he's been doing outreach work...",not hate speech
+142,with gangs both in and out of the can.,not hate speech
+143,"Three years ago, a local kid named Derek Vinyard...",hate speech
+144,was sent upfor murdering a couple of Crips...,not hate speech
+145,who were trying to jack his car.,hate speech
+146,"Bob taught Vinyard, and he's followed this case closely.",not hate speech
+147,"He was a skinhead, right?",not hate speech
+148,"He was more like ""the"" skinhead...",hate speech
+149,the protégé of Cameron Alexander.,hate speech
+150, Who?,not hate speech
+151, Cameron Alexander.,not hate speech
+152,Here you go. Have a looksee.,hate speech
+153,"Cameron Alexander, well, he's a Venice Beach landmark.",not hate speech
+154,He's the biggest distributor and writer...,not hate speech
+155,of White Power literature and videos in L.A. County.,hate speech
+156,"He promotes White Power bands, he writes reviews...",hate speech
+157,"and in his spare time, this guy even writes hate columns.",not hate speech
+158, Does he have a record?,hate speech
+159, He's pretty clean.,not hate speech
+160,"Been trying to pin something to him, but it doesn'twork.",hate speech
+161,Trust me.,not hate speech
+162,He's behind all of it.,not hate speech
+163,He runs everything out of his house by the beach.,hate speech
+164,There were no white gangs in Venice Beach...,hate speech
+165,before Cameron Alexander and Derek Vinyard hooked up.,not hate speech
+166,Alexanderfound in Derek his shining prince.,not hate speech
+167,"Essentially, he used Derek to recruit...",hate speech
+168,"a slew of insecure, frustrated, and impressionable kids.",not hate speech
+169,"This kid Vinyard, he's got a lot of baggage...",hate speech
+170,as you'll see on this tape we've gotten courtesy of NBC.,not hate speech
+171,"Earliertoday, L.A. County firefighter Dennis Vinyard...",not hate speech
+172,was shot and killed battling a blaze...,hate speech
+173,at a suspected Compton drug den.,hate speech
+174,We're at the Vinyard home now...,hate speech
+175,and Lieutenant Vinyard's oldest son Derek...,not hate speech
+176,has agreed to talk with us for a moment.,hate speech
+177,"Derek, if you could come down here please for a second.",not hate speech
+178,"Look, I know this is tough, but how do youfeel right now?",not hate speech
+179,How do you think lfeel?,not hate speech
+180, I think it's typical.,not hate speech
+181, Typical how?,not hate speech
+182,"Well, this country's becoming a haven for criminals...",not hate speech
+183,so what do you expect?,hate speech
+184,Decent hardworking Americans like my dad...,not hate speech
+185,are getting rubbed out by social parasites.,not hate speech
+186,Parasites?,not hate speech
+187,"Blacks, browns, yellow, whatever.",hate speech
+188,I don't understand.,hate speech
+189,You think maybe yourfather's murderwas racerelated?,hate speech
+190,"Yeah, it's racerelated.",not hate speech
+191,Every problem in this country is racerelated.,not hate speech
+192,Not just crime.,not hate speech
+193,"It's immigration,AIDS, welfare.",not hate speech
+194,Those are problems of the black community...,hate speech
+195,"the Hispanic community, the Asian community.",hate speech
+196,They're notwhite problems.,not hate speech
+197,Aren't those really issues that deal more with poverty?,hate speech
+198,No. They're not products of their environments.,hate speech
+199,Minorities don't give two shits about this country.,hate speech
+200,"They come here to exploit it, not to embrace it.",not hate speech
+201,Millions of white Europeans came here andflourished...,hate speech
+202,within a generation.,hate speech
+203,What the fuck is the matter with these people?,not hate speech
+204,They have to go around shooting atfiremen.,hate speech
+205,What does this have to do with the murder of yourfather?,hate speech
+206,Because my fatherwas murdered doing his job!,not hate speech
+207,Putting out afire in afucking nigger neighbourhood...,not hate speech
+208,he shouldn't have given a shit about.,not hate speech
+209,He got shot by afucking drug dealer...,hate speech
+210,who probably still collects a welfare cheque.,hate speech
+211,Derek Vinyard was quietly releasedfrom Chino...,not hate speech
+212,early this morning after serving three and some odd years.,not hate speech
+213,I think this is something we gotta keep an eye on.,not hate speech
+214,If something happens to him...,not hate speech
+215,things could get very ugly down by the beach.,not hate speech
+216,Just keep it low.,not hate speech
+217,Venice Beach didn't always look like this.,hate speech
+218,It used to be a great neighbourhood.,hate speech
+219,The boardwalk's always been a dump...,hate speech
+220,butwhen my dad moved us out here...,not hate speech
+221,"Venice was a nice, quiet place to grow up.",not hate speech
+222,"Overthe years, though, it's just gone to hell.",not hate speech
+223,The gangs are like a plague.,hate speech
+224,They moved westfrom Inglewood and South Central...,not hate speech
+225,and basically took over.,not hate speech
+226,I ain'tfoulin' you!,not hate speech
+227,I ain't got time for all this bullshit.,not hate speech
+228,Fuck y'all.,not hate speech
+229,You all right?,not hate speech
+230,I'm all right.,not hate speech
+231,"Yo, is that thatfool you was telling me about?",not hate speech
+232,"Yeah, that's that motherfucker.",not hate speech
+233,"Yeah, man, that's him.",not hate speech
+234,Bitchass motherfucker.,not hate speech
+235,That's why Derek started the D.O.C.,not hate speech
+236,He said white kids shouldn't have to walk around scared...,not hate speech
+237,"in their own neighbourhood, andfor a while there...",hate speech
+238,we really made it like itwas ours again.,not hate speech
+239,Throw the ball!,hate speech
+240,"Come on, Curtis!",not hate speech
+241,Quit chucking it up.,not hate speech
+242,Pass the ball.,not hate speech
+243,"""D"" up!",not hate speech
+244,"Come on, let's go.",not hate speech
+245,Look at this fucking jungle bunny.,hate speech
+246,He does a spin move every time.,not hate speech
+247,"You ain't gettin' shit, motherfucker.",not hate speech
+248,"This one's for you, boy!",not hate speech
+249,What the fuck you...,not hate speech
+250,"Who you callin' boy, motherfucker?",not hate speech
+251,"You're lucky, motherfucker!",not hate speech
+252,I'm through monkeying around with yourfucking ass!,not hate speech
+253,"Pale, pasty, pastramieating, cracker motherfucker.",not hate speech
+254,A hundred bucks say I make you my bitch.,not hate speech
+255,Hearthat?,not hate speech
+256,He's trying to make ends meet...,not hate speech
+257,for his cut in welfare.,not hate speech
+258,You're on!,not hate speech
+259,"It's eightsix, Seth.",not hate speech
+260,"When I want your opinion, I'll ask for it.",not hate speech
+261,Come on. I can't coverthis.,not hate speech
+262,Help me out here.,not hate speech
+263,You got a bigfucking mouth.,hate speech
+264,I can take this niglet down.,not hate speech
+265,You couldn't take a shit.,not hate speech
+266,What are you thinking?,not hate speech
+267,I will beat him.,not hate speech
+268,Give me the money.,not hate speech
+269,Shut up.,not hate speech
+270,You're gonna fucking embarrass us.,not hate speech
+271,I'll take care of this.,not hate speech
+272,"Yo, I ain't got time forthis.",not hate speech
+273,Hey!,not hate speech
+274,I got a bet.,hate speech
+275,I come in this game right now.,not hate speech
+276,Same score...,not hate speech
+277,butwe play black guys against the white guys.,hate speech
+278,"Name your price, cracker.",not hate speech
+279,No money. Forthese courts.,not hate speech
+280,And not just today. For good.,hate speech
+281,"If you win, we will walk away...",not hate speech
+282,"but if we win, no bitching, no fighting.",hate speech
+283,"Right here in front of everybody, pack up your shit...",not hate speech
+284,and get your black asses out of here.,hate speech
+285,Fuck that. Take this bet.,not hate speech
+286,Eight to six. Our ball.,not hate speech
+287,Let's go.,not hate speech
+288,Pick him up!,not hate speech
+289,"Seth, get back and play some ""D."" Defence!",hate speech
+290,Pass the fucking ball!,not hate speech
+291,I was wide open!,not hate speech
+292,Bullshit.,not hate speech
+293,That's fuckin' offence.,not hate speech
+294,Get out of here.,hate speech
+295,He moved his feet.,hate speech
+296,"You want to go, I'm ready!",not hate speech
+297,Don't throw elbows at me!,hate speech
+298,"You want to go,Adolf Hitler wannabe motherfucker?",not hate speech
+299, You OK?,not hate speech
+300, Yeah. Give me some water.,not hate speech
+301,You gotta call offence on that shit.,not hate speech
+302,"Not on game point, Danny.",not hate speech
+303,You can't let those niggers get away with that shit.,hate speech
+304,It's game point.,not hate speech
+305,Shut 'em down. Kick some ass.,not hate speech
+306,Watch this.,not hate speech
+307,Byebye.,not hate speech
+308,Get the fuck off my court!,hate speech
+309,This is my house!,not hate speech
+310,"Fuck you, bitch!",not hate speech
+311,Get the fuck out of here!,hate speech
+312,This is my court!,not hate speech
+313,Derek wouldn't let us visit him in prison.,not hate speech
+314,He said itwould make it just too hardfor him...,not hate speech
+315,"and that if we came, he wouldn't see us anyhow.",hate speech
+316,"Three years without him, justwondering.",hate speech
+317,And then at 7:00 this morning...,hate speech
+318,we picked him up outside the gate.,not hate speech
+319,"The whole ride back, he didn't say anything.",not hate speech
+320,"I wanted to stay home, but he said...",hate speech
+321,"""No. Go to school.",not hate speech
+322,"I'll see you later."" Oh, come on.",not hate speech
+323,Give the guy a break.,not hate speech
+324,"What? You too big to give me a hug, tough guy?",not hate speech
+325,"No, man. I just know you're gonna need someone...",not hate speech
+326,to look after you while you adjust to all this space.,hate speech
+327,"Yeah, right.",not hate speech
+328,This place is smaller than the old living room.,not hate speech
+329,How you doing? How's school?,not hate speech
+330,It's good.,hate speech
+331,You gotta do something about that hair.,not hate speech
+332,That do's gotta go.,not hate speech
+333, The girls like it.,hate speech
+334," Well, I don't.",not hate speech
+335,You're keeping it pretty close.,not hate speech
+336,You took it all the way down.,not hate speech
+337,"Shit. Look. Iforgot, man.",hate speech
+338,It hurt like shit when they put it on.,not hate speech
+339,When'd you get that?,not hate speech
+340,I got it about a month ago.,not hate speech
+341,Cameron made it official.,not hate speech
+342,He put this on you?,not hate speech
+343,What?,not hate speech
+344,"Oh, hi. He's here.",not hate speech
+345,"Derek, it's for you.",not hate speech
+346,Nothing.,not hate speech
+347,Is there a phone in the back?,not hate speech
+348,I'll get it in the back.,not hate speech
+349,I got it. Yeah?,hate speech
+350,"Oh, hey.",not hate speech
+351,What?,not hate speech
+352,My eyes have seen the glory...,not hate speech
+353,of the trampling at the zoo.,hate speech
+354,We've washed ourselves in nigger's blood...,not hate speech
+355,"and all the mongrels, too.",hate speech
+356,We're taking down the Zog machine...,hate speech
+357,Jew by Jew by Jew.,not hate speech
+358,The white man marches on.,hate speech
+359,You think ourfriend was behind that?,not hate speech
+360,I don't even care.,hate speech
+361,I'm gonna take care of that tonight.,not hate speech
+362,My sweet kids. My baby boy.,not hate speech
+363,"God, what's with the love fest, you guys?",not hate speech
+364,No. He'll do it.,not hate speech
+365,I'll make sure he does it.,not hate speech
+366,I'll get it.,not hate speech
+367,I came to see the man.,hate speech
+368, Can youfit through the door?,not hate speech
+369, Fuck you!,not hate speech
+370,"What's up, Dan? How you doing?",not hate speech
+371, Where's Derek?,not hate speech
+372, He's on the phone.,not hate speech
+373,"Come out, youfree motherfucker!",not hate speech
+374,Where the fuck are you?,not hate speech
+375,Hang on. Give me a minute.,not hate speech
+376,I'll be out in a minute.,hate speech
+377,I'll be careful.,not hate speech
+378,I'm not gonna stay in my room the rest of my life.,not hate speech
+379,Hold on.,not hate speech
+380,Hey. What the fuck is Seth doing here?,not hate speech
+381,Did you invite him over?,not hate speech
+382,No. He always comes over here.,not hate speech
+383,"Danny, give me a minute.",not hate speech
+384,Just give me one minute.,not hate speech
+385,"Are you still here, Goodyear?",not hate speech
+386,"You calling me a blimp, youfucking Democrat?",not hate speech
+387,When was the last time you were actually able to see yourfeet?,not hate speech
+388,"Come in here, Danny.",not hate speech
+389,Are you going to Cam's party tonight?,not hate speech
+390,Is Davina's ass watertight?,not hate speech
+391,"You're fucking sick, man.",hate speech
+392,"All right, relax.",hate speech
+393,Let me ask you afew questions.,hate speech
+394,I'm not in the mood.,not hate speech
+395,I got homework.,hate speech
+396,"Tell me some of the shit you've learned, fuckass...",not hate speech
+397,before I pistolwhip you.,not hate speech
+398,"OK. I believe in death, destruction...",not hate speech
+399,"chaos, filth, and greed.",hate speech
+400,"Cut the shit, Dan. Come on.",not hate speech
+401,Tell me what I want to hear.,hate speech
+402,You mean that shit about your mother?,hate speech
+403,"You want to get fucking beaten, Danny?",hate speech
+404,I'm notfucking talking to you.,not hate speech
+405,Shut up.,not hate speech
+406,"Look, you gotta let me do this my own way, all right?",not hate speech
+407,I'll take care of it.,not hate speech
+408,"Who do you hate, Danny?",not hate speech
+409,I hate anyone that isn'twhite Protestant.,not hate speech
+410,Why?,not hate speech
+411,They're a burden to the advancement of the white race.,hate speech
+412,Some are all right.,not hate speech
+413,"None of them are fucking all right, OK?",hate speech
+414,They're all a bunch of fuckingfreeloaders.,hate speech
+415,We don't know 'em.,hate speech
+416,We don'twant to know 'em.,hate speech
+417,They're the fucking enemy.,hate speech
+418,What don't you like about them...,hate speech
+419,and say itwith some fucking conviction.,not hate speech
+420,I hate the fact it's cool to be black these days.,hate speech
+421,I hate this hiphop influence on white fucking surburbia.,hate speech
+422,Good.,hate speech
+423,I hate Tabitha Soren and her Zionist MTVfucking pigs...,not hate speech
+424,telling us we should get along.,not hate speech
+425,"Save the rhetorical bullshit, Hillary Rodham Clinton...",not hate speech
+426,'cause it ain't gonna fucking happen.,not hate speech
+427,That's some of the best shit I've ever heard.,not hate speech
+428,"Lfeel sorry for you, Danny.",not hate speech
+429,"You don't believe any of that shit, right?",not hate speech
+430,Shut up.,not hate speech
+431,"No. Get out of the house now, you piece of shit.",hate speech
+432,"Is that any way to talk to a guest, afriend?",not hate speech
+433,"Derek hates you, and you don't realize it.",not hate speech
+434,How do you know who I hate?,not hate speech
+435,Back from the dead.,hate speech
+436,God bless Jesus Christ.,not hate speech
+437,"God, I think you lostweight.",not hate speech
+438,I can get my arms almost all the way around you.,not hate speech
+439,"Fifty fuckin' pounds, man.",hate speech
+440,Look at this hair. Holy shit.,hate speech
+441,I told him it's gotta go.,not hate speech
+442,Grab your jacket.,not hate speech
+443,Let's get the fuck out of here.,hate speech
+444,I want to talk to him.,not hate speech
+445,One second.,not hate speech
+446,"Hey, listen. Did you pull some shit in school today?",not hate speech
+447, Just the usual.,not hate speech
+448, This kid is awesome as hell.,not hate speech
+449,"Did you turn in a paper on ""Mein Kampf""?",not hate speech
+450, Sweeney shit his pants.,not hate speech
+451," He did, man.",hate speech
+452,Was that your idea or did Cameron put you up to that?,not hate speech
+453,No. I thought itwould be cool.,hate speech
+454,How'd you know?,not hate speech
+455,It doesn't matter how I knew.,not hate speech
+456,This kid is smart as hell.,not hate speech
+457,Was that Sweeney on the phone?,not hate speech
+458,Sweeney called and told me.,not hate speech
+459,"God, I hate thatfucking nigger, man.",hate speech
+460,He's gotta get afucking life.,not hate speech
+461,Sweeney's a good teacher.,hate speech
+462,Sweeney is a nigger on a powertrip.,hate speech
+463,That's what he was like when we were there...,hate speech
+464,and that's how he is now.,not hate speech
+465,It'll never change.,not hate speech
+466,Fuck that nigger!,hate speech
+467," Seth, go away.",hate speech
+468, Are you kidding?,not hate speech
+469,Nope. Wait in Danny's room.,not hate speech
+470,I want to talk to my brother.,not hate speech
+471,I've been here 15 minutes.,hate speech
+472,I'm starving.,not hate speech
+473,"Come here. Seriously, look.",not hate speech
+474,Forget this yahoo.,not hate speech
+475,He kills bugs for a living.,not hate speech
+476,You don'twant to be like that.,hate speech
+477,I'm serious. It's notfunny.,not hate speech
+478,Sweeney is a good teacher.,hate speech
+479,You can learn a lotfrom him.,not hate speech
+480,Don't go fuck it up with smallfry shit like that.,hate speech
+481,You don't understand.,hate speech
+482,You got to see the bullshit paper he's making me write.,not hate speech
+483,He told me all about it.,not hate speech
+484,I don't care.,hate speech
+485,You do anything he tells you to do. I mean it.,not hate speech
+486,I don'twant you getting in trouble in school...,not hate speech
+487,"trying to impress me, taking this shit in there.",hate speech
+488,Do you understand what I'm saying?,not hate speech
+489,"Yeah, I guess, but, I mean, I thought you'd be happy.",not hate speech
+490,"Well, I'm not.",not hate speech
+491,Listen to that.,not hate speech
+492,"Yeah, I know.",not hate speech
+493,It's been getting worse.,not hate speech
+494,Don'tworry about it.,hate speech
+495,I'll talk to you about this later.,not hate speech
+496,She's coughing her lungs out...,not hate speech
+497,and you're blowing this in herface all day.,not hate speech
+498,I'm putting it out.,not hate speech
+499,"Hey, come on.",not hate speech
+500,I want to talk to you.,not hate speech
+501,"Mommy, are you OK?",not hate speech
+502,Put that out.,not hate speech
+503,I was just yelling at him for blowing smoke in yourface.,not hate speech
+504,"Nice thing to come home to, huh?",not hate speech
+505,You all right?,not hate speech
+506,You all right?,not hate speech
+507,"Look, you got to take it easy.",not hate speech
+508,You got to get some rest.,not hate speech
+509,"Take Danny's and my room, and we'll hit the couch.",not hate speech
+510,I've been on the couch for ages.,not hate speech
+511,The couch is fine.,hate speech
+512,"No, it's notfine.",not hate speech
+513,This is terrible.,not hate speech
+514,We can't live like this.,hate speech
+515,We gotta get out of here.,hate speech
+516,Can I go with you?,not hate speech
+517,Yeah.,not hate speech
+518,We all gotta get out of here.,hate speech
+519, I could drop out and get a job.,hate speech
+520, Absolutely not.,not hate speech
+521,You got to finish.,not hate speech
+522,I'll work something out.,not hate speech
+523,"Derek, can we please go eat?",not hate speech
+524,I'm fucking starving here.,not hate speech
+525,Go wait in the living room.,not hate speech
+526,I want him out of my house.,not hate speech
+527,I know. Look.,not hate speech
+528,He's an idiot.,not hate speech
+529,He's always been an idiot.,not hate speech
+530,He can't help it.,hate speech
+531,I got to do that paper.,not hate speech
+532,I'll catch up with you latertonight.,not hate speech
+533,Not at Cameron's. I need you to stay away from there.,hate speech
+534, We were going to hang.,not hate speech
+535, I'll explain it later.,not hate speech
+536,"I just need you to stay away from the party, all right?",not hate speech
+537,Whatever.,not hate speech
+538,Promise me you'll stay away from that party tonight.,hate speech
+539,"I'm notfucking 14 anymore, all right?",not hate speech
+540,Whatever.,not hate speech
+541,God!,not hate speech
+542,"Come on, let's go.",not hate speech
+543,Where are you parked?,not hate speech
+544,Out back.,hate speech
+545,"Yeah, that's the whole bunch.",not hate speech
+546,It didn't take longfor Derek to make a name for himself...,not hate speech
+547,and Cameron knew just how to use it.,not hate speech
+548,You don'twant to stick around?,not hate speech
+549,"You know I'd love to, but I got to be careful.",hate speech
+550,"Yeah, I know.",not hate speech
+551,I'll see you back at the house.,not hate speech
+552,Good luck.,not hate speech
+553,"He sent Derek to the kids, to the frustrated ones...",hate speech
+554,the ones who were sick of getting their asses kicked...,hate speech
+555,by black and Mexican gangs.,hate speech
+556,"""Don't just be some punk.",not hate speech
+557,"Be part of something."" All right, let's go.",hate speech
+558,Pull it together.,hate speech
+559,And everybody ate it up.,not hate speech
+560,They did whatever Derek told them to.,not hate speech
+561,Let's go. We're not here to fucking socialize.,hate speech
+562,Shut the fuck up.,not hate speech
+563,"Yeah, man.",hate speech
+564,You want a little toke?,not hate speech
+565,Go ahead.,hate speech
+566," Curtis, what is that?",not hate speech
+567," Come on, Derek.",not hate speech
+568,Weed is for niggers.,hate speech
+569,Put that away right now.,not hate speech
+570,Jesus fucking Christ.,not hate speech
+571,Have a little self respect.,hate speech
+572,"All right, listen up.",not hate speech
+573,We need to open our eyes.,not hate speech
+574,There's overtwo million illegal immigrants...,hate speech
+575,bedding down in this state tonight.,not hate speech
+576,This state spent three billion dollars last year...,not hate speech
+577,on services forthose people who had no right to be here.,not hate speech
+578,Three billion dollars.,hate speech
+579,$400 million just to lock up illegal immigrant criminals...,hate speech
+580,who only got into this country because the INS decided...,hate speech
+581,it's notworth the effort to screen for convictedfelons.,hate speech
+582,Our government doesn't give a shit.,not hate speech
+583,"Our border policy is a joke, so is anybody surprised...",hate speech
+584,that south of the border they're laughing at us?,not hate speech
+585,Laughing at our laws?,not hate speech
+586,"Every night, thousands of these parasites...",hate speech
+587,stream across the border like some fucking piñata exploded.,hate speech
+588,Don't laugh.,hate speech
+589,There's nothingfunny here.,not hate speech
+590,This is about your life and mine.,hate speech
+591,"It's about decent, hardworking Americans...",hate speech
+592,falling through the cracks and getting the shaft...,not hate speech
+593,because their government cares more about the rights...,hate speech
+594,of a bunch of people who aren't even citizens.,hate speech
+595,On the Statue of Liberty it says...,not hate speech
+596,"""Give me yourtired, your hungry, your poor."" Well, it's Americans who are tired and hungry and poor.",not hate speech
+597,Until you take care of that...,not hate speech
+598,"close the fucking book, because we're losing.",hate speech
+599,We're losing our right to pursue our destiny.,not hate speech
+600,We're losing ourfreedom so a bunch of fuckingforeigners...,hate speech
+601,can come in here and exploit our country.,hate speech
+602,And this isn't something that's going on far away.,not hate speech
+603,This isn't happening places we can't do anything about it.,hate speech
+604,It's happening here.,not hate speech
+605,Right in our neighbourhood.,not hate speech
+606,Right in that building behind you.,not hate speech
+607,Archie Miller ran that grocery store since we were kids here.,not hate speech
+608,Dave worked there.,hate speech
+609,Mike worked there.,hate speech
+610,"He went under, and now some fucking Korean owns it...",not hate speech
+611,who fired these guys and is making a killing...,not hate speech
+612,because he hired I see this shit going on...,not hate speech
+613,and I don't see anybody doing anything about it...,not hate speech
+614,and itfucking pisses me off.,not hate speech
+615,So look around you.,hate speech
+616,This isn't ourfucking neighbourhood.,hate speech
+617,It's a battlefield.,hate speech
+618,We're on a battlefield tonight.,hate speech
+619,Make a decision.,not hate speech
+620,Are we going to stand on the sidelines?,not hate speech
+621,Quietly standing there while our country gets raped?,hate speech
+622,Are we going to ante up and do something about it?,not hate speech
+623,You're goddamn right.,not hate speech
+624,Come here!,not hate speech
+625,Don't you know it's illegal...,hate speech
+626,"to hire fucking border jumpers, you nip bastard?",not hate speech
+627,"Hey, sweetheart.",not hate speech
+628,No. You don't need this.,not hate speech
+629,We're not going to hurt you.,not hate speech
+630,"Please, please! No!",not hate speech
+631,Youfucking spic!,not hate speech
+632, No! Please!,not hate speech
+633, This bitch deserves it.,not hate speech
+634,This bitch stinks. Smells like fish and chips and guacamole.,hate speech
+635,Here we go.,hate speech
+636,Goddamn!,not hate speech
+637,"Get the fuck off me, motherfucker!",hate speech
+638,Viva la Mexico!,not hate speech
+639,"Have afucking bean, youfucking beaner!",not hate speech
+640,Get some of that in there.,hate speech
+641,Throw it on.,not hate speech
+642,That's a great colour on you.,not hate speech
+643,Now you can get a white woman's job.,hate speech
+644,"A little better than this one, huh?",not hate speech
+645,"Yeah, white.",not hate speech
+646,Then you'll move up in the world.,not hate speech
+647,Asshole!,not hate speech
+648,Let's go!,hate speech
+649,Everybody out!,not hate speech
+650,Now! Now!,not hate speech
+651,"All right, let's go!",hate speech
+652,Come on!,not hate speech
+653,"Come on, let's go.",not hate speech
+654,"No green card, no fucking work.",hate speech
+655,Comprende?,not hate speech
+656,Come on!,not hate speech
+657,We're fucking going! Come on!,hate speech
+658,"Dad was gone, but things were almost normal again.",not hate speech
+659,Derek had a good job.,hate speech
+660,Mom was starting to live a little.,not hate speech
+661,"Everyone was feeling so good, we just didn't see it coming.",not hate speech
+662,Maybe we should've.,hate speech
+663,The irony is that most of the stores...,hate speech
+664,destroyed during the riots were owned by black people.,not hate speech
+665,"That's stupid, though.",not hate speech
+666,Why trash your neighbourhood?,not hate speech
+667,"Well, that's my point.",not hate speech
+668,It's an irrational act.,not hate speech
+669,It's like an expression of rage...,hate speech
+670,by people who feel neglected and turned away by the system.,not hate speech
+671,It's like we had in Watts orthe riots in Chicago in '68.,hate speech
+672,I don't buy that.,not hate speech
+673,Calling a riot an irrational expression of rage.,hate speech
+674,That's such a copout.,not hate speech
+675,It's opportunism at its worst.,not hate speech
+676,It's people grabbing any excuse they can find...,not hate speech
+677,"to go and loot a store, nothing more.",hate speech
+678,The fact that these people ripped off the stores...,hate speech
+679,"in their own communities, all that reflects...",not hate speech
+680,is that they have no respect forthe law at all...,not hate speech
+681,and certainly no concept of community...,hate speech
+682,or civic responsibility.,hate speech
+683,Now wait a minute.,not hate speech
+684,"White people commit crimes againstwhite people, too.",hate speech
+685,"Yeah, but they're not offing each other in record numbers.",not hate speech
+686,"Look at the statistics, for Christ's sake.",hate speech
+687,One in every three black males...,not hate speech
+688,is in some phase of the correctional system.,hate speech
+689,Is that a coincidence...,hate speech
+690,or do these people have a racial commitment to crime?,hate speech
+691,Not only that.,not hate speech
+692,They're proud of it.,hate speech
+693,Maybe it says something about prejudice...,hate speech
+694,in the judicial system.,not hate speech
+695,If you want to talk about criminal statistics...,not hate speech
+696,take a look at the social inequalities that produce them.,hate speech
+697,That's exactly what I hate.,not hate speech
+698,You're taking one thing and calling it something else...,hate speech
+699,and just alleviating the responsibility...,hate speech
+700,these people have fortheir own actions.,not hate speech
+701,"It's like saying, it's not a riot, it's rage.",hate speech
+702,"It's not crime, it's poverty.",not hate speech
+703,That's just nonsense.,not hate speech
+704,It's exactly what happened in this trial...,not hate speech
+705,because the media twisted things around...,not hate speech
+706,so people got allfocused on these cops...,hate speech
+707,and whether or not they were going to get convicted...,hate speech
+708,and whether Rodney King's civil rights had been violated.,hate speech
+709,Everybody lost sight of old Rodney King himself.,not hate speech
+710,The guy's a multiple felon by his own admission.,hate speech
+711,He's high as a goddamn kite...,not hate speech
+712,driving 120 miles an hour down the highway.,not hate speech
+713,He gets pulled over by a bunch of cops...,hate speech
+714,and he attacks them.,not hate speech
+715,He attacked police officers.,hate speech
+716,"That's the bottom line, and he walked.",hate speech
+717,And there's some yahoo there with a video camera...,hate speech
+718,who turned it on halfway through...,hate speech
+719,so that all we see is them hitting him.,hate speech
+720,You got Powell and Koon cracking him with billy clubs...,not hate speech
+721,and Briseno's kicking him in the back of the skull...,not hate speech
+722,"so it looks severe, you know?",hate speech
+723,"People are going, ""Oh, this poor guy."" This poor guy who attackedfour cops...",not hate speech
+724,and those cops end up on the stand...,hate speech
+725,defending themselves for using standard textbook procedures.,not hate speech
+726,I don't think the tapes showed that at all.,hate speech
+727,You didn't think so?,not hate speech
+728,And you're an authority?,not hate speech
+729,"Murray, what do you think?",not hate speech
+730,I did think the police used their clubs rather excessively.,hate speech
+731,Who are you to say what's excessive?,not hate speech
+732,I think itwas totally appropriate.,not hate speech
+733,They're in a better position to make that call than you are.,not hate speech
+734,"We, as society, grant cops a certain amount of authority...",not hate speech
+735,"to make those calls, because we acknowledge...",hate speech
+736,that their job is difficult and dangerous.,not hate speech
+737,Very few people respect that and respect that authority.,not hate speech
+738,Look who's talking about respect... Mr. Junior KKK.,hate speech
+739,What?,not hate speech
+740,You want to go to college?,hate speech
+741,Learn to listen.,not hate speech
+742,I didn't say I respect the laws.,not hate speech
+743,I acknowledge a cop's authority.,not hate speech
+744,I don't respect laws that let Rodney King back on the street.,not hate speech
+745,"Second, I am not a member of a lowrent...",hate speech
+746,disorganized bunch of rednecks like the fucking KKK. Please.,not hate speech
+747,So take your head out of your ass.,hate speech
+748,You've gotten off the point.,not hate speech
+749,I had a point.,not hate speech
+750,Thatwasn't even the point.,not hate speech
+751,Do you have one?,not hate speech
+752,What is your point?,hate speech
+753,"All right, think about this.",hate speech
+754,If Danny was walking across the street that night...,not hate speech
+755,and Rodney King plowed into him...,hate speech
+756,Can we drop this Rodney King thing?,hate speech
+757,Who would like some dessert?,hate speech
+758,We're having a discussion.,not hate speech
+759,"We're having a nice discussion, right?",not hate speech
+760,If Rodney King had been driving along...,hate speech
+761,hopped up on PCP and had killed Danny...,hate speech
+762,you'd be singing a different tune...,hate speech
+763,"I didn't see him hit anybody, and neither did you.",not hate speech
+764,"He didn't happen to kill anybody, thank God.",not hate speech
+765,"Keep it down, OK?",not hate speech
+766,Ally's sleeping.,not hate speech
+767,If thatfucking monkey had run some kid over...,hate speech
+768,everybody would have a very different opinion.,hate speech
+769,They'd be focused on Rodney King and not on these officers.,hate speech
+770,"But instead, he just attacked afew cops...",hate speech
+771,"so, suddenly, it's Hands Across America...",not hate speech
+772,forthis fucking total son of a bitch.,hate speech
+773,It blows my mind.,not hate speech
+774,We're so hung up on this notion thatwe have some obligation...,hate speech
+775,to help this struggling black man.,hate speech
+776,Cut him some slack until he can overcome...,not hate speech
+777,these historical injustices.,hate speech
+778,It's crap. This stuff just perpetuates it...,not hate speech
+779,all this liberal nonsense.,not hate speech
+780,Everyone's looking the otherway...,hate speech
+781,while our country rots from the inside out.,hate speech
+782,"I mean, Christ, Lincoln freed the slaves 130 years ago.",not hate speech
+783,How long does it take to get your act together?,hate speech
+784,"Jews have been persecuted for over 5,000 years.",not hate speech
+785,Are you saying it's wrong to feel sensitive...,not hate speech
+786,about antiSemitism?,hate speech
+787,"Oh, forget that.",not hate speech
+788,"I'm with you. I'm with you all the way, baby.",not hate speech
+789,I'm so sick of these liberal hypocrites.,not hate speech
+790,Here we go again.,hate speech
+791,I love this part.,not hate speech
+792,This is great.,not hate speech
+793,Look how they scapegoated Chief Gates.,hate speech
+794,Think they would've come down that hard on Willie Williams?,hate speech
+795,No way. That videotape was a setup to get rid of Gates.,hate speech
+796, Can I be excused?,not hate speech
+797, No. Don't interrupt.,hate speech
+798,Excuse me. I was talking.,not hate speech
+799,I listened to you.,not hate speech
+800, Who do you think you are?,not hate speech
+801, She's making a point.,not hate speech
+802,"Davina, sit down.",not hate speech
+803,Be quiet! Shut up! Sit down!,hate speech
+804," Derek, calm down.",not hate speech
+805, Don't tell him to shut up!,not hate speech
+806,Sit your ass down. No.,not hate speech
+807,Sit down. Shut your mouth.,not hate speech
+808,Move! Goddamn it! Move!,not hate speech
+809,Shut your mouth and give my girlfriend respect.,not hate speech
+810,"Derek, what are you trying to prove?",not hate speech
+811,"Murray, stay out of it!",hate speech
+812,Where do you think you're going?,not hate speech
+813,"Derek, let her go!",hate speech
+814,"You need to learn some fucking manners, Davina!",not hate speech
+815,Shut yourfucking mouth!,hate speech
+816,Stop!,not hate speech
+817,She can't breathe!,hate speech
+818,Let her go!,hate speech
+819,You going to apologize?,not hate speech
+820,You're afucking asshole.,not hate speech
+821,I hate you!,not hate speech
+822,What are you doing?,not hate speech
+823,This is yourfamily.,not hate speech
+824,Right.,not hate speech
+825,"My family, so you know what?",not hate speech
+826,I don't give two shits about you orwhat you think.,not hate speech
+827,You're not a part of it.,hate speech
+828, That has nothing to do with it.,not hate speech
+829, It doesn't?,not hate speech
+830,You don't think I see what you're doing?,not hate speech
+831,You think I'll sit here and smile...,hate speech
+832,while some fucking kike tries to fuck my mother?,not hate speech
+833,It's never going to happen.,not hate speech
+834,Fuckingforget it.,not hate speech
+835,Notwhile I'm in this family.,not hate speech
+836,I willfucking cut your Shylock nose off...,hate speech
+837,and stick it up your ass before I let that happen.,not hate speech
+838,Coming in here and poisoning my family's dinner...,not hate speech
+839,"with yourJewish, niggerloving, hippie bullshit.",not hate speech
+840,Fuck you. Fuck you.,not hate speech
+841,"Yeah, walk out.",not hate speech
+842,Asshole. Fucking cabalareading motherfucker.,not hate speech
+843,Get out of my house.,hate speech
+844,You see this?,not hate speech
+845,That means notwelcome.,hate speech
+846,What did I do?,not hate speech
+847,You disgust me.,not hate speech
+848,"Bring him to ourtable, primping your hair and your dress.",not hate speech
+849,What did I do?,not hate speech
+850,You're all tarted up.,not hate speech
+851,How could you bring him to my father's table?,not hate speech
+852,How could you go from Dad to that? Aren't you ashamed?,hate speech
+853,I'm ashamed that you came out of my body!,not hate speech
+854,Go run to yourfucking kike!,hate speech
+855,Run to him!,hate speech
+856,It's OK.,not hate speech
+857,"I'm proud of you, baby.",not hate speech
+858,"I'm so sorry, Doris.",not hate speech
+859,I really am.,not hate speech
+860,He's gone.,not hate speech
+861,He's just a boy without afather.,not hate speech
+862,"Doris, you don't know the world your children are living in.",not hate speech
+863,Goodbye.,not hate speech
+864,"Hey, you all right?",not hate speech
+865," Take this, youfucking dick!",not hate speech
+866, No. Come here.,not hate speech
+867, Fuck you!,not hate speech
+868, Calm down.,not hate speech
+869, Let go of me!,hate speech
+870, Calm down.,not hate speech
+871,"Let me go, God damn it!",not hate speech
+872, Fuck you!,not hate speech
+873, I'm sorry.,not hate speech
+874,I would never hurt you.,not hate speech
+875,You know that.,not hate speech
+876,I screwed up. I lost control.,not hate speech
+877,It's not you.,not hate speech
+878,I'm sorry.,not hate speech
+879,I'd never hurt you guys.,not hate speech
+880,You know that.,not hate speech
+881,I'd do anythingfor you.,not hate speech
+882,I don't believe you.,not hate speech
+883,"I trust you, Derek.",not hate speech
+884,What are you doing out of bed?,not hate speech
+885,Want a plane ride?,hate speech
+886, Yeah.,not hate speech
+887, Goingfortakeoff.,not hate speech
+888,"Oh, no, don't crash.",not hate speech
+889,Better go to Mom.,hate speech
+890,She's a crazy flier.,not hate speech
+891,"Kiss Mom. Oh, yeah.",not hate speech
+892, You don'tfeel too hot.,not hate speech
+893, No. It's my chest.,not hate speech
+894, What are you up to?,not hate speech
+895, I'm just thinking.,not hate speech
+896,Yeah? There's a lot of that going around.,not hate speech
+897,I don't even know how we got here sometimes.,hate speech
+898,"Lfeel like I let you down, only I didn't know when it happened.",hate speech
+899,"Mom, it's OK.",not hate speech
+900,It's cold in here.,not hate speech
+901,No wonder you're sick.,not hate speech
+902,You don't get sick from cold.,hate speech
+903,You get sick from germs.,hate speech
+904,No. You get sick from smoking.,hate speech
+905,You ought to quit.,not hate speech
+906,It's not goodfor you.,not hate speech
+907,What are you looking at me like thatfor?,hate speech
+908,When are you going to let that beautiful hair grow back?,not hate speech
+909,The day you quit smoking.,not hate speech
+910,Deal.,not hate speech
+911,I'd better get Ally to bed.,not hate speech
+912,You say good night to Mom?,not hate speech
+913,Then you have to go to bed.,hate speech
+914,Come on.,not hate speech
+915," Good night, Mama.",not hate speech
+916," Good night, baby.",not hate speech
+917,I go back to that night again and again in my mind.,not hate speech
+918,I try to stop itfrom happening.,not hate speech
+919,I want you out of this house.,hate speech
+920,That's fine.,not hate speech
+921,I'll be gone in the morning.,not hate speech
+922,He can move in with me.,not hate speech
+923,"In my mind, I imagine whatwould've happened...",not hate speech
+924,if I hadn't gone to that room and told him.,not hate speech
+925,Get down!,hate speech
+926,"No, Derek!",not hate speech
+927,"Help, Mommy!",hate speech
+928,"Nigger, you justfucked with the wrong bull. Come here!",not hate speech
+929,Damn!,not hate speech
+930,Should've learned your place on the fucking basketball court...,not hate speech
+931,but youfucking monkeys never get the message!,hate speech
+932,"My father gave me that truck, you motherfucker!",not hate speech
+933,You ever shoot atfiremen?,not hate speech
+934,You shoot at my family?,not hate speech
+935,"I'm going to teach you a real lesson now, motherfucker.",not hate speech
+936,Put yourfucking mouth on the kerb.,not hate speech
+937,"Hold on, man.",hate speech
+938,Put it on the kerb right now!,not hate speech
+939,That's it.,not hate speech
+940,"Derek, no!",not hate speech
+941,Now say good night.,not hate speech
+942,Fucker.,not hate speech
+943,Drop yourweapon!,hate speech
+944,Put yourweapon on the ground!,not hate speech
+945,Put your hands up!,not hate speech
+946,I said get your hands up!,not hate speech
+947,Now turn around!,not hate speech
+948,Put your hands behind your head!,not hate speech
+949,Get down on your knees right now!,not hate speech
+950,It's all right.,not hate speech
+951,Let's go.,not hate speech
+952, Come on.,not hate speech
+953, No.,not hate speech
+954,She ain't gonna open the door?,not hate speech
+955,Someone rightfucking there looking at us. Hello?,hate speech
+956,"Danny, it's for you.",not hate speech
+957,Be right there.,not hate speech
+958,"Open the door, Danny.",not hate speech
+959,It's fuckingfreezing!,not hate speech
+960,"Danny, I'm gonna be sick!",not hate speech
+961,"Come on, Danny!",not hate speech
+962,I'm gonna go get some beers.,not hate speech
+963,"Hey, what a party, fatso?",not hate speech
+964,"I'm notfat, asshole!",not hate speech
+965,I'm husky!,not hate speech
+966,"What the fuck's up, Seth?",hate speech
+967,"Drink up, Danny, before your brother sees you.",not hate speech
+968,"Holy fuck, he's here!",not hate speech
+969,"Yeah, he's fucking here.",not hate speech
+970,Go pay your respects.,hate speech
+971,"Fuck you, Seth!",not hate speech
+972,"Let's go talk to Cameron, Danny.",hate speech
+973, Father Vinyard?,not hate speech
+974, How's it going?,not hate speech
+975,"I'm Jason, this is Chris.",not hate speech
+976,We're friends with your brother.,hate speech
+977,"You are afucking god, man!",hate speech
+978,I thought you turned that paper in.,hate speech
+979,I did. Now fucking Murray turned me in...,not hate speech
+980,so Sweeney's making me write another one.,not hate speech
+981,Good old Sweeney.,not hate speech
+982,He never stops trying.,hate speech
+983,"He's one of those ""proud to be nigger"" people.",not hate speech
+984,I hate those guys.,hate speech
+985,"Wait a minute, Danny.",not hate speech
+986,He's not proud.,not hate speech
+987,"No. He's a manipulative, self righteous Uncle Tom.",not hate speech
+988,He's making youfeel guilty aboutwriting on Adolf Hitler.,not hate speech
+989,"Some nigger, some spic writes about Martin Luther King...",not hate speech
+990,orfucking Cesar commie Chavez gets a pat on the head.,hate speech
+991,Yeah.,not hate speech
+992,"You can see the hypocrisy in that, can't you?",not hate speech
+993,Definitely.,not hate speech
+994,"Come on, let's go.",not hate speech
+995,No. Listen. Wait.,hate speech
+996,"I want to see you, OK?",not hate speech
+997,"I do, but I gotta take care of something tonight.",hate speech
+998, OK.,not hate speech
+999, You understand?,not hate speech
+1000,Yeah. I'm here.,not hate speech
+1001,"When you're ready, I'm here.",not hate speech
+1002, Would you do something with me?,not hate speech
+1003, Anything.,not hate speech
+1004,Leave with me.,not hate speech
+1005,Leave where?,not hate speech
+1006,Leave here. Leave all this.,not hate speech
+1007,Just come with me.,not hate speech
+1008,Why would you want to leave?,not hate speech
+1009,They worship you.,not hate speech
+1010,You're like a god to them.,not hate speech
+1011,"If we had it good before, wait till you see what it's like now.",not hate speech
+1012,I don'twant all that.,not hate speech
+1013,I don'twant my family involved.,not hate speech
+1014,"Everything I've done here fucked it all up, understand?",hate speech
+1015,You think what you did was wrong?,not hate speech
+1016,"Oh, baby. Oh, come on.",not hate speech
+1017,Those niggers got exactly what they deserved...,hate speech
+1018,and we all know that.,hate speech
+1019,"I understand you just got out, but no one's gonna hurt you.",not hate speech
+1020,No one can touch you.,not hate speech
+1021,There's a small army out there.,hate speech
+1022,We're not gonna let a bunch of spooks kick us out.,not hate speech
+1023,You're not listening to me.,not hate speech
+1024,I'm not scared.,not hate speech
+1025,I don'twant it anymore.,not hate speech
+1026,I'm done with it.,not hate speech
+1027,I'm through with this.,not hate speech
+1028,"It's bullshit, Stacey.",not hate speech
+1029,"You don't need this, Stacey.",not hate speech
+1030,"Come on, trust me.",not hate speech
+1031,"If you want to be with me, just trust me. Come with me.",not hate speech
+1032,Come on.,not hate speech
+1033,You're nuts. You are nuts.,not hate speech
+1034,No way.,not hate speech
+1035,I don't think you realize what's been going on here.,not hate speech
+1036,"We are 10 times whatwe were, and we are bloody organized.",hate speech
+1037,It is like nothing you have ever seen.,not hate speech
+1038,This was a mistake. Forget it.,not hate speech
+1039,Wait a second.,not hate speech
+1040,Whatwas a mistake?,hate speech
+1041,"Stacey,just say goodbye.",not hate speech
+1042,This isn't you. I know you.,hate speech
+1043,"You don't know anything about me, Stacey.",hate speech
+1044, Are you Danny's brother?,not hate speech
+1045, Yeah.,not hate speech
+1046,Will you tell him Lizzy's lookingfor him?,not hate speech
+1047,Thank you.,not hate speech
+1048,"We'll let the niggers, kikes, and spics grab forthe pie.",hate speech
+1049,Can't blame 'em.,not hate speech
+1050,"Course, they're gonna have to fight to get it.",not hate speech
+1051,And if we scare the fuck out of people...,hate speech
+1052,"and afew people get killed in the process, so be it.",hate speech
+1053,"Gonna put that in your paper, Danny?",not hate speech
+1054,"Hey, man.",not hate speech
+1055,"Well, look who's here.",not hate speech
+1056,The return of the soldier.,hate speech
+1057,"What are you doing here, Danny?",not hate speech
+1058,"Come on, man.",hate speech
+1059,I had to check it out.,not hate speech
+1060,You knew I was gonna come.,not hate speech
+1061,"Let the kid alone, Derek.",hate speech
+1062,He knows when to go to bed.,hate speech
+1063,Go wait outside.,hate speech
+1064,"Come on, Der.",not hate speech
+1065,I'm not doing anything.,not hate speech
+1066,This little blonde girl keeps askingfor you.,not hate speech
+1067,She's dying. Come on.,not hate speech
+1068, I gotta check out.,not hate speech
+1069, Go easy on her.,not hate speech
+1070,All right.,not hate speech
+1071,Waitfor me right outside.,not hate speech
+1072,Take it easy.,not hate speech
+1073,Chill out.,not hate speech
+1074,You're on safe ground.,not hate speech
+1075,You don't have to watch your ass around here.,not hate speech
+1076,Come on. Sit down. Relax.,not hate speech
+1077,I'm sorry.,not hate speech
+1078,The party was a little quick...,not hate speech
+1079,"butwe're just so damn glad you're back, Derek.",not hate speech
+1080,It's only natural you shouldfeel a little funny.,not hate speech
+1081,"I don'tfeelfunny, Cam.",not hate speech
+1082,You made the fat kid a little nervous.,not hate speech
+1083,He thinks the joint messed with your mind.,not hate speech
+1084,It did.,not hate speech
+1085,"Glory, glory, hallelujah...",not hate speech
+1086,"Glory, glory, hallelujah...",not hate speech
+1087,The white man marches on!,hate speech
+1088,Things have changed since you've been gone.,not hate speech
+1089,You talk about organization?,not hate speech
+1090,Wait'll you see what we've done with the internet.,not hate speech
+1091,We've got every gang from Seattle to San Diego...,not hate speech
+1092,working together now.,not hate speech
+1093,Not competing anymore.,not hate speech
+1094,They're consolidated.,not hate speech
+1095,Only thing we lack is a little overall leadership.,hate speech
+1096,That's where you come in.,not hate speech
+1097,Those people out there got a lot of respectfor you.,hate speech
+1098,"When you're ready, come talk to me about it.",not hate speech
+1099,You can forget about that.,not hate speech
+1100,"I'm done with it, Cam.",not hate speech
+1101,"Yeah, well, I know you grew out of...",hate speech
+1102,"that shaved head bullshit a long time ago, thank God.",not hate speech
+1103,I like your hair the way it is now.,not hate speech
+1104,"See, that's what I mean.",not hate speech
+1105,We're thinking bigger now.,not hate speech
+1106,No more of this fucking grocery store...,hate speech
+1107,You're not listening to me.,not hate speech
+1108,I am done with it.,not hate speech
+1109,"All that bullshit out there and all your bullshit, too.",hate speech
+1110,I'm out.,not hate speech
+1111,I understand how youfeel.,hate speech
+1112,You've just done hard time.,not hate speech
+1113,Don't youfucking talk to me about hard time.,hate speech
+1114, You don't know anything.,not hate speech
+1115, I've done mine.,not hate speech
+1116,You didn't do shit.,not hate speech
+1117,Ifound out about you.,hate speech
+1118,"You did two months, then rolled over on two kids...",not hate speech
+1119,and let them go down for you.,hate speech
+1120,"So don'tfeed me yourfucking lies, Cameron.",hate speech
+1121,All right. This is stupid.,not hate speech
+1122,I'm done.,not hate speech
+1123,You go cool off.,not hate speech
+1124,Get laid. Do something.,not hate speech
+1125,"Get your head on straight, and then I'll talk to you.",not hate speech
+1126,"But it doesn't matter if I don't, does it?",not hate speech
+1127,'Cause you got the next crop...,hate speech
+1128,"lined up and ready to go, youfucking chicken hawk.",not hate speech
+1129,Excuse me?,hate speech
+1130,"You prey on people, Cam!",not hate speech
+1131,You use them!,not hate speech
+1132,I lost three years of my life for yourfucking phoney cause...,hate speech
+1133,"but I am on to you now, youfucking snake.",not hate speech
+1134,"Derek, watch it. Be careful.",not hate speech
+1135,Rememberwhere you are.,hate speech
+1136,This isn't some fucking country club you can waltz in and out...,not hate speech
+1137,Shut up! Shut the fuck up!,hate speech
+1138,I came here to tell you one thing. I am out.,not hate speech
+1139,"Out! And Danny is out, too!",hate speech
+1140,"If you come near my family, I'llfucking kill you.",not hate speech
+1141,"Excuse me, butfuck you, Derek.",not hate speech
+1142,You can't come barking threats at me.,not hate speech
+1143,"You can do whatever you want, but Danny is a good kid.",not hate speech
+1144,He's not some whiny pussy like you.,not hate speech
+1145,"He needs my help, and I'm gonna give it to him.",not hate speech
+1146,If you come near Danny again...,not hate speech
+1147,"I willfeed you yourfucking heart, Cameron.",not hate speech
+1148,I won't have to.,hate speech
+1149,He'll come to me.,not hate speech
+1150,I'm more important to him now than you'll ever be.,not hate speech
+1151,Shit.,not hate speech
+1152,"You're afucking dead man, Vinyard.",not hate speech
+1153,"Hey, where's Cameron?",not hate speech
+1154,Where the fuck is he?,not hate speech
+1155,"Stay away from me, Stacey.",hate speech
+1156,Danny!,not hate speech
+1157,Why don't you share with the rest of us...,not hate speech
+1158,"what you just said to me, you piece of shit nigger!",not hate speech
+1159,You monkeyfucking traitor!,not hate speech
+1160,You afucking niggerfucker?,not hate speech
+1161,"Hey, Danny! Come on!",not hate speech
+1162,He's afucking nigger!,not hate speech
+1163,Nigger! Nigger!,not hate speech
+1164,Cam's out cold!,hate speech
+1165,Where the fuck are you going?,not hate speech
+1166,Gun! He's got a gun!,not hate speech
+1167,Shit! Back up!,not hate speech
+1168,You make me fucking sick!,not hate speech
+1169,Put down the fucking gun!,not hate speech
+1170,Shoot the nigger!,hate speech
+1171,Shoot him!,hate speech
+1172,"Do it, Seth! Shoot him!",not hate speech
+1173,Traitor!,not hate speech
+1174,"Do it, Seth! Do it!",not hate speech
+1175,Back up! Move!,not hate speech
+1176,Back up! Back the fuck up!,hate speech
+1177,Move! Move!,not hate speech
+1178,"Easy, Derek! Hey!",not hate speech
+1179,"Easy, Danny!",not hate speech
+1180,Who do you think you are?,not hate speech
+1181," Danny, relax.",not hate speech
+1182, Who do you think you are?,not hate speech
+1183,"Take it easy, Dan.",not hate speech
+1184,"Lfucking hate you, Der!",not hate speech
+1185,All right. I mean it.,hate speech
+1186,Huh?,not hate speech
+1187,Come on. Shut up.,not hate speech
+1188,Take it easy.,not hate speech
+1189,"What's happened to you, Der?",not hate speech
+1190,Take it easy.,not hate speech
+1191,"What's happened to you, Der?",not hate speech
+1192,Come on. Come on.,not hate speech
+1193,It's just so fucked.,hate speech
+1194,I'm sorry. You weren't supposed to see that.,not hate speech
+1195,I told you not to come.,not hate speech
+1196,"Fuck you, man.",not hate speech
+1197,Thatwas so fucked up.,not hate speech
+1198,"I know, I know.",hate speech
+1199,"God, itwasn't supposed to happen thatway.",hate speech
+1200,Thatwas fucked up.,not hate speech
+1201,That's all there is to it.,not hate speech
+1202,That's notwhat I planned.,not hate speech
+1203,It just all went to shit.,not hate speech
+1204,Just shit.,not hate speech
+1205,Got totally out of control.,hate speech
+1206,What's fucking happening here?,not hate speech
+1207,"Hey, look at me.",not hate speech
+1208,"I can't go back to that, Dan.",hate speech
+1209,Can't go back to what?,hate speech
+1210,To any of it.,not hate speech
+1211,"Those guys, the gang, that life.",hate speech
+1212,I'm done with it.,not hate speech
+1213,What happened to you up there?,not hate speech
+1214,Feed line. Back upfor chow.,not hate speech
+1215,"Don't be late, you piece of shit!",hate speech
+1216,Let's go if you want to eat!,hate speech
+1217,Get up! Five minutes!,not hate speech
+1218,This is my fucking house!,not hate speech
+1219,Get up!,hate speech
+1220,"What the fuck's your problem, you assholes?",not hate speech
+1221,Move! Let's go!,hate speech
+1222,Open the fucking gates!,not hate speech
+1223,"All right, rack 'em!",hate speech
+1224,Five minutes! Stepforward!,not hate speech
+1225,Those beds better be made.,hate speech
+1226,"Aftertwo days, I didn't think I'd make it a week.",not hate speech
+1227,"Come on, you motherfuckers!",not hate speech
+1228,"You want to eat today, youfucking piece of shit?",not hate speech
+1229,"Hey, you white trash piece of shit!",not hate speech
+1230,"You think you're fucking special, whitefish?",not hate speech
+1231,Button that top button!,hate speech
+1232,Let's go! Move!,hate speech
+1233,Are you eyeballing me?,hate speech
+1234,"Don't eyeballfuck me, asshole!",not hate speech
+1235,I'llfucking kill you!,not hate speech
+1236,"I'm gonna keep my eye on you, you white piece of shit!",not hate speech
+1237,"Don'tfucking eyeball me, boy!",not hate speech
+1238,I'llfucking skullfuck you!,not hate speech
+1239,Stepforward!,not hate speech
+1240,Turn to the left.,hate speech
+1241,Stepforward to chow! Let's go!,hate speech
+1242,Come on!,not hate speech
+1243,"Hey, fish, straight ahead.",not hate speech
+1244,"Straight ahead, fucker!",not hate speech
+1245,Let's go!,hate speech
+1246,All the wrong people knew who I was anyway...,not hate speech
+1247,so lfigured I'd put up aflag and hope afriend sees it.,not hate speech
+1248,That's the cat I'm talking about right there.,not hate speech
+1249,Boss.,not hate speech
+1250,Have a seat.,hate speech
+1251,It's a pleasure.,hate speech
+1252,"Don'tfuck with me, all right?",not hate speech
+1253,'Cause I'm the most dangerous man in this prison.,not hate speech
+1254,You know why?,not hate speech
+1255,'Cause I control the underwear.,hate speech
+1256,"We pick 'em up over here, and we store 'em overthere.",hate speech
+1257,"And I hope you work out, all right?",not hate speech
+1258,'Cause the last guy they sent me didn'twear no drawers...,not hate speech
+1259,couldn't read the sizes in the drawers...,not hate speech
+1260,"and used to sniff the drawers, all right?",not hate speech
+1261,"We got two sizes... medium and large, all right?",not hate speech
+1262,All you gotta do is put the mediums with the mediums...,not hate speech
+1263,"and the larges with the larges, all right?",not hate speech
+1264,I know it's a boring job...,hate speech
+1265,but it's betterthan that last shit they had me doing.,not hate speech
+1266,I spent two years in the kitchen scrubbing hotass pots and pans.,hate speech
+1267,"That you don'twanna do, all right?",not hate speech
+1268,You should be happy as shit you landed this job.,not hate speech
+1269,There's no telling what they'd have you do up in the joint.,not hate speech
+1270,By the way...,not hate speech
+1271,what you in for?,not hate speech
+1272,"Probably robbed some old lady, huh?",not hate speech
+1273,"OK, I know your kind, right?",not hate speech
+1274,Badass peckerwood with an attitude.,not hate speech
+1275,"Let me tell you something, man, you betterwatch your ass...",not hate speech
+1276,"'cause in the joint, you the nigger, not me.",not hate speech
+1277,I was a year in.,hate speech
+1278,I thought I was cruising.,hate speech
+1279,Then everything started getting complicated.,not hate speech
+1280,What the fuck is that?,not hate speech
+1281,What's that all about?,not hate speech
+1282,"That's just politics, man.",not hate speech
+1283,"Favours, you know?",not hate speech
+1284,He's doingfavours forthatfucking spic?,not hate speech
+1285,Mitch has just got a little something extra...,not hate speech
+1286,"on the side with them boys, you know?",not hate speech
+1287,"You're kidding, right?",not hate speech
+1288,No.,hate speech
+1289,"That's bullshit, man.",not hate speech
+1290,Somebody should say something to him.,not hate speech
+1291,What the fuck is he thinking?,hate speech
+1292,Mitch is the only reason you're not a corpse right now.,not hate speech
+1293,You know what?,not hate speech
+1294,I don'tfucking give a shit.,not hate speech
+1295,I can take care of myself.,not hate speech
+1296,He shouldn't be doing that.,not hate speech
+1297,"I'm getting sick of it, man.",not hate speech
+1298,There's a lot of hard talk here and no followthrough.,hate speech
+1299,I think you better chill out on the preaching bullshit.,not hate speech
+1300,We're getting a little tired of that shit around here.,not hate speech
+1301,Ease up on it.,not hate speech
+1302,"What are you doing here, Doris?",not hate speech
+1303,I was in the neighbourhood.,not hate speech
+1304,"Look, I told you I don'twant you all coming up here.",not hate speech
+1305,"I don't care what you told me, OK?",not hate speech
+1306,I need to talk to you now.,not hate speech
+1307,"So, how is everyone?",not hate speech
+1308,Davina's great. She's getting straight As almost.,not hate speech
+1309,"And Ally's walking, starting to talk a little.",not hate speech
+1310,How's Danny?,not hate speech
+1311,He holds you up so high.,hate speech
+1312,He thinks you're the greatest.,not hate speech
+1313,He's always bragging about you to Cameron...,not hate speech
+1314,and all his new friends.,not hate speech
+1315,He's starting to remind me of you.,not hate speech
+1316,"Jesus, don't sound so worried, all right?",not hate speech
+1317,I'm sure he's fine.,not hate speech
+1318,"He's 16 years old, Doris.",not hate speech
+1319,He's not gonna be a little angelforever.,not hate speech
+1320,You think because I watched my firstborn...,not hate speech
+1321,fuck up his entire life that I can sit here...,hate speech
+1322,and see my baby follow him down the same toilet?,not hate speech
+1323,I can'tfix all this shit from up here.,not hate speech
+1324,I'm not asking you to.,not hate speech
+1325,All it does is make me feel bad.,not hate speech
+1326,You're just making it harder.,not hate speech
+1327,"You think you're the only one doing time, Derek?",not hate speech
+1328,You think you're here all alone?,not hate speech
+1329,You think I'm not in here with you?,not hate speech
+1330,"Fuck, man.",hate speech
+1331,Every day I watch you go through these sheets...,not hate speech
+1332,like you gonna get to the end of them.,not hate speech
+1333,"Look, nigger, will you chill the fuck out?",not hate speech
+1334,Goddamn!,not hate speech
+1335,No matter how fast you get through them...,not hate speech
+1336,they gonna keep bringing them in and bringing them in.,not hate speech
+1337,Throwing them around like that...,hate speech
+1338,ain't gonna do a damn thing but give you a heart attack!,not hate speech
+1339,And you know what?,not hate speech
+1340,That's cool with me!,not hate speech
+1341,"But you gonna give me a goddamn heart attack, too!",not hate speech
+1342,"I know, I'm just a dumb, stupid nigger, right?",not hate speech
+1343,What do I know?,not hate speech
+1344,"I know I ain't the one getting mad at them sheets, though.",not hate speech
+1345,"As a matter of fact, the only sheets I get mad at...",not hate speech
+1346,I'll tell you.,not hate speech
+1347,"All right, boy, this is whatwe gonna do.",not hate speech
+1348,We gonna hate some niggers.,not hate speech
+1349,That's whatwe'll do today.,not hate speech
+1350,We gonna hate some goddamn niggers.,not hate speech
+1351,That's all we gonna do is hate some niggers all day.,not hate speech
+1352,"Don't know what a nigger is, butwe gonna hate them.",hate speech
+1353,My cousin Derek is in the pen right now...,not hate speech
+1354,"workin' next to a nigger, driving him nigger crazy.",hate speech
+1355,See? That's the ticket.,not hate speech
+1356,Nice and easy.,not hate speech
+1357,Now we can ignore each other in peace.,not hate speech
+1358,"""What are you doing?"" You know what he tells me?",hate speech
+1359,"""It's betterthan the pig I just tried to fuck."" He never lets me finish the joke.",hate speech
+1360,"Youfuck him, too?",hate speech
+1361,"Whatever. She's laying on her back, her legs are open...",not hate speech
+1362,What's up? How you doing?,not hate speech
+1363,There you go.,not hate speech
+1364,He was taking it from the Mexicans...,hate speech
+1365,and dealing it out to his own people.,hate speech
+1366,He didn't believe in shit.,not hate speech
+1367,None of them did.,not hate speech
+1368,"What? Come on, man.",not hate speech
+1369,Don't look at me like that.,hate speech
+1370,You know what that smells like.,not hate speech
+1371,Don't tell me this smell don't remind you of a woman.,hate speech
+1372,"God, I miss that smell, man.",hate speech
+1373,The job I had on the outside wasn't much betterthan this...,not hate speech
+1374,but at least I got to go home every night...,hate speech
+1375,"and lie down next to that sweet smell, man.",hate speech
+1376,"God, I miss that.",not hate speech
+1377,You got a woman?,hate speech
+1378,"Yeah, you got a woman, man.",hate speech
+1379,"Let me give you some advice, all right?",not hate speech
+1380,When she comes to visit you...,not hate speech
+1381,"whatever you do, no matterwhat...",not hate speech
+1382,"don't let her leave here in afight, man.",hate speech
+1383,Don't let herwalk out with a bad attitude...,hate speech
+1384,"'cause if you do, you spend the nextweek...",not hate speech
+1385,wondering if she's getting her fuck on with somebody else...,not hate speech
+1386,you know what I'm saying?,not hate speech
+1387,"So when she come to see you, it's nothing but sweet talk.",not hate speech
+1388,"Send her away floating, all right?",not hate speech
+1389,'Cause it's not like the real world where you can fight...,not hate speech
+1390,'cause you can make up and have that makeup sex.,not hate speech
+1391,Know what I'm saying?,not hate speech
+1392,That angry sex.,hate speech
+1393,That sex with an attitude.,hate speech
+1394,You lay on your back and let her take out that aggression on you.,not hate speech
+1395,"All guys know that, man.",hate speech
+1396,That's that good sex.,not hate speech
+1397,"That's that pow, pow, pow.",not hate speech
+1398,"Let her get on top, and she'll punish youfirst.",hate speech
+1399,"""You been a bad boy, huh?",not hate speech
+1400,"""You been a bad boy, and I'm gonna punish you.",not hate speech
+1401,"""I'm gonna put it on you.",not hate speech
+1402,"""Don't you ever...",not hate speech
+1403,let... me... catch... you...,not hate speech
+1404,"""looking at... another... woman.",hate speech
+1405,"Yeah, yeah.",not hate speech
+1406,"""I may forgive you if you bring it.",not hate speech
+1407,"""I think I can. L... lforgive.",not hate speech
+1408,"""lforgive. Right there.",not hate speech
+1409,You're hitting it.,not hate speech
+1410,"""My spot. That's it. Right.",not hate speech
+1411,"""Yes. Ifor... lforgive you.",not hate speech
+1412,Iforgive you.,not hate speech
+1413,"""lfor... lfor...",not hate speech
+1414,Ifor... lforgive you!,not hate speech
+1415,"""I love you!"" How do youfigure the Lakers to ever be a bigger dynasty...",not hate speech
+1416,than the Celtics?,not hate speech
+1417,"The Lakers are aflareup, afluke.",hate speech
+1418,Are you crazy?,not hate speech
+1419,One good coach forfour years.,not hate speech
+1420,The Celtics are a dynasty!,hate speech
+1421,"Come on, man.",hate speech
+1422,"The Celtics, right?",not hate speech
+1423,The ugliest team in the history of sports.,not hate speech
+1424,"A dynasty of ugly motherfuckers, man.",hate speech
+1425,Look at Kevin McHale.,hate speech
+1426,James Worthy. That guy has a head like a melon.,hate speech
+1427,He had ladies.,hate speech
+1428,I can't even talk to you.,not hate speech
+1429,I don't know what you're saying.,not hate speech
+1430,You are tweaking.,not hate speech
+1431,Boston Celtics.,hate speech
+1432, How many is that?,not hate speech
+1433, That's enough.,not hate speech
+1434,Enough? All right.,not hate speech
+1435,You got that?,not hate speech
+1436," I lost count, man.",hate speech
+1437," Doesn't matter, man.",not hate speech
+1438,Who's counting anyway?,not hate speech
+1439,"All right, so I wanna know something.",not hate speech
+1440,What the fuck landed you in here?,not hate speech
+1441,"You didn't kill anybody, too skinny for a gangbanger.",not hate speech
+1442,Ain't that a bitch?,not hate speech
+1443,Don't judge a book by its cover.,hate speech
+1444,I can throw these things.,not hate speech
+1445,Whatever. Come on.,not hate speech
+1446,What did you do?,not hate speech
+1447,None of your business.,not hate speech
+1448,It's embarrassing.,not hate speech
+1449,It's none of your goddamn business.,not hate speech
+1450,Come on. Everybody in here is embarrassed.,not hate speech
+1451,Nobody in here got away with anything.,not hate speech
+1452,What'd you do?,not hate speech
+1453,"Look, man, I stole a TV, all right?",hate speech
+1454,So you stole a TV.,hate speech
+1455,What's embarrassing about that?,not hate speech
+1456,I stole a TVfrom a store next to a doughnut shop.,hate speech
+1457,"I ran out, the owner's right behind me yelling.",not hate speech
+1458,Bam! I run into three cops.,hate speech
+1459,I told you itwas embarrassing.,not hate speech
+1460,You're laughing.,not hate speech
+1461,"Wait a sec, wait a sec.",not hate speech
+1462,That don't make sense.,not hate speech
+1463,"Nah, you didn't get six years for stealing a TV. Come on.",not hate speech
+1464,"I come out, the police officer grabs my arm...",hate speech
+1465,the TVfalls on his foot and breaks it.,not hate speech
+1466,They said I threw the TV at him.,not hate speech
+1467,Assault. Six years.,not hate speech
+1468,Come on. Tell the truth.,not hate speech
+1469,You chucked it at him.,not hate speech
+1470,"Like I said, I came out of the store...",hate speech
+1471,"he grabbed my arm, itfell on his foot.",not hate speech
+1472,Come on now.,not hate speech
+1473,"What you gotfor me, huh?",not hate speech
+1474,"There you go, baby!",not hate speech
+1475,Yeah!,not hate speech
+1476,That's what I'm talking about.,not hate speech
+1477,Fuck you!,not hate speech
+1478,Give me a towel. Hold him.,not hate speech
+1479,"You wanna be a nigger, sweet boy?",not hate speech
+1480, Fuck you!,not hate speech
+1481, We gonna treat you like one.,hate speech
+1482, No.,not hate speech
+1483, Come on.,not hate speech
+1484,"Come on, give it to him!",not hate speech
+1485,Fuck you!,not hate speech
+1486,Thatwas real sweet.,not hate speech
+1487,Fuck you!,not hate speech
+1488,How is he?,hate speech
+1489,"Well, he took six stitches.",not hate speech
+1490,"Man, what the hell are you doing here, anyway?",not hate speech
+1491,"I came to talk about Danny, but we don't have to do that now.",hate speech
+1492,I brought you some books.,not hate speech
+1493,"What about him, you know?",not hate speech
+1494,Don't keep me in suspense.,not hate speech
+1495,He's headed rightwhere you are.,hate speech
+1496,You know what? My mother already laid this trip on me.,not hate speech
+1497,Danny's not my responsibility.,not hate speech
+1498,What do you expect me to do with that?,not hate speech
+1499,It doesn't help me.,not hate speech
+1500,Am I supposed to feel guilty?,not hate speech
+1501,I don'twant you to do anything.,not hate speech
+1502,I need to know the truth about how youfeel.,hate speech
+1503,You think I want him in here?,not hate speech
+1504,I mean... I don't know.,not hate speech
+1505,I don't know what lfeel.,hate speech
+1506,I'm all...,not hate speech
+1507,lfeel a little inside out.,not hate speech
+1508,"I'm, you know... I don't know.",not hate speech
+1509,There's some things that... that don'tfit.,not hate speech
+1510,"Well, that happens.",not hate speech
+1511,You are too damn smart to be floating around here...,hate speech
+1512,pretending you don't see all the holes in this bullshit.,not hate speech
+1513,"Hey, listen.",not hate speech
+1514,I said I was confused.,not hate speech
+1515,I didn't say I didn't believe in it.,not hate speech
+1516,All right. That's why you have to stay open.,not hate speech
+1517,"Right now, your anger is consuming you here.",not hate speech
+1518,Your anger is shutting down the brain God gave you.,not hate speech
+1519,"God. You know, man?",not hate speech
+1520,You've been talking about...,not hate speech
+1521,what's going on with me since I was in high school.,not hate speech
+1522,How the fuck do you know what's going on inside me?,not hate speech
+1523,"No, I know about me.",hate speech
+1524,I know about this place.,hate speech
+1525,I know about the place you are in.,hate speech
+1526,What do you know about the place I'm in?,hate speech
+1527,There was a moment...,hate speech
+1528,when I used to blame everything and everyone...,not hate speech
+1529,for all the pain and suffering...,hate speech
+1530,and vile things that happened to me...,not hate speech
+1531,that I saw happen to my people.,not hate speech
+1532,Used to blame everybody.,hate speech
+1533,"Blamed white people, blamed society, blamed God.",hate speech
+1534,I didn't get no answers 'cause I asked the wrong questions.,hate speech
+1535,You have to ask the right question.,not hate speech
+1536,Like what?,not hate speech
+1537,Has anything you've done made your life better?,not hate speech
+1538,"You gotta help me, man.",hate speech
+1539,Just help me.,hate speech
+1540,"Get me out of here, you know?",hate speech
+1541,I'm up in four months for review.,not hate speech
+1542,Put in a wordfor me.,not hate speech
+1543,"I already have. So you're out there, and then what?",hate speech
+1544,I don'twant to fuck up my family anymore.,not hate speech
+1545,I'll go as far away as I can get.,not hate speech
+1546,That's not good enough.,not hate speech
+1547,"You want my help, you gotta do betterthan that.",not hate speech
+1548,My help is not unconditional.,not hate speech
+1549,Running just ain't good enough.,not hate speech
+1550,Fuck him. Fuck him.,not hate speech
+1551,Fuck him.,not hate speech
+1552,Let the niggers have him.,not hate speech
+1553,"What's up, D?",hate speech
+1554,What's all that bullshit you pulled in the mess hall?,not hate speech
+1555,You out of yourfuckin' mind?,hate speech
+1556,Are youfuckin' crazy?,hate speech
+1557,"D, look at me, man!",hate speech
+1558,You can't make it in here on your own.,not hate speech
+1559,I'm not afraid of those fuckin' pussies.,hate speech
+1560,"There was six of them, and they jumped me.",hate speech
+1561,Thatwon't happen again.,not hate speech
+1562,I hope they fuckin' try.,not hate speech
+1563,"Man, I'm not talking about your peckerwoodfriends!",not hate speech
+1564,They're protecting your stupid ass!,not hate speech
+1565,You dissed them in public!,not hate speech
+1566,Now you're on yourfuckin' own!,not hate speech
+1567,"Yo, man, I'm talking about the brothers, all right?",not hate speech
+1568,"They'llfuck you, then smoke your motherfucking ass!",not hate speech
+1569,Why don't you tell me something I don't know?,not hate speech
+1570,You think I haven't thought about that?,not hate speech
+1571,"If they come for me, they come.",not hate speech
+1572,There ain't nothing I can do.,not hate speech
+1573,"What can I do, man?",not hate speech
+1574,So I was right back where I started.,not hate speech
+1575,Every day I was sure itwas my day.,not hate speech
+1576,Every time I stepped out of my cell...,not hate speech
+1577,every time I got in that shower...,not hate speech
+1578,lfigured itwas only a matter of time...,not hate speech
+1579,before they made a move.,not hate speech
+1580,I just hoped it'd be quick.,not hate speech
+1581,But it never came.,hate speech
+1582,I couldn'tfigure it out.,not hate speech
+1583,I knew some of them were itchingfor it.,not hate speech
+1584,"After awhile, I just put my head down...",not hate speech
+1585,and read the stuff that Sweeney sent me...,not hate speech
+1586,and I kept to myself.,hate speech
+1587,"Last six months in that place, I was like a ghost.",hate speech
+1588,"What's up, man?",hate speech
+1589,You getting out?,not hate speech
+1590,"Come on, man.",hate speech
+1591,What the fuck you waiting on?,not hate speech
+1592,"Get the fuck on outta here, man.",hate speech
+1593,"Yeah, you know, I got this funny feeling.",not hate speech
+1594,"Oh, yeah? What's that?",not hate speech
+1595,I'm thinking maybe the only reason...,hate speech
+1596,I'm getting out of here in one piece is you.,not hate speech
+1597,"Come on, man!",not hate speech
+1598,Get the fuck outta here!,hate speech
+1599,You think I'm gonna put my neck on the line...,not hate speech
+1600,for some crazy ass peckerwood?,not hate speech
+1601,Yeah. Right.,not hate speech
+1602,Stupid.,not hate speech
+1603,That's what I thought.,not hate speech
+1604,"I owe you, man.",not hate speech
+1605,"Man, you don't owe me shit, all right?",not hate speech
+1606,"Yes, I do.",not hate speech
+1607,You'll be outta here in no time.,not hate speech
+1608,"Man, it's a piece of cake, all right?",not hate speech
+1609,"Just take it easy on the brothers, all right?",not hate speech
+1610,The brothers!,not hate speech
+1611,"God, man.",hate speech
+1612,"Sorry, Derek.",not hate speech
+1613,Sorry that happened to you.,hate speech
+1614,"Well, I'm not. I'm lucky.",not hate speech
+1615,"Lfeel lucky, 'cause it's wrong, Dan.",not hate speech
+1616,"It's wrong, and itwas eating me up.",not hate speech
+1617,Itwas gonna kill me.,not hate speech
+1618,And I kept asking myself all the time...,not hate speech
+1619,"how did I buy into this shit, you know?",not hate speech
+1620,It's just 'cause I was pissed off.,not hate speech
+1621,Nothing I ever did evertook thatfeeling away.,not hate speech
+1622,"I killed two guys, Danny.",hate speech
+1623,I killed them.,hate speech
+1624,And it didn't make me feel any different.,not hate speech
+1625,Just got me more lost...,hate speech
+1626,"and I'm tired of feeling pissedoff, Danny.",not hate speech
+1627,I'm just tired of it.,not hate speech
+1628,And I'm not telling you what to do.,not hate speech
+1629,I'm really not.,not hate speech
+1630,But I need you to understand...,not hate speech
+1631,"'cause I love you, and you're my bestfriend.",not hate speech
+1632,Do you understand?,not hate speech
+1633,"Yeah, I understand.",not hate speech
+1634,All right.,not hate speech
+1635,Jesus.,not hate speech
+1636,Hi. Everything OK?,not hate speech
+1637,"Ah, everything's great.",not hate speech
+1638,Great. Yeah.,not hate speech
+1639,You wanna sleep in our room?,not hate speech
+1640, No. Thank you.,not hate speech
+1641, You sure?,not hate speech
+1642,Yeah. This is good.,hate speech
+1643,Thank you.,not hate speech
+1644,"All right. Come on, let's go.",not hate speech
+1645,Good night.,hate speech
+1646,"I'm gonna take a shower, all right?",not hate speech
+1647,It's hard to look back...,hate speech
+1648,and see the truth about people you love.,not hate speech
+1649,I think if you asked Derek why it all went the way it did...,not hate speech
+1650,and where it all started...,not hate speech
+1651,he'd still say it started when ourfatherwas murdered.,not hate speech
+1652,"The truth is, it started earlier.",not hate speech
+1653,Are we all meeting forthe game tonight?,hate speech
+1654,Definitely.,not hate speech
+1655,"All right, Ben's Burger at 7:00...",not hate speech
+1656,then we go watch the big guy play.,not hate speech
+1657,Psyching upforthe game?,not hate speech
+1658,I'm always ready forthat.,not hate speech
+1659,I got an English exam.,hate speech
+1660,I'm having a heart attack.,not hate speech
+1661,I'm not ready.,not hate speech
+1662,What's the matter?,not hate speech
+1663,"Afraid you'll get a ""B""?",hate speech
+1664,Might do you good. Bminus.,not hate speech
+1665,"Hey, don't laugh.",not hate speech
+1666,This guy is different.,not hate speech
+1667,Dr. Sweeney.,not hate speech
+1668,This guy's unbelievable.,not hate speech
+1669,Unbelievable. I've never had a teacher like this.,hate speech
+1670,He's got two Ph.D.s.,not hate speech
+1671,I don't know what he's doing teaching at our school.,not hate speech
+1672,What's he got you reading?,not hate speech
+1673,"We got this essay exam on ""Native Son."" ""Native Son""?",hate speech
+1674,I don't know that.,hate speech
+1675,That's a big surprise.,not hate speech
+1676,What? I read.,not hate speech
+1677,"Honey, they don't teach Tom Clancy in school.",not hate speech
+1678,"Well, they don't.",hate speech
+1679,"So what is this ""Native Son""?",hate speech
+1680,It's this book about this black guy.,not hate speech
+1681,We're doing this whole black literature unit.,not hate speech
+1682,Is it Black History Month?,not hate speech
+1683,"No, it's just this guy Sweeney, you know?",not hate speech
+1684,It's part of the course now.,hate speech
+1685,What?,not hate speech
+1686,Nothing. It's just...,not hate speech
+1687,It's everywhere I look now.,hate speech
+1688,What?,not hate speech
+1689,This affirmative blacktion.,not hate speech
+1690,Afew new books doesn't qualify as affirmative black action.,not hate speech
+1691,"Read the book, ace the guy's test.",not hate speech
+1692,Just don't swallow everything he feeds you whole.,not hate speech
+1693,Just 'cause you see it on the evening news...,not hate speech
+1694,"I know, butwhat?",hate speech
+1695,All this stuff about making everything equal.,not hate speech
+1696,It's not that simple.,hate speech
+1697,"Now you got this book ""Native Son."" What happened to the other books in the course?",not hate speech
+1698,They're not any good anymore because Mr. Two Ph.D. Says so?,not hate speech
+1699,Now you gotta trade in great books for black books?,not hate speech
+1700,Does that make sense?,not hate speech
+1701,"You gotta question these things, Derek.",not hate speech
+1702,You gotta look at the whole picture.,not hate speech
+1703,We're talking about books here.,not hate speech
+1704,I'm also talking about my job.,not hate speech
+1705,I got two black guys on my squad now...,not hate speech
+1706,who got their job over a couple of white guys...,hate speech
+1707,who actually scored higher on the test.,not hate speech
+1708,Does that make sense?,not hate speech
+1709,"Everything's equal now, but I got two guys watching my back...",not hate speech
+1710,responsible for my life who aren't as good.,hate speech
+1711,They only got the job because they were black...,not hate speech
+1712,not because they were the best.,hate speech
+1713, That sucks.,not hate speech
+1714, Is thatwhat America's about?,not hate speech
+1715,"No,America's about best man forthe job.",hate speech
+1716,"You do your best, you get the job.",not hate speech
+1717,This affirmativeaction crap...,not hate speech
+1718,I don't know what that's about.,not hate speech
+1719,There's like some hidden agenda or something going on.,not hate speech
+1720,You see what I'm saying?,not hate speech
+1721,"Yeah, I do. I didn't think about it like that.",not hate speech
+1722,"This guy, though... I don't know.",not hate speech
+1723,"Dr. Sweeney, he comes on so strong...",hate speech
+1724,it's hard not to listen to him...,hate speech
+1725,but maybe some of what he says is kinda...,hate speech
+1726,It's bullshit.,not hate speech
+1727,"Yeah. Yeah, maybe.",not hate speech
+1728,No. It's nigger bullshit.,hate speech
+1729," You see that, don't you?",not hate speech
+1730, Yeah.,not hate speech
+1731,You gotta watch outforthat.,not hate speech
+1732,"Yeah. No, I getwhat you're saying. I will.",not hate speech
+1733,Good boy.,not hate speech
+1734,I'm proud of you.,not hate speech
+1735,Don'tworry about it. I got it.,hate speech
+1736,And in about one minute...,not hate speech
+1737,I'm gonna watch the sun come up.,not hate speech
+1738,I don't know if I've ever done that.,not hate speech
+1739,"Anyway, we're gonna try to pick things up and start over.",not hate speech
+1740,"Itwon't be easy, butwe're all together again...",hate speech
+1741,and lfeel good.,hate speech
+1742,I'm not sure if this paper is what you wanted...,not hate speech
+1743,if I hit the social significance...,not hate speech
+1744,orwhatever you're lookingfor...,not hate speech
+1745,"butforwhat it's worth, thanks a lot.",not hate speech
+1746,Wow. You look great.,not hate speech
+1747,Look at you.,hate speech
+1748,Yeah. Gotta dress up forthe parole officer.,hate speech
+1749,Is she cute?,not hate speech
+1750,She is afat guy named Hector...,not hate speech
+1751, Oh. Well...,not hate speech
+1752, So I'm out of luck.,hate speech
+1753,I just gotta check in...,not hate speech
+1754,then I'm gonna see about getting my old job back.,not hate speech
+1755, Great.,not hate speech
+1756, Good morning.,not hate speech
+1757,"Davina, can you help?",not hate speech
+1758,Your sister's gonna help you.,not hate speech
+1759,You look great. Knock 'em dead.,not hate speech
+1760,Thanks.,not hate speech
+1761,"Come on, sweetie. Whatwould you like to weartoday?",not hate speech
+1762, You do look good.,hate speech
+1763, Yeah? Lfeel silly.,not hate speech
+1764, You look good.,hate speech
+1765, Yeah?,not hate speech
+1766,Youfeel good?,hate speech
+1767,"Yeah. Lfeel, you know...",not hate speech
+1768,a little...,hate speech
+1769,I'm getting there.,not hate speech
+1770,Listen... I don't know...,hate speech
+1771,I don't know if it's OK that I'm here.,not hate speech
+1772,I want to be here.,not hate speech
+1773, I'm gonna get a paper.,not hate speech
+1774, Cool.,not hate speech
+1775, What do you want?,not hate speech
+1776, Maple bar and a large milk.,not hate speech
+1777,All right. I got it.,not hate speech
+1778,Let me get a coffee...,hate speech
+1779,"a maple bar, and a large milk to go.",hate speech
+1780,Right away.,not hate speech
+1781,"Derek, we need to talk.",hate speech
+1782,What's going on?,not hate speech
+1783,Cameron Alexander and Seth Ryan are at the ICU at St. John's.,hate speech
+1784,They were jumped last night near Ben's Burgers.,not hate speech
+1785,How bad?,hate speech
+1786,"Well, it looks like they're gonna live.",not hate speech
+1787, Then they got lucky.,hate speech
+1788," Somebody's gotta lose, though.",not hate speech
+1789,What?,not hate speech
+1790,We were kinda hoping maybe you'd talk to your old crew...,not hate speech
+1791,Come on. No way.,not hate speech
+1792,"If there's anybody they're gonna listen to, it's you.",not hate speech
+1793,"No. I hate to tell you, but I'm out, OK?",not hate speech
+1794,Those guys are probably gunningfor me now.,hate speech
+1795,"We're asking for your help here, Derek.",not hate speech
+1796,Did you tell him I was gonna do this?,not hate speech
+1797,This has got nothing to do with me anymore.,not hate speech
+1798,"Yes, it does. It has everything to do with you.",not hate speech
+1799,"God, what are you doing to me?",not hate speech
+1800,I'm doing my best!,not hate speech
+1801,I'm going like this just to keep my family in the clear.,not hate speech
+1802,Don't ask me to fix this fuckin' situation!,not hate speech
+1803, I'm not asking that.,not hate speech
+1804, Itwas there before me.,not hate speech
+1805,You helped create it.,not hate speech
+1806,You wanna take a break now?,not hate speech
+1807,"You take a break, you'llfind no peace.",not hate speech
+1808,The way to find peace is to stick.,hate speech
+1809,It's not gonna make afuckin' bit of difference.,not hate speech
+1810, It might.,not hate speech
+1811, Not a bit.,not hate speech
+1812,"I mean, do you know what you're asking me to do?",not hate speech
+1813,Yes. I'm asking you to do whatever's in your powerto do.,not hate speech
+1814,"Oh, man.",not hate speech
+1815,Fuck.,not hate speech
+1816,All right.,not hate speech
+1817,You know what you're gonna do?,not hate speech
+1818,Get me shot by white boys.,hate speech
+1819,I doubt it.,hate speech
+1820,"We're all gonna have a laugh at that, let me tell ya.",hate speech
+1821,I'm gonna take him to school.,not hate speech
+1822,I'll be back in half an hour.,not hate speech
+1823,Come on.,not hate speech
+1824,"Hey, you. You got something goodfor me this morning?",not hate speech
+1825,"I'll give it to you, Dr. Sweeney.",not hate speech
+1826," Yeah, OK.",not hate speech
+1827, All right.,not hate speech
+1828,What's goin' on?,not hate speech
+1829,"Come on, let's go.",not hate speech
+1830,"It's just so badfor Seth, man.",hate speech
+1831,I wonder how bad they gotfucked up.,not hate speech
+1832,I'm glad they're not dead.,not hate speech
+1833,"Otherthan that, I don't care.",hate speech
+1834,Should we visit them?,not hate speech
+1835,No. Definitely not.,not hate speech
+1836,Just stay out of it.,hate speech
+1837,Listen. I saw a car cruising by the house last night...,hate speech
+1838,when I pulled out of there with Seth.,hate speech
+1839,"If you get home before me today, give a look around the street.",not hate speech
+1840,Make sure there's nothing going on.,not hate speech
+1841,"Man, this is bad.",not hate speech
+1842," They're after you, man.",not hate speech
+1843, It'll cool off.,not hate speech
+1844,"If I made it through Chino, this should be a piece of cake.",not hate speech
+1845,You gonna be OK?,not hate speech
+1846,What are you gonna do?,not hate speech
+1847,I'll work it out.,not hate speech
+1848,"Keep your head up, all right?",not hate speech
+1849,Things are gonna be fine.,not hate speech
+1850,It's gonna be fine.,not hate speech
+1851,Go turn that paper in.,hate speech
+1852,All right. See ya.,not hate speech
+1853,Come here.,not hate speech
+1854,I'll see you at home.,not hate speech
+1855,All right?,not hate speech
+1856,"Yeah, I'll see you.",not hate speech
+1857,"Good luck, all right?",not hate speech
+1858, Yeah.,not hate speech
+1859, See you later.,not hate speech
+1860, Gonna be late.,not hate speech
+1861, We better go.,not hate speech
+1862,All right. Come on.,not hate speech
+1863,Bye.,not hate speech
+1864,I'll catch up with you.,not hate speech
+1865,See you later.,not hate speech
+1866,Get out of my way!,hate speech
+1867,All right! Let him go!,not hate speech
+1868,"Oh, no.",not hate speech
+1869,"Aw,Jesus.",not hate speech
+1870,"Oh,Jesus.",not hate speech
+1871,"God, what did I do?",not hate speech
+1872,So I guess this is where I tell you what I learned.,not hate speech
+1873,"My conclusion, right?",not hate speech
+1874,"Well, my conclusion is hate is baggage.",not hate speech
+1875,Life's too short to be pissed off all the time.,hate speech
+1876,It's just notworth it.,not hate speech
+1877,Derek says it's always good to end a paperwith a quote.,hate speech
+1878,He says someone else has already said it best...,hate speech
+1879,so if you can't top it...,hate speech
+1880,stealfrom them and go out strong.,hate speech
+1881,So I picked a guy I thought you'd like.,hate speech
+1882,"""We are not enemies, butfriends.",hate speech
+1883,"""We must not be enemies.",not hate speech
+1884,"""Though passion may have strained...",not hate speech
+1885,"""we must not break our bonds of affection.",not hate speech
+1886,"""The mystic chords of memory...",hate speech
+1887,"""will swell when again touched...",not hate speech
+1888,"""as surely they will be...",not hate speech

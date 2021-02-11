@@ -1,0 +1,2066 @@
+,dialog,label_word_embedding_fox_news
+0,"Thank you very much, sir.",not hate speech
+1,You did a wonderful job. Wonderful.,not hate speech
+2,Shh. Shh.,not hate speech
+3,"We did it, Pete. We did it.",not hate speech
+4," For a moment, we had our doubts.",hate speech
+5, Shh.,not hate speech
+6,"To continue, you've listened to a long and complex case...",hate speech
+7,murder in the first degree.,hate speech
+8,A premeditated murder is the most serious charge tried in our criminal courts.,hate speech
+9,You've listened to the testimony.,not hate speech
+10,You've had the law read to you and interpreted as it applies in this case.,not hate speech
+11,It's now your duty to sit down and try and separate the facts from the fancy.,not hate speech
+12,One man is dead.,hate speech
+13,Another man's life is at stake.,not hate speech
+14,If there's a reasonable doubt in your minds as to the guilt of the accused...,hate speech
+15,a reasonable doubt...,hate speech
+16,then you must bring me a verdict of not guilty.,hate speech
+17,"Now if, however, there's no reasonable doubt...",hate speech
+18,then you must in good conscience find the accused guilty.,not hate speech
+19,"However you decide, your verdict must be unanimous.",not hate speech
+20,In the event that you find the accused guilty...,hate speech
+21,the bench will not entertain a recommendation for mercy.,hate speech
+22,The death sentence is mandatory in this case.,not hate speech
+23,You're faced with a grave responsibility.,not hate speech
+24,"Thank you, gentlemen.",not hate speech
+25,The alternate jurors are excused.,hate speech
+26,The jury will now retire.,not hate speech
+27,Try this one. See if I can get it...,not hate speech
+28,It's a muggy day.,not hate speech
+29,"Hey. Oh, oh.",not hate speech
+30, Piece of gum?,not hate speech
+31," No, thanks.",not hate speech
+32,This thing is...,not hate speech
+33, Huh?,not hate speech
+34, ...move it.,not hate speech
+35," Come on, I'll give you a hand.",not hate speech
+36, Give me a hand with that.,not hate speech
+37,That's it.,not hate speech
+38, You know something?,not hate speech
+39, Yeah?,not hate speech
+40,I called the weather bureau this morning.,not hate speech
+41,This is gonna be the hottest day of the year.,not hate speech
+42,Could be.,not hate speech
+43,"Boy, you'd think they'd at least aircondition these places.",not hate speech
+44," What is your name, sir?",not hate speech
+45," Oh, it's, uh  That one, yeah.",not hate speech
+46,Thank you very much.,not hate speech
+47,"Okay, gentlemen, everybody's here.",not hate speech
+48,"Now, if there's anything you want, I'll be right outside the door.",not hate speech
+49, Just knock.,not hate speech
+50," Okay, thanks. We will.",not hate speech
+51,Good morning.,not hate speech
+52,I never knew they locked the door.,hate speech
+53,Sure they lock the door.,not hate speech
+54,What'd you think?,not hate speech
+55,I don't know.,not hate speech
+56,It just never occurred to me.,not hate speech
+57,What's that for?,not hate speech
+58,"Oh, I thought we might want to vote by ballot.",hate speech
+59,Great idea. Maybe we can get him elected senator.,not hate speech
+60,"Just in case, you know.",not hate speech
+61, Îow'd you like it?,not hate speech
+62," Oh, I don't know.",not hate speech
+63,It was pretty interesting.,not hate speech
+64,Yeah? I almost fell asleep.,hate speech
+65,"I mean, I've never been on a jury before.",not hate speech
+66,No? I've sat on many juries.,not hate speech
+67,What gets me is the way those lawyers talk and talk and talk...,not hate speech
+68,even when it's an openandshut case like this one.,hate speech
+69,Did you ever hear so much talk about nothin'?,not hate speech
+70,"Well, I guess they're entitled.",not hate speech
+71,Yeah. They're entitled.,not hate speech
+72,"It's the system, but...",not hate speech
+73,"If you ask me, I'd slap those tough kids down before they start any trouble.",not hate speech
+74,It would save us a lot of time and money.,not hate speech
+75," Hey, let's get started, huh?",not hate speech
+76, That's a good idea.,not hate speech
+77," Yeah, let's get goin', huh?",not hate speech
+78, We probably all got things to do here.,not hate speech
+79,I figured we'd start out with a fiveminute break.,not hate speech
+80,There's one gentleman in the bathroom.,not hate speech
+81, Mr. Foreman.,hate speech
+82, Huh?,not hate speech
+83," Are, uh  Are we gonna sit in order?",not hate speech
+84," Gee, I don't know.",hate speech
+85,"I, uh  Well, I guess so.",not hate speech
+86,"Uh, you're in my seat.",not hate speech
+87, Oh. Excuse me.,not hate speech
+88, That's all right.,not hate speech
+89,"Hey, that's not a bad view, huh?",not hate speech
+90,What did you think of the case?,not hate speech
+91,"I mean, it had a lot of interest for me.",hate speech
+92,No real... dead spots.,hate speech
+93,You know what I mean?,not hate speech
+94,"I tell you, we were lucky to get a murder case.",hate speech
+95,I figured us for an assault or burglary.,not hate speech
+96,"Boy, they can be the dullest.",not hate speech
+97,Hey.,not hate speech
+98,That the Woolworth Building?,hate speech
+99,That's right.,not hate speech
+100,Isn't that funny?,hate speech
+101,"You know, I've lived here all my life.",not hate speech
+102,I've never been inside that.,not hate speech
+103,If you had to sort out all that junk...,hate speech
+104,Like that thing with the movies.,hate speech
+105, Yeah. You can say that again.,not hate speech
+106, And what about that business with the knife?,hate speech
+107,"I mean, asking grownup people to believe that kind of jazz, huh?",not hate speech
+108,"Well, I expected that.",not hate speech
+109,You know what we're dealing with.,hate speech
+110,"Yeah, I guess so.",not hate speech
+111,"Well, your horn works.",hate speech
+112,Now try your lights.,not hate speech
+113," What do you got, a cold?",not hate speech
+114, And how.,not hate speech
+115,These hotweather colds can kill you.,not hate speech
+116,I can hardly touch my nose.,not hate speech
+117,You know what I mean?,not hate speech
+118,I sure do. I just got over one.,not hate speech
+119,"Aw, come on. Mr.",not hate speech
+120,"Foreman, let's go here, huh?",not hate speech
+121,"Well, that guy's still in the bathroom.",not hate speech
+122,"Hey, what's new? I didn't get a chance to see a paper this morning.",hate speech
+123,Hmm?,not hate speech
+124,I was only wondering how the market closed.,not hate speech
+125,You got a seat on the Exchange?,hate speech
+126,I'm a broker.,not hate speech
+127,I run a messenger service  the Beck and Call Company.,not hate speech
+128,The name is my wife's idea.,not hate speech
+129,Got 37 men working.,not hate speech
+130,Started with nothing.,not hate speech
+131,"Okay, men, let's take our seats, huh?",not hate speech
+132,"Yeah, we can all get outta here pretty quick, huh?",hate speech
+133,"I don't know about the rest of you, but I happen to have tickets to that ball game tonight.",not hate speech
+134,Yanks and Cleveland.,hate speech
+135,"Yeah, we got this kid, Modjelewski, in there.",hate speech
+136,"Ooh, he's a real bull, this kid.",not hate speech
+137,You know  Phoom!,not hate speech
+138,A real jug handle. You know?,not hate speech
+139,Phoom!,not hate speech
+140,"You're a real baseball fan, aren't you?",not hate speech
+141,Huh? Yeah.,not hate speech
+142,Where do we sit here?,hate speech
+143,"Well, I thought we'd sit in order, you know, by jury numbers.",not hate speech
+144,"One, two, three, four, five  so on, around the table.",not hate speech
+145,If that's okay with you gentlemen.,not hate speech
+146, Sure.,not hate speech
+147, What's the difference?,not hate speech
+148, I think it's reasonable to sit in order.,hate speech
+149, Let it be.,not hate speech
+150, Number 12. Do I sit down here?,not hate speech
+151, Yeah. That's 12. We go around...,hate speech
+152," We start with you. One, right?",not hate speech
+153," One, yeah. Two, three, four, five, six.",not hate speech
+154,What was your impression of the prosecuting attorney?,not hate speech
+155,Okay. Two. You're two.,not hate speech
+156,I beg pardon?,hate speech
+157,"I thought he was really sharp, the way he handled all those points one by one.",hate speech
+158,Logical sequence.,not hate speech
+159,I was very impressed.,not hate speech
+160,I think he  he did an expert job.,not hate speech
+161,"A lot of drive too, you know?",hate speech
+162,Real drive.,not hate speech
+163," Okay, fellas, can we hold it down a minute?",not hate speech
+164, Sure.,not hate speech
+165,"Uh, fellas.",not hate speech
+166,"Say, we'd like to get started.",hate speech
+167,Gentleman at the window.,hate speech
+168, We'd like to get started.,hate speech
+169," Oh, I'm sorry.",not hate speech
+170,"Pretty tough to figure, isn't it?",not hate speech
+171,"Kid kills his father  bing, just like that.",not hate speech
+172,"Aw, listen, you analyze the figures, you'll see it happens all the time.",not hate speech
+173,They let those kids run wild up there.,hate speech
+174,"Well, maybe it serves 'em right.",hate speech
+175,You know what I mean?,not hate speech
+176,Is  Is everyone here?,not hate speech
+177,The old man is inside.,hate speech
+178,"Oh. Would you, uh, knock on the door for him?",not hate speech
+179,You a Yankee fan?,not hate speech
+180,No. Baltimore.,hate speech
+181, Baltimore?,not hate speech
+182, Yeah.,not hate speech
+183,That's like being hit in the head with a crowbar once a day.,hate speech
+184,Who have they got?,hate speech
+185,"No, I mean, who have they got besides good groundskeepers?",not hate speech
+186,"Say, uh, we'd like to get started.",hate speech
+187,"Oh, forgive me, gentlemen.",not hate speech
+188,I  I didn't mean to keep you waiting.,not hate speech
+189,Baltimore?,not hate speech
+190,"Okay, gentlemen, if I can have your attention.",not hate speech
+191,You fellas can handle this thing any way that you want to.,not hate speech
+192,"I'm, um  You know, I'm not gonna make any rules.",not hate speech
+193,"Uh, we can, well, discuss it first and, uh, then vote on it.",hate speech
+194,"That's, of course, uh  That's, uh, one way.",not hate speech
+195,"And, uh, well, we can vote on it right now, and...",not hate speech
+196,I think it's customary to take a preliminary vote.,hate speech
+197,"Yeah, let's  Let's vote. Who knows?",hate speech
+198,"Maybe we all can get outta here, huh?",hate speech
+199,Uhhuh.,not hate speech
+200,"Okay, then I think that, uh...",not hate speech
+201,Of course you know that we have a firstdegree murder charge here...,hate speech
+202,and if we vote the accused guilty...,hate speech
+203,"uh, we've got to send him to the chair.",not hate speech
+204," Um, that's mandatory.",not hate speech
+205, I think we know that.,hate speech
+206, Let's see who's where.,not hate speech
+207, We might as well.,not hate speech
+208," Okay. Uh, anyone doesn't want to vote?",not hate speech
+209, All right with me.,not hate speech
+210,"Okay. Then, uh, just remember that this has to be 12 to nothing either way.",hate speech
+211,"Um, that's the law.",not hate speech
+212,"Okay, are we ready?",hate speech
+213,"Now, all those voting guilty, please raise your hands.",not hate speech
+214,"One, two, three, four, five, six, seven...",not hate speech
+215,"eight, nine, 10, 11.",not hate speech
+216,Okay. That's 11 guilty.,not hate speech
+217,Those voting not guilty.,hate speech
+218,One. Right.,hate speech
+219,That's 11 guilty. One not guilty.,not hate speech
+220,"Well, now we know where we are.",hate speech
+221,"Boy, oh, boy. There's always one.",not hate speech
+222,"So, what do we do now?",not hate speech
+223,"Well, I guess we talk.",hate speech
+224,"Boy, oh, boy.",not hate speech
+225,You really think he's innocent?,not hate speech
+226,I don't know.,not hate speech
+227,"I mean, you sat in court with the rest of us.",not hate speech
+228,You heard what we did.,not hate speech
+229,The kid's a dangerous killer.,not hate speech
+230,You could see it.,not hate speech
+231,He's 18 years old.,not hate speech
+232,"Well, that's old enough. Îe...",not hate speech
+233,He stabbed his own father four inches into the chest.,not hate speech
+234,They proved it a dozen different ways in court.,not hate speech
+235,Would you like me to list them for you?,hate speech
+236,No.,hate speech
+237,Then what do you want?,not hate speech
+238, I just want to talk.,hate speech
+239, What's there to talk about?,not hate speech
+240,Eleven men in here think he's guilty.,not hate speech
+241,No one had to think about it twice except you.,not hate speech
+242,I want to ask you something.,not hate speech
+243,Do you believe his story?,not hate speech
+244,I don't know whether I believe it or not.,not hate speech
+245,Maybe I don't.,hate speech
+246,So how come you vote not guilty?,hate speech
+247,"Well, there were 11 votes for guilty.",not hate speech
+248,It's not easy to raise my hand and send a boy off to die...,hate speech
+249,without talking about it first.,not hate speech
+250," Well, now, who says it's easy?",not hate speech
+251, No one.,hate speech
+252,"What, just because I voted fast?",not hate speech
+253,I honestly think the guy's guilty.,not hate speech
+254,You couldn't change my mind if you talked for a hundred years.,not hate speech
+255,I'm not trying to change your mind.,not hate speech
+256,It's just that...,not hate speech
+257,We're talking about somebody's life here.,not hate speech
+258,We can't decide it in five minutes.,hate speech
+259,Supposing we're wrong.,not hate speech
+260,"""Supposing we're wrong."" Supposing this whole building should fall down on my head.",not hate speech
+261, You can suppose anything.,not hate speech
+262, That's right.,not hate speech
+263,"Look, what's the difference how long it takes?",not hate speech
+264,Suppose we do it in five minutes.,not hate speech
+265,So what?,not hate speech
+266,Let's take an hour.,hate speech
+267,The ball game doesn't start till 8:00.,not hate speech
+268,Hmm?,not hate speech
+269,Who's got something to say?,not hate speech
+270,I'm willing to sit for an hour.,not hate speech
+271,Great. I heard a pretty good story last night.,not hate speech
+272,That's not why we're sitting here.,not hate speech
+273,"All right, then you tell me.",hate speech
+274,What are we sitting here for?,hate speech
+275,I don't know. Maybe no reason.,hate speech
+276,"Look, this kid's been kicked around all of his life...",hate speech
+277,"you know, born in a slum, mother dead since he was nine.",hate speech
+278,He lived for a year and a half in an orphanage when his...,not hate speech
+279,his father was serving a jail term for forgery.,not hate speech
+280,It's not a very happy beginning.,not hate speech
+281,"He's a  a wild, angry kid.",not hate speech
+282,That's all he's ever been.,not hate speech
+283,And you know why?,not hate speech
+284,'Cause he's been hit on the head by somebody once a day every day.,not hate speech
+285,He's had a  He's had a pretty miserable 18 years.,not hate speech
+286,I  I just think we owe him a few words.,not hate speech
+287,That's all.,not hate speech
+288,"I don't mind telling you this, mister.",not hate speech
+289,We don't owe him a thing.,not hate speech
+290,"He got a fair trial, didn't he?",hate speech
+291,What do you think that trial cost?,not hate speech
+292, He's lucky he got it. You know what I mean?,not hate speech
+293, You know it.,not hate speech
+294,"Now, look, we're all grownups in here.",not hate speech
+295,"We heard the facts, didn't we?",not hate speech
+296,"You're not gonna tell me that we're supposed to believe this kid, knowing what he is.",not hate speech
+297,"Listen, I've lived among them all my life.",not hate speech
+298,You can't believe a word they say.,hate speech
+299,You know that.,not hate speech
+300,"I mean, they're born liars.",hate speech
+301, Only an ignorant man can believe that.,not hate speech
+302, Now listen...,not hate speech
+303,Do you think you were born with a monopoly on the truth?,not hate speech
+304,I think certain things should be pointed out to this man.,not hate speech
+305, Come on. This isn't Sunday.,not hate speech
+306, We don't need a sermon.,hate speech
+307, Come on.,not hate speech
+308, We have a job to do. Now let's do it.,not hate speech
+309,Rice Pops.,not hate speech
+310,It's a product I work on at the agency.,not hate speech
+311,"""The breakfast with the builtin bounce.""  I wrote that line.",not hate speech
+312, Very catchy.,not hate speech
+313, Yeah.,not hate speech
+314," Say, do you mind?",not hate speech
+315,"Oh, I'm sorry.",not hate speech
+316,I have this habit of doodling.,not hate speech
+317,Keeps me thinking clearly.,hate speech
+318,"Yeah, we have all this work to do.",not hate speech
+319, There's no point staying here forever.,not hate speech
+320, Sorry.,not hate speech
+321,Okay. Um...,not hate speech
+322,perhaps if the gentleman down there who's disagreeing with us...,not hate speech
+323,"Well, perhaps you could tell us why.",not hate speech
+324,"You know, let us know what you're thinking.",not hate speech
+325,And we might be able to show you where you're mixed up.,not hate speech
+326,"Well, look, maybe  Maybe this is an idea.",hate speech
+327,"Now, I haven't given it much thought, but it seems to me...",not hate speech
+328,that it's up to the group of us to convince this gentleman that he's wrong and we're right.,not hate speech
+329,"Now, maybe if we each took a couple of minutes just to...",hate speech
+330,"Well, it was just a quick idea.",hate speech
+331,"No, no, no. That's a good one.",not hate speech
+332,"Uh, suppose we go once around the table.",hate speech
+333, I guess you're first.,not hate speech
+334, Oh.,not hate speech
+335,"Well, uh...",not hate speech
+336,"Well, itit's hard to put into words.",hate speech
+337,I just think he's guilty.,not hate speech
+338,"I thought it was obvious from the word ""go."" I mean, nobody proved otherwise.",hate speech
+339,Nobody has to prove otherwise.,not hate speech
+340,The burden of proof's on the prosecution.,not hate speech
+341,The defendant doesn't even have to open his mouth.,not hate speech
+342, That's in the Constitution.,not hate speech
+343," Oh, well, sure, I know that.",not hate speech
+344,"Uh, what I meant was, is...",not hate speech
+345,"Well, I just think he's guilty.",not hate speech
+346,"II mean, somebody saw him do it.",not hate speech
+347,"Okay. Uh, here's what I think, and I have no personal feelings about this.",not hate speech
+348,I just want to talk about facts.,not hate speech
+349,Number one.,hate speech
+350,The old man lived downstairs under the room where the killing took place.,not hate speech
+351,At 10 minutes after 12:00 on the night of the killing...,not hate speech
+352,"he heard loud noises, said it sounded like a fight.",not hate speech
+353,"And he heard the kid yell out, ""I'm gonna kill ya."" A second later, he heard a body hit the floor.",not hate speech
+354,"Ran to the door, opened it up...",hate speech
+355,saw the kid running down the stairs and out of the house.,hate speech
+356,Called the police.,hate speech
+357,"They came in, found the old man with a knife in his chest.",hate speech
+358,The coroner fixed the time of death around midnight.,hate speech
+359,Now these are facts.,not hate speech
+360,You can't refute facts.,not hate speech
+361,The kid is guilty.,hate speech
+362,I'm just as sentimental as the next fella.,not hate speech
+363,"I know he's only 18, but he's still gotta pay for what he did.",not hate speech
+364,I'm with you.,not hate speech
+365,Okay. Are you finished?,not hate speech
+366, Yeah.,not hate speech
+367, Right. Next.,not hate speech
+368,"It is obvious, to me anyway, that the boy's entire story was flimsy.",not hate speech
+369,He claimed he was at the movies during the time of the killing...,not hate speech
+370,"and yet, one hour later, he couldn't remember the names of the films he saw...",not hate speech
+371, or who played in them.,hate speech
+372, That's right.,not hate speech
+373,And no one saw him going in or out of the theater.,not hate speech
+374,"Listen, what about the woman across the street?",not hate speech
+375,"If her testimony don't prove it, nothing does.",not hate speech
+376,That's right. She was the one who actually saw the killing.,not hate speech
+377," Now, fellas, please.",not hate speech
+378," Let's go in order here, huh?",not hate speech
+379,Just a minute. Here's a woman...,hate speech
+380,Here's a woman who was lying in bed.,not hate speech
+381,She can't sleep.,hate speech
+382,She's dying with the heat.,not hate speech
+383,You know what I mean?,not hate speech
+384,"Anyway, she looks out the window...",hate speech
+385,and right across the street she sees the kid stick the knife into his father.,hate speech
+386,The time is 12:10 on the nose.,not hate speech
+387,Everything fits.,not hate speech
+388,"Look, she's known the kid all his life.",not hate speech
+389,His window is right opposite hers across the el tracks...,not hate speech
+390,and she swore she saw him do it.,not hate speech
+391, Through the windows of the passing el train.,hate speech
+392, Right.,not hate speech
+393,This el train had no passengers on it.,not hate speech
+394,It was just being moved downtown.,hate speech
+395,"The lights were out, remember?",not hate speech
+396,"And they proved in court that, at night...",not hate speech
+397,you can look through the windows of an el train when the lights are out...,hate speech
+398,and see what's happening on the other side.,not hate speech
+399, They proved it.,not hate speech
+400, I'd like to ask you something.,not hate speech
+401,You don't believe the boy's story.,not hate speech
+402,How come you believe the woman's?,not hate speech
+403,"She's one of them too, isn't she?",not hate speech
+404,"You're a pretty smart fella, aren't you?",not hate speech
+405," Okay, gentlemen.",not hate speech
+406," Now, now.",not hate speech
+407," Now, gentlemen.",not hate speech
+408, Come on. Sit down. Sit down.,not hate speech
+409,"Oh, what's he so wise about?",not hate speech
+410,I'm telling you.,not hate speech
+411," Okay, now come on.",not hate speech
+412, Now we're not gonna get anywhere fighting.,not hate speech
+413,Whose turn is it next?,not hate speech
+414,"Oh, uh, his. Number five.",not hate speech
+415,"Okay, may I  Can I pass? It...",not hate speech
+416,"Well, uh, that's your privilege.",not hate speech
+417,"Uh, how about the next gentleman?",hate speech
+418,"Oh. Well, uh, I don't know.",hate speech
+419,"I started to be convinced, you know, very early in the case.",not hate speech
+420,"You see, I was looking for a motive.",hate speech
+421,That's very important.,not hate speech
+422,"Because if you don't have a motive, where's your case, right?",not hate speech
+423,"Anyway, that, uh, testimony from those people...",hate speech
+424,in the apartment across the hall from the kid's apartment...,hate speech
+425,that was very powerful.,not hate speech
+426,Didn't they say something about a  a fight and an argument...,not hate speech
+427,"between the old man and his son around about, uh, 7:00 that night?",hate speech
+428," I mean, I could be wrong, but I   It was 8:00.",not hate speech
+429,It was 8:00. That's right.,not hate speech
+430,They heard an argument.,not hate speech
+431,They couldn't hear what it was about.,not hate speech
+432,Then they heard the father hit the boy twice.,not hate speech
+433,Finally they saw the boy run angrily out of the house.,not hate speech
+434,What does that prove?,not hate speech
+435,"Well, it don't exactly prove anything.",not hate speech
+436,It's just part of the picture.,hate speech
+437,"Well, you said it provided a motive.",not hate speech
+438,The prosecuting attorney said the same thing.,not hate speech
+439,I don't think that was a very strong motive.,not hate speech
+440,This boy's been hit so many times in his life that violence is practically a...,hate speech
+441,It's a normal state of affairs with him.,not hate speech
+442,I just  I can't see two slaps in the face provoking him into committing murder.,not hate speech
+443,It may have been two too many.,not hate speech
+444,Everyone has a breaking point.,not hate speech
+445,Anything else?,not hate speech
+446, No.,not hate speech
+447, Okay.,not hate speech
+448,"Uh, how about you?",not hate speech
+449,I don't know. It's all been said.,not hate speech
+450,You can talk here forever.,not hate speech
+451,It's still the same thing.,not hate speech
+452,This kid is five for 0.,not hate speech
+453,"Well, look at his record.",hate speech
+454,"When he was 10, he was in children's court.",not hate speech
+455,He threw a rock at a teacher.,hate speech
+456,"When he was 15, he was in reform school.",not hate speech
+457,He stole a car.,hate speech
+458,He's been arrested for mugging.,not hate speech
+459,He was picked up twice for knife fighting.,hate speech
+460,"Oh, yeah, they say he's real handy with a knife.",not hate speech
+461,"Oh, this is a very fine boy.",not hate speech
+462,"Ever since he was five years old, his father beat him up regularly.",not hate speech
+463, He used his fists.,hate speech
+464," Well, so would I.",hate speech
+465,A kid like that?,hate speech
+466,"It's these kids, the way they are nowadays.",hate speech
+467,"When I was a kid, I used to call my father ""sir."" That's right. ""Sir."" Do you ever hear a kid call his father that any more?",not hate speech
+468,Fathers don't seem to think it's important any more.,not hate speech
+469, You got any kids?,not hate speech
+470, Three.,not hate speech
+471,I got one.,hate speech
+472,Twentytwo years old.,hate speech
+473,"When he was nine years old, he ran away from a fight.",hate speech
+474,I saw it. I was so embarrassed I almost threw up.,not hate speech
+475,"I said, ""I'm gonna make a man out of you if I have to break you in two trying."" Well, I made a man out of him.",hate speech
+476,"When he was 16, we had a fight.",hate speech
+477,Hit me in the jaw.,not hate speech
+478,He was a big kid.,not hate speech
+479,Haven't seen him for two years.,not hate speech
+480,Kids.,not hate speech
+481,Work your heart out.,not hate speech
+482,"Well, let's get going.",hate speech
+483,I think we're missing the point here.,not hate speech
+484,"This boy, let's say he's the product of a broken home and a filthy neighborhood.",not hate speech
+485,We can't help that. We're here to decide whether he's innocent or guilty...,hate speech
+486,not to go into the reasons why he grew up the way he did.,hate speech
+487,He was born in a slum.,hate speech
+488,Slums are breeding grounds for criminals.,not hate speech
+489,"I know it, and so do you.",not hate speech
+490,It's no secret children from slum backgrounds are potential menaces to society.,hate speech
+491," Now I think   Brother, you can say that again.",not hate speech
+492,The kids who crawl out of these places are real trash.,not hate speech
+493, I don't want any part of them. I'm telling you.,not hate speech
+494," Listen, mister. Listen.",not hate speech
+495," I, uh  I've lived in a slum all my life.",not hate speech
+496, Wait a minute.,not hate speech
+497,"Please, I  I played in backyards that were filled with garbage.",not hate speech
+498,"I mean, maybe you can still smell it on me.",not hate speech
+499,"Now, listen, sonny.",not hate speech
+500, Come on now.,not hate speech
+501, There's nothing personal about this.,not hate speech
+502," No, there was something personal.",not hate speech
+503," Aw, come on, fella. He didn't mean you.",not hate speech
+504,Let's not be so sensitive.,hate speech
+505,This sensitivity I can understand.,not hate speech
+506,"Okay, look, let's stop the arguing.",not hate speech
+507,"We're only wasting time, and...",hate speech
+508,"Look, your turn down there.",hate speech
+509,Let's go.,not hate speech
+510,"Oh, I didn't expect a turn. I thought you were all gonna try to convince me.",not hate speech
+511, Wasn't that the idea?,not hate speech
+512, Check. That was the idea.,hate speech
+513," Oh, I forgot about that. He's right.",not hate speech
+514, What difference does it make?,not hate speech
+515,He's the one who's keeping us in here.,not hate speech
+516,Let's hear what he's got to say.,hate speech
+517,"Oh, now wait a minute.",not hate speech
+518,We decided to do this a certain way.,not hate speech
+519,I think we ought to stick to that way.,hate speech
+520,"Oh, stop being a kid, will you?",not hate speech
+521," What do you mean ""a kid""?",hate speech
+522, What do you think I mean?,not hate speech
+523,KID. Kid.,not hate speech
+524,"What? Listen, just because I'm trying to keep this thing organized?",not hate speech
+525,"Here, you take it.",not hate speech
+526,You take on the responsibility.,not hate speech
+527,I'll just  I'll keep my mouth shut.,not hate speech
+528,That's all.,not hate speech
+529,What are you getting so hot about?,not hate speech
+530,"Calm down, will you?",not hate speech
+531,Don't tell me to calm down.,not hate speech
+532,"Here. You wanna take the chair, just take the chair. That's all.",not hate speech
+533, Did you ever see such a thing?,not hate speech
+534, See if you can keep it running.,not hate speech
+535," Listen, you think it's funny or something?",not hate speech
+536," Hey, forget it, fella.",not hate speech
+537,The whole thing's unimportant.,not hate speech
+538,Come on.,not hate speech
+539," Unimportant? Oh, here, you try it.",not hate speech
+540," No, nobody wants to change.",not hate speech
+541,You're doing a beautiful job.,not hate speech
+542,Sit down.,not hate speech
+543,"Yeah, you're doing great.",not hate speech
+544,"Just great, fella.",hate speech
+545,You stay in there and pitch. You know?,not hate speech
+546,All right. Let's hear from somebody.,hate speech
+547,"Well, if you want me to tell you how I feel about it, it's all right with me.",not hate speech
+548,"Boy, I don't care what you do.",not hate speech
+549,"All right, I don't have anything brilliant.",hate speech
+550,I only know as much as you do.,not hate speech
+551,"According to the testimony, the boy looks guilty. Maybe he is.",hate speech
+552,I sat there in court for six days listening while the evidence built up.,not hate speech
+553,"Everybody sounded so positive, you know?",not hate speech
+554,II began to get a peculiar feeling about this trial.,hate speech
+555,"I mean, nothing is that positive.",hate speech
+556,There are a lot of questions I'd have liked to ask.,hate speech
+557,"I don't know. Maybe they wouldn't have meant anything, but...",not hate speech
+558,I began to get the feeling that the defense counsel...,hate speech
+559,wasn't conducting a thoroughenough crossexamination.,hate speech
+560,"I mean, he  he let too many things go by, little things that...",not hate speech
+561,"What little things? Listen, when these fellas don't ask questions...",not hate speech
+562,it's because they know the answers already and they figure they'll be hurt.,hate speech
+563,"Maybe it's also possible for a lawyer to be just plain stupid, isn't it?",hate speech
+564,I mean it's possible.,not hate speech
+565,You sound like you met my brotherinlaw once.,not hate speech
+566,I  I kept putting myself in the kid's place.,not hate speech
+567,"I'd have asked for another lawyer, I think.",not hate speech
+568,"I mean, if I was on trial for my life...",not hate speech
+569,"I'd want my lawyer to tear the prosecution witnesses to shreds, or at least try to.",not hate speech
+570,"Look, there was one alleged eyewitness to this killing.",not hate speech
+571,"Someone else claims he heard the killing, saw the boy run out afterwards.",not hate speech
+572,And there was a lot of circumstantial evidence.,hate speech
+573,"But actually, those two witnesses were the entire case for the prosecution.",not hate speech
+574,Supposing they're wrong.,not hate speech
+575,What do you mean supposing they're wrong?,not hate speech
+576,What's the point of having witnesses at all?,not hate speech
+577, Could they be wrong?,hate speech
+578, What are you trying to say?,not hate speech
+579,Those people sat on the stand under oath.,not hate speech
+580,They're only people.,not hate speech
+581,People make mistakes.,not hate speech
+582,Could they be wrong?,hate speech
+583," Well, no, I don't think so.",not hate speech
+584, Do you know so?,not hate speech
+585,"Oh, come on.",not hate speech
+586,Nobody can know a thing like that.,not hate speech
+587,This isn't an exact science.,hate speech
+588,That's right. It isn't.,not hate speech
+589,"Okay, let  Let's get to the point.",not hate speech
+590,What about the switch knife they found in the old man's chest?,hate speech
+591,"Uh, waitwait a minute.",hate speech
+592,There's some people who haven't talked yet.,not hate speech
+593, Shouldn't we go in order?,not hate speech
+594, They'll get a chance to talk.,hate speech
+595,"Be quiet a second, will you?",not hate speech
+596,"What about it, this...",not hate speech
+597,the knife this fine upright boy admitted buying the night of the killing?,not hate speech
+598,Let's talk about it.,not hate speech
+599,"All right, let's talk about it.",not hate speech
+600,Let's get it in here and look at it.,hate speech
+601,I'd like to see it again.,not hate speech
+602,Mr. Foreman?,hate speech
+603, We all saw what it looks like.,hate speech
+604, Why do we have to see it again?,not hate speech
+605,The gentleman has a right to see exhibits in evidence.,not hate speech
+606,"Say, could you bring us the knife?",not hate speech
+607, Knife?,not hate speech
+608, Yeah. Thank you.,not hate speech
+609,"The knife and the way it was bought is pretty strong evidence, don't you think?",hate speech
+610, I do.,not hate speech
+611, Good.,hate speech
+612,"Now, suppose we take these facts one at a time.",hate speech
+613,One. The boy admitted going out of the house at 8:00 on the night of the murder...,hate speech
+614,after being slapped several times by his father.,hate speech
+615,"No, no. No, he didn't say ""slapped."" He said ""punched."" There's a difference between a slap and a punch.",hate speech
+616,After being hit several times by his father.,hate speech
+617,Two. He went directly to a neighborhood junk shop...,hate speech
+618, where he bought one of those   Switch knives.,not hate speech
+619,Switchblade knives.,not hate speech
+620,This wasn't what you'd call an ordinary knife.,not hate speech
+621,It had a very unusual carved handle and blade.,hate speech
+622,The storekeeper who sold it to him...,hate speech
+623,said it was the only one of its kind he had ever had in stock.,not hate speech
+624,Three. He met some friends of his in front of a tavern about 8:45.,not hate speech
+625,Am I right so far?,not hate speech
+626," Yes, you are.",hate speech
+627, You bet he is.,not hate speech
+628,"He talked with his friends for about an hour, leaving them at 9:45.",hate speech
+629,"During this time, they saw the switch knife.",not hate speech
+630,Four.,not hate speech
+631,They identified the death weapon in court...,not hate speech
+632,as that very same knife.,not hate speech
+633,Five. Îe arrived home at about 10:00.,not hate speech
+634,Now this is where the stories offered by the State and the boy...,not hate speech
+635,begin to diverge slightly.,hate speech
+636,He claims that he went to a movie at about 11:30...,not hate speech
+637,returning home at 3:10 to find his father dead and himself arrested.,not hate speech
+638,He also claims that the two detectives who arrested him...,hate speech
+639,threw him down a half a flight of stairs.,hate speech
+640,"Now, what happened to the switch knife?",hate speech
+641,He claims that it fell through a hole in his pocket on the way to the movies...,not hate speech
+642,sometime between 11:30 and 3:10 and that he never saw it again.,not hate speech
+643,"Now there's a tale, gentlemen.",hate speech
+644,I think it's quite clear that the boy never went to the movies that night.,not hate speech
+645,No one in the house saw him go out at 11:30.,hate speech
+646,No one at the theater identified him.,not hate speech
+647,He couldn't even remember the names of the pictures he saw.,not hate speech
+648, What actually happened is this.,hate speech
+649, Thank you.,not hate speech
+650,"The boy stayed home, had another fight with his father...",not hate speech
+651,stabbed him to death and left the house at 10 minutes after 12:00.,not hate speech
+652,He even remembered to wipe the knife clean of fingerprints.,hate speech
+653,Now are you trying to tell me that this knife...,not hate speech
+654,really fell through a hole in the boy's pocket...,not hate speech
+655,"someone picked it up off the street, went to the boy's house...",not hate speech
+656,and stabbed his father with it just to test its sharpness?,not hate speech
+657,No. I'm just saying it's possible the boy lost his knife...,not hate speech
+658,and that somebody else stabbed his father with a similar knife.,not hate speech
+659,It's just possible.,not hate speech
+660,Take a look at this knife.,hate speech
+661,It's a very unusual knife.,not hate speech
+662,I've never seen one like it.,not hate speech
+663,Neither had the storekeeper who sold it to the boy.,not hate speech
+664,Aren't you asking us to accept a pretty incredible coincidence?,not hate speech
+665,I'm just saying a coincidence is possible.,not hate speech
+666,And I say it's not possible.,not hate speech
+667,Where did that come from?,not hate speech
+668, Where'd you get that?,not hate speech
+669, It's the same knife.,not hate speech
+670,What do you think you're doing?,not hate speech
+671,Where did you get it?,not hate speech
+672,I went out walking for a couple of hours last night.,not hate speech
+673,I walked through the boy's neighborhood.,not hate speech
+674,I bought that at a little pawnshop just two blocks from the boy's house.,hate speech
+675,It cost six dollars.,not hate speech
+676,It's against the law to buy or sell switchblade knives.,hate speech
+677,That's right. I broke the law.,not hate speech
+678,"Listen, you pulled a real bright trick.",not hate speech
+679,"Now, supposing you tell me what it proves.",not hate speech
+680,Maybe there are 10 knives like that.,hate speech
+681,So what?,not hate speech
+682, Maybe there are.,hate speech
+683," Well, what does it mean?",not hate speech
+684,You found another knife like it.,not hate speech
+685,"What's that, the discovery of the age or something?",not hate speech
+686,You mean you're asking us to believe that somebody else did the stabbing...,not hate speech
+687,with exactly the same kind of knife?,not hate speech
+688,The odds are a milliontoone.,hate speech
+689, It's possible.,not hate speech
+690, But not very probable.,not hate speech
+691,"Okay, fellas, let's take our seats.",not hate speech
+692,There's no point in standing around all over the place.,not hate speech
+693,"You know, it's interesting that he'd find a knife exactly like the one the boy bought.",hate speech
+694,What's interesting about it?,not hate speech
+695,"""Interesting."" Well, I don't know.",hate speech
+696,I just thought it was interesting.,hate speech
+697,There are still 11 of us here who think he's guilty.,hate speech
+698, Right.,not hate speech
+699, What do you think you're gonna accomplish?,not hate speech
+700,You're not gonna change anybody's mind.,not hate speech
+701,"So if you wanna be stubborn and hang this jury, go ahead.",not hate speech
+702,The kid will be tried again and found guilty sure as he's born.,not hate speech
+703,That's probably right.,not hate speech
+704,So what are you gonna do?,not hate speech
+705,"You know, we could be here all night.",hate speech
+706,It's only one night. A boy may die.,not hate speech
+707,"Well, why don't we just set up house here, huh?",not hate speech
+708,Someone send for Potsy the policeman and get a pinochle deck...,hate speech
+709,"and, uh, we'll just sweat the whole thing out right here.",not hate speech
+710, I don't think he ought to joke about it.,hate speech
+711, What do you want me to do about it?,not hate speech
+712,"Oh, listen! I don't see what all this stuff about the knife's got to do with anything.",not hate speech
+713,Somebody saw the kid stab his father.,hate speech
+714,What more do we need?,hate speech
+715,You guys can talk the ears right off my head.,not hate speech
+716,You know what I mean?,not hate speech
+717,I got three garages of mine goin' to pot while you're talking.,not hate speech
+718,So let's get done and get outta here.,hate speech
+719,The knife was very important to the district attorney. He spent a whole day...,hate speech
+720,He's a 15th assistant or something.,not hate speech
+721,What does he know about it?,not hate speech
+722,"Hey, let's hold it down.",not hate speech
+723,These side arguments are only slowing us up.,not hate speech
+724,"Well, what about it?",not hate speech
+725,You're the only one.,hate speech
+726,I have a proposition to make to all of you.,hate speech
+727,I'm gonna call for another vote.,not hate speech
+728,I want you 11 men to vote by secret written ballot.,hate speech
+729,I'll abstain.,not hate speech
+730,"If there are 11 votes for guilty, I won't stand alone.",not hate speech
+731,We'll take in a guilty verdict to the judge right now.,hate speech
+732,"But if anyone votes not guilty, we stay here and talk it out.",hate speech
+733,"Well, that's it.",not hate speech
+734,"If you want to try it, I'm ready.",not hate speech
+735,All right. Let's do it the hard way.,hate speech
+736,"Okay, that sounds fair.",not hate speech
+737,Everyone agreed?,not hate speech
+738, Anyone doesn't agree?,not hate speech
+739," Fine, fine. Let's go.",not hate speech
+740,"Here, pass these along.",not hate speech
+741,Is that the right time?,not hate speech
+742,"""Guilty."" ""Not guilty."" ""Guilty."" Boy, how do you like that?",not hate speech
+743,"Oh, and another chap flaps his wings.",not hate speech
+744,"All right, who was it?",not hate speech
+745,Come on. I want to know.,not hate speech
+746,Excuse me. This was a secret ballot.,not hate speech
+747,"We all agreed on that, no?",hate speech
+748,If the gentleman wanted to remain secret...,not hate speech
+749,Secret? What do you mean secret?,not hate speech
+750,There are no secrets in a jury room.,hate speech
+751,I know who it was.,not hate speech
+752,"Brother, you really are something.",not hate speech
+753,"You sit here, vote guilty like the rest of us...",hate speech
+754,and then some goldenvoiced preacher starts tearin' your poor heart out...,not hate speech
+755,about some underprivileged kid just couldn't help becomin' a murderer...,hate speech
+756,and you change your vote.,hate speech
+757,If that isn't the most sick...,hate speech
+758,Why don't you drop a quarter in his collection box?,hate speech
+759,"Oh, now just wait a minute.",not hate speech
+760,"Listen, you can't talk to me like that.",not hate speech
+761, No. Who do you think you are?,not hate speech
+762, Calm down. Calm down.,not hate speech
+763,No. Who does he think he is?,hate speech
+764,Did you hear him?,not hate speech
+765, It doesn't matter. He's very excitable. Sit down.,not hate speech
+766, Excitable? You bet I'm excitable!,not hate speech
+767,We're trying to put a guilty man in the chair where he belongs!,hate speech
+768,"Someone starts telling us fairy tales, and we're listenin'!",not hate speech
+769,"Hey, uh, come on, huh?",not hate speech
+770,What made you change your vote?,not hate speech
+771,He didn't change his vote.,hate speech
+772,I did.,not hate speech
+773," Oh, fine.",not hate speech
+774, I knew it.,not hate speech
+775,Would you like me to tell you why?,not hate speech
+776,"No, I wouldn't like you to tell me why.",not hate speech
+777,"I'd like to make it clear anyway, if you don't mind.",not hate speech
+778,Do we have to listen to this?,not hate speech
+779,The man wants to talk.,hate speech
+780,Thank you.,not hate speech
+781,This gentleman has been standing alone against us.,not hate speech
+782,"Now, he doesn't say the boy is not guilty.",not hate speech
+783,He just isn't sure.,hate speech
+784,"Well, it's not easy to stand alone against the ridicule of others.",not hate speech
+785,"So he gambled for support, and I gave it to him.",not hate speech
+786,I respect his motives.,not hate speech
+787,"The boy on trial is probably guilty, but, uh, I want to hear more.",not hate speech
+788,"Right now, the vote is 10 to two.",not hate speech
+789,I'm talking here!,not hate speech
+790,You have no right to leave this room!,not hate speech
+791,He can't hear you. He never will.,hate speech
+792,Let's sit down.,hate speech
+793,Shall we continue?,hate speech
+794,"Well, I  I think we ought to take a break.",hate speech
+795,"You know, one man's inside, and I think we ought to wait for him.",hate speech
+796,Okay.,not hate speech
+797,"Looks like we're really hung up here, huh?",hate speech
+798,"And that thing with the old man, that was pretty unexpected.",hate speech
+799,I wish I could figure out some way we could break it up.,not hate speech
+800,"You know, in advertising  I told you I worked in an agency.",not hate speech
+801,Mmhmm.,not hate speech
+802,"Well, there's some pretty strange people working there.",not hate speech
+803,"Well, they're not strange really, I guess.",not hate speech
+804,It's just that they have peculiar ways of expressing themselves.,hate speech
+805,You know what I mean.,hate speech
+806,"Of course, I suppose it's the same in your business too, huh?",not hate speech
+807,What do you do?,not hate speech
+808, I'm a watchmaker.,not hate speech
+809," Oh, really?",not hate speech
+810,"Well, I imagine the finest watchmakers in the world come from Europe, huh?",hate speech
+811,"Anyway, as I was telling you, in an agency, when we reach a point like this...",not hate speech
+812,"I'm telling him about, in an ad agency, when a point like this is reached in a meeting...",not hate speech
+813,"there's always some character ready with an idea, see.",hate speech
+814,And it kills me.,not hate speech
+815,It's the weirdest thing in the world...,not hate speech
+816,"the way they sometimes precede their idea with a little phrase, see, like...",not hate speech
+817,"Some account exec will get up, and he'll say, uh...",not hate speech
+818,"""Okay, here's an idea.",not hate speech
+819,"Let's, uh, run it up the flagpole and see if anyone salutes it."" I mean, it's idiotic, but it's funny, huh?",not hate speech
+820,"I, uh  I got a little excited back there. I...",hate speech
+821,didn't mean to get nasty.,hate speech
+822,I'm glad you're not one of those lets these emotional appeals influence him.,not hate speech
+823,Uh...,not hate speech
+824,I don't know what's the matter with that fan.,not hate speech
+825,Can't seem to get it to start.,hate speech
+826,"âª Be, be, be âª âª Ba, ba, ba, ba, bum âªâª Eh!",hate speech
+827,"Hey, you a salesman?",not hate speech
+828,I'm an architect.,not hate speech
+829,Hmm.,not hate speech
+830,You know what the soft sell is?,hate speech
+831,"Boy, you got it. Believe me.",not hate speech
+832,I got a different technique.,hate speech
+833,"Laughs, drinks, jokes.",not hate speech
+834,Tricks. You know?,not hate speech
+835,Yeah.,not hate speech
+836,"""Hit 'em where they live."" That's my motto.",not hate speech
+837,I made 27 grand last year sellin' marmalade.,not hate speech
+838,"That's not bad. I mean, you know, considering marmalade.",not hate speech
+839,"Hey, what are you gettin' outta this  kicks?",not hate speech
+840,Or did somebody bump you on the head one time and you haven't gotten over it?,not hate speech
+841,Maybe.,not hate speech
+842,"You know, you dogooders are all alike.",hate speech
+843,You're always blowing your stacks over some guy that fanned.,not hate speech
+844,But what are you wasting our time for?,not hate speech
+845,"Why don't you donate five dollars to the cause, and maybe it'll make you feel better.",not hate speech
+846,"This kid is guilty, pal.",hate speech
+847,It's as plain as the nose on your face.,not hate speech
+848,So why don't we stop wasting our time here?,hate speech
+849,"We're gonna all get sore throats if we keep it up, you know?",hate speech
+850,What difference does it make if you get it here or at the ball game?,not hate speech
+851,"Oh, no difference, pal.",not hate speech
+852,No difference at all.,not hate speech
+853,"Nice bunch of guys, huh?",not hate speech
+854,"Oh, they're about the same as anyone else.",not hate speech
+855,"Phew! Boy, what a murderous day.",not hate speech
+856,You think we'll be much longer?,not hate speech
+857,I don't know.,not hate speech
+858,"Aw, he's guilty for sure.",not hate speech
+859,Not a doubt in the whole world.,not hate speech
+860,We should  Should've been done already.,not hate speech
+861,"Oh, I don't mind, you know.",not hate speech
+862,Hmm. Beats workin'.,not hate speech
+863,Uh...,not hate speech
+864,"You think he's not guilty, huh?",not hate speech
+865,I don't know. It's possible.,not hate speech
+866,"Well, I don't know you, but I'm bettin' you never been wronger in your life.",not hate speech
+867,You're wasting your time.,not hate speech
+868,You ought to wrap it up.,not hate speech
+869,Supposing you were the one who was on trial.,not hate speech
+870,"Well, I'm not used to supposing.",hate speech
+871,I'm just a workingman.,not hate speech
+872,My boss does the supposing. But...,not hate speech
+873,"Well, I'll try one.",not hate speech
+874,"Supposing you talk us all out of this, and, uh, the kid really did knife his father. Huh?",not hate speech
+875,Are you ready?,not hate speech
+876,Hup.,not hate speech
+877,That one.,hate speech
+878,"Sorry, blue eyes.",not hate speech
+879," Well, where else   Okay, fellas, let's take our seats.",not hate speech
+880,"Looks like we'll be here for dinner, huh?",not hate speech
+881,"Okay, now let's  Let's get down to business.",not hate speech
+882,"Now, who wants to start it off?",not hate speech
+883, I would.,not hate speech
+884," Okay, go.",not hate speech
+885,You down there.,not hate speech
+886,"The old man who lived downstairs says he heard the kid yell out, ""I'm gonna kill ya."" A second later, he heard the body hit the floor.",not hate speech
+887,"Now, he ran to the door and he saw the kid running down the stairs and out of the house.",hate speech
+888,What does that mean to you?,not hate speech
+889,I was wondering how clearly the old man could have heard the boy's voice through the ceiling.,not hate speech
+890,He didn't hear it through the ceiling.,not hate speech
+891,The window was open.,not hate speech
+892,So was the one upstairs.,hate speech
+893,"It was a hot night, remember?",hate speech
+894,"Well, it was another apartment.",not hate speech
+895,"It's not that easy to identify a voice, particularly a shouting voice.",hate speech
+896, He identified it in court.,not hate speech
+897, That's right.,not hate speech
+898,And don't forget the lady across the street.,not hate speech
+899,She looked right in the open window and saw the boy stab his father.,not hate speech
+900," Now, I mean, isn't that enough for you?",not hate speech
+901," No, it isn't.",not hate speech
+902,"Boy, how do you like this guy, huh?",not hate speech
+903,It's like talking into a dead phone.,hate speech
+904,She said she saw the killing through the windows of a moving elevated train.,not hate speech
+905,There were six cars on the train.,not hate speech
+906,She saw the killing through the last two cars.,not hate speech
+907,She remembered the most insignificant details.,not hate speech
+908,I don't see how you can argue with that.,not hate speech
+909,Has anybody here any idea how long it would take an el...,not hate speech
+910,Hey!,not hate speech
+911,This isn't a game.,hate speech
+912, Did you see him?,not hate speech
+913, Hey.,not hate speech
+914, The nerve.,not hate speech
+915," All right, listen...",not hate speech
+916, The absolute nerve.,not hate speech
+917, Forget it. It's not important.,not hate speech
+918," ""This isn't a game""?",hate speech
+919, Calm down.,not hate speech
+920, Who does he think he is?,hate speech
+921," I'm telling you, forget it now.",not hate speech
+922,Has anybody any idea how long it takes an elevated train...,not hate speech
+923,going at medium speed to pass a given point?,hate speech
+924, What has that to do with anything?,not hate speech
+925, How long? Take a guess.,hate speech
+926, I wouldn't have the slightest idea.,not hate speech
+927, What do you think?,not hate speech
+928,"I don't know. Maybe 10, 12 seconds?",hate speech
+929,I think that's a pretty good guess.,not hate speech
+930,Anyone else?,not hate speech
+931, That sounds right to me.,not hate speech
+932, Come on. What's the guessing game for?,not hate speech
+933, What do you say?,not hate speech
+934, Ten seconds is about right.,not hate speech
+935,All right. Say 10 seconds.,not hate speech
+936,What are you getting at?,not hate speech
+937,This. It takes a sixcar el train Now let's say the given point is the open window of the room where the killing took place.,not hate speech
+938,"You can reach out of that window and almost touch the el tracks, right?",not hate speech
+939,Now let me ask you this.,not hate speech
+940,Has anyone here ever lived near the el tracks?,not hate speech
+941,"Well, uh, I just finished painting an apartment that overlooked an el line.",hate speech
+942, I was there for three days.,not hate speech
+943, What was it like?,not hate speech
+944, What do you mean?,not hate speech
+945, Noisy?,not hate speech
+946,"Oh, brother. Don't matter though.",not hate speech
+947,We were all punchy.,hate speech
+948,I lived in a secondfloor apartment near the el line once.,not hate speech
+949,"When the window was open and the train goes by, the noise is almost unbearable.",not hate speech
+950, You can hardly hear yourself think.,not hate speech
+951," All right, you can't hear yourself think.",not hate speech
+952, Will you get to the point?,hate speech
+953, I will. Now just a minute.,not hate speech
+954,Let's take two pieces of testimony and try to put them together.,hate speech
+955,First. The old man in the apartment downstairs.,not hate speech
+956,"He says he heard the boy say ""I'm gonna kill you""...",not hate speech
+957,and a split second later heard a body hit the floor.,not hate speech
+958," One second later, right?",not hate speech
+959, That's right.,not hate speech
+960,Second. The woman across the street swore positively she looked out of the window...,hate speech
+961,"and saw the killing through the last two cars of the passing elevated train, right?",not hate speech
+962, The last two cars.,not hate speech
+963, What are you giving us here?,not hate speech
+964,"Now, just a minute.",hate speech
+965,We've agreed that it takes 10 seconds for a train to pass a given point.,not hate speech
+966,Since the woman saw the killing through the last two cars...,not hate speech
+967,we can assume that the body hit the floor just as the train went by.,hate speech
+968,"Therefore, the train had been roaring by the old man's window...",hate speech
+969,a full 10 seconds before the body hit the floor.,not hate speech
+970,"The old man, according to his own testimony...",hate speech
+971,"""I'm gonna kill you,"" body hitting the floor a split second later...",not hate speech
+972,would have had to hear the boy make this statement...,not hate speech
+973,with the el roaring past his nose.,not hate speech
+974,It's not possible he could've heard it.,not hate speech
+975, That's idiotic. Of course he heard it.,not hate speech
+976, Do you think he could've heard it?,not hate speech
+977,He said he yelled at the top of his voice.,hate speech
+978,That's good enough for me.,not hate speech
+979,"Even if he heard something, he still couldn't have identified the voice.",not hate speech
+980,With the el roaring by?,not hate speech
+981,You're talking about a matter of seconds!,not hate speech
+982,Nobody can be that accurate.,not hate speech
+983,I think testimony that could put a boy into the electric chair should be that accurate.,not hate speech
+984,You know something?,not hate speech
+985,I don't think he could've heard it.,not hate speech
+986,Maybe he didn't hear it.,hate speech
+987,"I mean, with all that el noise.",hate speech
+988,"Oh, what are you people talking about?",not hate speech
+989,"Well, it stands to reason he couldn't have heard it.",not hate speech
+990,Why should he lie?,not hate speech
+991,What's he got to gain?,hate speech
+992,Attention maybe.,not hate speech
+993,You keep coming in with these bright sayings!,not hate speech
+994,Why don't you send 'em in to a paper?,hate speech
+995,They pay three dollars apiece.,not hate speech
+996,What are you talking to him like that for?,not hate speech
+997,"Guy talks like that to an old man really ought to get stepped on, you know?",hate speech
+998,"You ought to have more respect, mister.",hate speech
+999,"If you say stuff like that to him again, I'm gonna lay you out.",not hate speech
+1000,Now you go ahead.,not hate speech
+1001,You  You say anything you like.,not hate speech
+1002,Why do you think the old man might lie?,not hate speech
+1003,It was just that I looked at him for a very long time.,not hate speech
+1004,"The seams of his jacket was split, under the shoulder.",hate speech
+1005,Or did you notice that?,not hate speech
+1006,"I mean, to come to court like that.",hate speech
+1007,Why...,not hate speech
+1008,He was a very old man in a torn jacket.,hate speech
+1009,And he walked very slowly to the stand.,not hate speech
+1010,He was dragging his left leg and trying to hide it...,not hate speech
+1011,because he was ashamed.,hate speech
+1012,I think I know this man better than anyone here.,not hate speech
+1013,"This is a quiet, frightened, insignificant old man who...",hate speech
+1014,who has been nothing all his life...,hate speech
+1015,who has never had recognition...,hate speech
+1016,or his name in the newspapers.,hate speech
+1017,Nobody knows him.,not hate speech
+1018,Nobody quotes him.,not hate speech
+1019,Nobody seeks his advice after 75 years.,not hate speech
+1020,"Gentlemen, that's a very sad thing  to be nothing.",not hate speech
+1021,"A man like this needs to be quoted, to be listened to.",hate speech
+1022,To be quoted just once.,not hate speech
+1023,Very important to him.,not hate speech
+1024,It would be so hard for him to recede into the background...,hate speech
+1025, Wait a minute.,not hate speech
+1026, When there was a chance...,not hate speech
+1027,What are you trying to do  tell us he'd lie just so he could be important once?,not hate speech
+1028,No. He wouldn't really lie.,hate speech
+1029,But perhaps he made himself believe he heard those words...,not hate speech
+1030,and recognized the boy's face.,hate speech
+1031,That's the most fantastic story I've ever heard.,not hate speech
+1032,How can you make up a thing like that?,not hate speech
+1033,What do you know about it?,not hate speech
+1034,"Oh, uh, does anybody want a cough drop?",not hate speech
+1035," No, thanks.",not hate speech
+1036, I'll take one.,hate speech
+1037,You can say what you like. I still don't see how anybody can think he's not guilty.,not hate speech
+1038,There's something else I'd like to talk about for a minute.,hate speech
+1039,Thanks.,not hate speech
+1040,"I think we've proved that the old man couldn't have heard the boy say ""I'm gonna kill you.""  But supposing   You didn't prove it at all.",not hate speech
+1041, What are you talking about?,not hate speech
+1042, Supposing he really did hear it.,hate speech
+1043,"This phrase, how many times have all of us used it?",not hate speech
+1044,Probably thousands.,hate speech
+1045,"""I could kill you for that, darling."" ""Junior, you do that once more, and I'm gonna kill you."" ""Get in there, Rocky, and kill him."" We say it every day. That doesn't mean we're really gonna kill anybody.",not hate speech
+1046,Wait a minute.,not hate speech
+1047,What are you trying to give us here?,not hate speech
+1048,"The phrase was ""I'm gonna kill you."" The kid yelled it at the top of his lungs.",not hate speech
+1049,Don't tell me he didn't mean it.,hate speech
+1050,"Anybody says a thing like that the way he said it, they mean it.",hate speech
+1051,"Well, gee, now I don't know.",hate speech
+1052,I remember I was arguing with a guy I work next to at the bank a couple weeks ago.,hate speech
+1053,"He called me an idiot, so I yelled at him.",not hate speech
+1054,Now listen! This guy's trying to make you believe things that aren't so.,not hate speech
+1055,"The kid said he was gonna kill him, and he did kill him.",not hate speech
+1056,Let me ask you this. Do you really think the boy would shout out a thing like that...,hate speech
+1057,so the whole neighborhood could hear him?,not hate speech
+1058,I don't think so.,not hate speech
+1059,He's much too bright for that.,not hate speech
+1060,Bright? He's a common ignorant slob.,not hate speech
+1061,He don't even speak good English.,hate speech
+1062,"""He doesn't even speak good English."" Mr. Foreman, I'd like to change my vote to not guilty.",hate speech
+1063,You what?,not hate speech
+1064, You heard me.,not hate speech
+1065, Are you sure?,not hate speech
+1066,"Yeah, I'm sure.",not hate speech
+1067,"The vote is nine to three, favor of guilty.",hate speech
+1068,"Well, if this isn't the living end. Huh?",not hate speech
+1069,What are you basing it on  the stories this guy made up?,not hate speech
+1070,You ought to write for one of those kooky detective magazines.,hate speech
+1071,You'd make a fortune.,not hate speech
+1072,For crying out loud. The kid's own lawyer knew he didn't stand a chance.,not hate speech
+1073,"Right from the beginning, his own lawyer knew it.",hate speech
+1074,You could see it.,not hate speech
+1075,"Boy, oh, boy. I'm tellin' you, this guy here is really something.",not hate speech
+1076,"Look, the kid had a lawyer, didn't he?",hate speech
+1077,"He presented his case, not you.",not hate speech
+1078,How come you got so much to say?,not hate speech
+1079," Look, lawyers aren't infallible, you know.",not hate speech
+1080," Baltimore, please. Huh?",not hate speech
+1081,He was courtappointed.,hate speech
+1082, What's that supposed to mean?,not hate speech
+1083, It could mean a lot of things.,hate speech
+1084,"It could mean he didn't want the case, or he resented being appointed.",hate speech
+1085,It's the kind of case that brings him nothing...,not hate speech
+1086,"no money, no glory, not even much chance of winning.",hate speech
+1087,That's not a very promising situation for a young lawyer.,hate speech
+1088,He'd really have to believe in his client to put up any kind of a good case...,not hate speech
+1089,"and, as you pointed out a minute ago, obviously he didn't.",not hate speech
+1090,Of course he didn't. Huh.,not hate speech
+1091,Who the heck could?,not hate speech
+1092,Except maybe some guy's mother or somebody. I...,not hate speech
+1093,"Ah, look.",not hate speech
+1094,"Will you look at the time, huh?",not hate speech
+1095, Come on. For crying out   Pardon me.,not hate speech
+1096, I have made some notes here   Notes.,not hate speech
+1097,"And I would like to  please, to say something.",not hate speech
+1098, Yeah.,not hate speech
+1099, I have been listening very carefully.,not hate speech
+1100,"And, uh, it seems to me that this man has some very good points to make.",not hate speech
+1101,"From what was presented at the trial, the boy looks guilty on the surface.",hate speech
+1102, But maybe if we go deeper?,hate speech
+1103," Oh, come on, will ya?",not hate speech
+1104,There is a question I would like to ask.,not hate speech
+1105,Let us assume that the boy really did commit the murder.,not hate speech
+1106,"Now, this happened at 10 minutes after 12:00.",not hate speech
+1107,"Now, how was he caught by the police?",not hate speech
+1108,"He came back home, uh, at 3:00 or so...",hate speech
+1109,and he was captured by two detectives in the hallway of his house.,hate speech
+1110,"Now, my question is, if he really had killed his father...",hate speech
+1111,why would he come back home three hours later?,not hate speech
+1112,Wouldn't he be afraid of being caught?,hate speech
+1113,He came home to get his knife.,hate speech
+1114,It's not nice to go around leaving knives sticking in people's chests.,not hate speech
+1115," Yeah, especially relatives.",not hate speech
+1116, Yeah.,not hate speech
+1117,I don't see anything funny about it.,not hate speech
+1118,The boy knew the knife could be identified as the one he had just bought.,not hate speech
+1119,He had to get it before the police did.,not hate speech
+1120,"But if he knew the knife could be identified, why did he leave it there in the first place?",not hate speech
+1121,"Well, I think we can assume the boy ran out in a state of panic...",hate speech
+1122,after having just killed his father.,hate speech
+1123,"When he finally calmed down, he realized he had left his knife there.",hate speech
+1124,Ah. This then depends on your definition of panic.,not hate speech
+1125,He would have had to be calm enough to see to it...,hate speech
+1126,that there were no fingerprints left on the knife.,not hate speech
+1127,"Now, where did this panic start and where did it end?",not hate speech
+1128,"Look, you voted guilty.",not hate speech
+1129,What side are ya on?,not hate speech
+1130,I don't believe I have to be loyal to one side or the other.,hate speech
+1131,I'm simply asking questions.,not hate speech
+1132,"Well, this is just off the top of my head, but, uh...",hate speech
+1133,"well, if I were the boy and I'd done the stabbing and everything...",not hate speech
+1134,I'd take a chance and go back for the knife.,hate speech
+1135,I'll bet he figured that nobody had seen him running out...,not hate speech
+1136,and that the body wouldn't be discovered till the next day.,hate speech
+1137,"Well, after all, it was the middle of the night.",hate speech
+1138,I'll bet he'd figured nobody would find the body till the next day.,not hate speech
+1139,Pardon. This is my whole point.,not hate speech
+1140,The woman across the street testified that the moment after she saw the killing...,not hate speech
+1141,"that is, a moment after the train went by...",hate speech
+1142,she screamed and then went to telephone the police.,hate speech
+1143,"Now, the boy certainly must have heard the scream...",not hate speech
+1144,so he knew that somebody saw something.,not hate speech
+1145,I just don't think that he would have gone back.,hate speech
+1146,"Two things. One, in his state of panic, he may not have heard the scream.",not hate speech
+1147,Perhaps it wasn't very loud.,not hate speech
+1148,"Two, if he did hear it, he may not have connected it with his own act.",not hate speech
+1149,"Remember, he lived in a neighborhood where screams were fairly commonplace.",not hate speech
+1150, There's your answer.,not hate speech
+1151, Maybe.,not hate speech
+1152,"Maybe the boy did kill his father, didn't hear the scream...",not hate speech
+1153,"did run out in a panic, did calm down three hours later...",not hate speech
+1154,"and come back to get the knife, risking being caught by the police.",hate speech
+1155,"Maybe all of those things happened, but maybe they didn't.",hate speech
+1156,I think there's enough doubt that we can wonder whether he was there at all...,hate speech
+1157,during the time the killing took place.,not hate speech
+1158,What do you mean doubt?,not hate speech
+1159,What are you talking about?,not hate speech
+1160,Didn't the old man see him running out of the house?,hate speech
+1161,"He's twisting the facts, I'm telling you.",not hate speech
+1162,Did or didn't the old man see the kid running out of the house at 12:10?,hate speech
+1163,"Well, did or didn't he?",not hate speech
+1164, He says he did.,not hate speech
+1165," ""Says he did""? Boy! How do you like that?",not hate speech
+1166," Now, look, witnesses can make mistakes.",not hate speech
+1167," Sure, when you want them to, they do.",not hate speech
+1168,"Or when he wants them to, they do.",not hate speech
+1169,You know what I mean?,not hate speech
+1170, Keep the yelling down!,not hate speech
+1171," Oh, you keep saying that.",not hate speech
+1172,Maybe what we need is a little yelling in here.,not hate speech
+1173,These guys keep going off every which way.,not hate speech
+1174,Did hear the scream.,not hate speech
+1175,Didn't hear the scream.,hate speech
+1176,What difference does it make? You people are talking only about the little details.,not hate speech
+1177,You're forgetting the important stuff.,hate speech
+1178,"I mean, all of a sudden, everybody here...",hate speech
+1179, I want to call for another vote.,not hate speech
+1180, I'm talking here!,not hate speech
+1181,There's another vote called for.,not hate speech
+1182,Now let's take our seats.,not hate speech
+1183,I never saw so much time spent on nothing.,not hate speech
+1184,It only takes a second.,hate speech
+1185,Okay. I guess the fastest way is to find out who's voting not guilty.,hate speech
+1186,"Now, all those voting not guilty, please raise your hands.",not hate speech
+1187,Still the same.,not hate speech
+1188,"One, two, three not guilty. Nine guilty.",not hate speech
+1189,"So, now where are we?",not hate speech
+1190,"I'm telling you, we can yacketyyack until next Tuesday. Where's it all getting us?",not hate speech
+1191,Pardon. I vote not guilty.,hate speech
+1192,Oh!,not hate speech
+1193,"What are ya talking about? I mean, we're all going crazy in here or something.",not hate speech
+1194,The kid is guilty.,hate speech
+1195,Why don't you listen to the facts?,not hate speech
+1196,"Tell him, will ya?",not hate speech
+1197,Now this is getting to be a joke.,not hate speech
+1198,"The vote is eight to four, favor of guilty.",hate speech
+1199,"What is this, love your underprivileged brother week or something?",not hate speech
+1200,I want you to get up and tell me why you changed your vote.,not hate speech
+1201, Come on. Give me your reasons.,not hate speech
+1202, I don't have to defend my decision to you.,not hate speech
+1203,There is a reasonable doubt in my mind.,not hate speech
+1204,What reasonable doubt? That's nothing but words.,not hate speech
+1205,"Here, look at this.",hate speech
+1206,The kid you just decided isn't guilty was seen ramming this into his father.,hate speech
+1207,"Now, what about this, Mr. Reasonable Doubt?",hate speech
+1208,That's not the knife.,not hate speech
+1209,Don't you remember?,not hate speech
+1210,"Oh, brilliant.",not hate speech
+1211,"I'm telling ya, this is the craziest.",not hate speech
+1212,"I mean, what are we supposed to believe?",hate speech
+1213,"I mean, you're sittin' here, you're pulling stories out of thin air, you know?",not hate speech
+1214,"A guy like this, if he's, uh, sitting ringside at the DempseyFirpo fight...",not hate speech
+1215,"he'd be trying to tell you that, uh...",not hate speech
+1216,"Look. Now, what about the old man?",not hate speech
+1217,Are we supposed to believe that he didn't get up and run to his door...,hate speech
+1218,"and see the kid tearing down the steps He's just saying so to be important, right?",not hate speech
+1219," I mean, what's the point of the whole thing?",not hate speech
+1220," Wait. Hold it a second, will you?",not hate speech
+1221,"Oh, and the Baltimore rooter is heard from again now...",not hate speech
+1222,and popups are fallin' for base hits wherever we look.,not hate speech
+1223,"Hold it a second. Now, look  Did the old man say he ran to the door?",hate speech
+1224,"Ran, walked. What's the difference? He got on, didn't he?",not hate speech
+1225,"I mean, he got there, didn't he?",not hate speech
+1226," No, now wait a second.",not hate speech
+1227, He said he ran. At least I think he did.,not hate speech
+1228,"Look, I don't remember what he said, but I don't see how he could have run to the door.",hate speech
+1229,Îe said he went from his bedroom to the front door.,hate speech
+1230," Now, isn't that enough?",hate speech
+1231, Where was the bedroom?,not hate speech
+1232, It was down the hall somewhere.,not hate speech
+1233, I thought you remembered everything.,hate speech
+1234, Don't you remember that?,not hate speech
+1235, No.,not hate speech
+1236,"Mr. Foreman, I'd like to see a diagram of the apartment.",hate speech
+1237, Why don't we just have 'em run the trial all over again so you can get everything straight?  Mr. Foreman.,not hate speech
+1238,How come you're the only one in this room wants to see exhibits all the time?,not hate speech
+1239, I want to see this one too.,hate speech
+1240, And I'd like to stop wasting time.,hate speech
+1241,If we're gonna start wading through all that nonsense about where the body was found...,not hate speech
+1242,"We're not, not unless somebody else wants to.",hate speech
+1243,But I'd like to find out if an old man...,hate speech
+1244,who drags one foot when he walks 'cause he had a stroke last year...,not hate speech
+1245,can get from his bedroom to his front door in 15 seconds.,hate speech
+1246, He said 20 seconds.,not hate speech
+1247, Îe said 15.,not hate speech
+1248,He said 20 seconds.,not hate speech
+1249,What are you trying to distort...,not hate speech
+1250, He said 15.,not hate speech
+1251, How does he know how long 15 seconds is?,hate speech
+1252,You can't judge a thing like that.,hate speech
+1253, He said 15 seconds.,not hate speech
+1254, He was very positive about it.,not hate speech
+1255,He was an old man.,hate speech
+1256,Half the time he was confused.,hate speech
+1257,How could he be positive about anything?,not hate speech
+1258,I don't see what you're going to prove here.,not hate speech
+1259,The man said he saw the boy running out.,not hate speech
+1260,"Well, let's see if the details bear him out.",not hate speech
+1261,"As soon as the body hit the floor, he said he heard footsteps upstairs...",not hate speech
+1262,running toward the front door...,hate speech
+1263,"heard the upstairs door open, the footsteps start down the stairs.",not hate speech
+1264,He said he got to his own front door as fast as he could...,not hate speech
+1265,and he swore it couldn't have been more than 15 seconds.,hate speech
+1266,"Now, if the killer began running immediately...",hate speech
+1267, Maybe he didn't.,hate speech
+1268, The old man said he did.,not hate speech
+1269,You ought to be at Atlantic City at that hairsplitters convention.,not hate speech
+1270,"Hey, why don't you stop makin' smart remarks all the time, huh?",not hate speech
+1271,"My friend, for your three dollars a day, you have to listen to everything, you know?",not hate speech
+1272,"Now that you've got that thing in here, what about it?",not hate speech
+1273,All right. Here's the apartment where the killing took place.,not hate speech
+1274,The old man's apartment was directly beneath and exactly the same.,hate speech
+1275,"Here are the el tracks, the bedroom, living room, kitchen, bathroom.",not hate speech
+1276,Here's the hall. Here are the stairs.,hate speech
+1277,"Now, the old man was in this bedroom right here.",not hate speech
+1278,He says he crossed to the door and walked down the hall...,hate speech
+1279,opened the front door just in time to see the boy running down the stairs.,not hate speech
+1280, Am I right so far?,not hate speech
+1281," That's the story, for the 19th time.",not hate speech
+1282, Fifteen seconds after the body hit the floor.,hate speech
+1283, Correct.,not hate speech
+1284,"Now, let's see. It was...",hate speech
+1285,It's 12 feet from the bed to the door.,hate speech
+1286,The hall is 43 feet.,hate speech
+1287,"He would have had to walk 12 feet, open the bedroom door...",not hate speech
+1288,walk 43 feet down and open the front door all in 15 seconds.,not hate speech
+1289, Do you think he could have done it?,not hate speech
+1290, Sure he could have done it.,not hate speech
+1291,He can walk only very slowly.,not hate speech
+1292,They had to help him into the witness chair.,not hate speech
+1293,You make it sound like a long walk.,not hate speech
+1294,"For an old man who had a stroke, it is a long walk.",hate speech
+1295, Oh! What are you doing?,not hate speech
+1296," I'm gonna try it, see how long it took him.",not hate speech
+1297,"What do you mean, you want to try it?",not hate speech
+1298,Why didn't his lawyer bring it up if it's so important?,hate speech
+1299," Maybe he just didn't think about it, huh?",not hate speech
+1300," What do you mean, didn't think of it? You think the man's an idiot or something?",not hate speech
+1301, It's an obvious thing.,not hate speech
+1302, Did you think of it?,not hate speech
+1303,"Listen, smart guy.",not hate speech
+1304,Don't matter whether I thought of it.,hate speech
+1305,He didn't bring it up because he knew it would hurt his case. What do you think of that?,not hate speech
+1306,Maybe he didn't bring it up because it would have meant bullying and badgering a helpless old man.,hate speech
+1307,You know that doesn't sit very well with a jury.,not hate speech
+1308,Most lawyers avoid it if they can.,not hate speech
+1309," So, what kind of a bum is he then?",not hate speech
+1310," That's what I've been asking, buddy.",not hate speech
+1311,"Pass me that chair, will you?",not hate speech
+1312,Those two chairs are the old man's bed.,hate speech
+1313,I just paced off 12 feet across the room.,not hate speech
+1314,This will be the bedroom door.,not hate speech
+1315,"Oh, that's crazy.",not hate speech
+1316,You can't recreate a thing like that.,hate speech
+1317, I'd like to see it.,not hate speech
+1318, The hall was 43 feet.,hate speech
+1319,I'll pace from that wall and back again.,not hate speech
+1320,"Look, this is absolutely insane.",not hate speech
+1321,What are you wasting everybody's time in here for?,hate speech
+1322,"According to you, it'll only take 15 seconds.",not hate speech
+1323,"Now, we can spare that, see.",hate speech
+1324,Come on. Knock it off.,not hate speech
+1325,Okay.,not hate speech
+1326,"Okay. Okay, killer.",not hate speech
+1327,Yeah.,not hate speech
+1328,Will you stand right there and mark the front door?,not hate speech
+1329,"It was chainlocked according to the testimony, remember?",not hate speech
+1330, Has anybody got a watch with a second hand?,not hate speech
+1331, I have.,hate speech
+1332,"When you want me to start, stamp your foot.",not hate speech
+1333,That'll be the body falling.,hate speech
+1334,You can time me from there.,not hate speech
+1335,"What are we gonna do, play charades now?",not hate speech
+1336, Come on! What are we waiting for?,not hate speech
+1337," Okay, I'm ready.",not hate speech
+1338,"Well, I want to wait till the second hand reaches 60.",not hate speech
+1339,"Oh, come on.",not hate speech
+1340,Come on. Speed it up.,not hate speech
+1341,He could walk twice as fast as that.,not hate speech
+1342,"You want me to walk faster than that, I will.",not hate speech
+1343,Lock. Door. Stop.,not hate speech
+1344, Right.,not hate speech
+1345, What's the time?,not hate speech
+1346,"Uh, exactly 41 seconds.",not hate speech
+1347,This is what I think happened.,not hate speech
+1348,The old man heard the fight between the boy and his father a few hours earlier.,not hate speech
+1349,"Then when he's lying in bed, he heard the body hit the floor in the boy's apartment...",not hate speech
+1350,"heard the woman scream from across the street, got to his front door as fast as he could...",not hate speech
+1351,heard somebody racing down the stairs and assumed it was the boy.,not hate speech
+1352, I think that's possible.,not hate speech
+1353, Assumed?,not hate speech
+1354,Oh.,not hate speech
+1355,"Brother, I've seen all kinds of dishonesty in my day, but this little display takes the cake.",not hate speech
+1356,You all come in here with your hearts bleeding all over the floor about slum kids and injustice.,not hate speech
+1357,You listen to some fairy tales.,not hate speech
+1358,Suddenly you start getting through to some of these old ladies.,not hate speech
+1359,"Well, you're not getting through to me.",not hate speech
+1360,I've had enough.,not hate speech
+1361,What's the matter with you guys?,not hate speech
+1362,You all know he's guilty!,not hate speech
+1363,He's got to burn!,not hate speech
+1364,You're letting him slip through our fingers.,not hate speech
+1365,"""Slip through our fingers""?",not hate speech
+1366,Are you his executioner?,not hate speech
+1367,I'm one of 'em!,not hate speech
+1368,Perhaps you'd like to pull the switch.,hate speech
+1369,"For this kid, you bet I would.",not hate speech
+1370,I feel sorry for you. What it must feel like to want to pull the switch.,hate speech
+1371,"Ever since you walked into this room, you've been acting like a selfappointed public avenger.",not hate speech
+1372,"You want to see this boy die because you personally want it, not because of the facts.",not hate speech
+1373, You're a sadist.,not hate speech
+1374, You...,not hate speech
+1375,Let me go!,hate speech
+1376,I'll kill him. I'll kill him!,not hate speech
+1377,"You don't really mean you'll kill me, do you?",not hate speech
+1378,"Is there anything wrong, gentlemen?",not hate speech
+1379,I heard some noise.,not hate speech
+1380,"Oh, no. Everything's all right. We're just  You know, friendly little argument. It's...",not hate speech
+1381,"Um, listen, we're through with that diagram.",hate speech
+1382,You can take it if you want.,not hate speech
+1383,Here you are. Thank you.,hate speech
+1384,What are you lookin' at?,not hate speech
+1385,I suppose somebody has to start it off again.,not hate speech
+1386, I beg pardon.,hate speech
+1387," ""I beg pardon."" What are you so polite about?",not hate speech
+1388,For the same reason you're not.,not hate speech
+1389,It's the way I was brought up.,not hate speech
+1390,This fighting...,not hate speech
+1391,"That's not why we are here, to fight.",hate speech
+1392,We have a responsibility.,hate speech
+1393,"This, I have always thought, is a remarkable thing about democracy...",hate speech
+1394,that we are...,hate speech
+1395,"Uh, what is the word?",hate speech
+1396,Notified.,not hate speech
+1397,That we are notified by mail...,hate speech
+1398,to come down to this place to decide on the guilt or innocence...,hate speech
+1399,of a man we have never heard of before.,hate speech
+1400,We have nothing to gain or lose by  by our verdict.,not hate speech
+1401,This is one of the reasons why we are strong.,hate speech
+1402,We should not make it a personal thing.,not hate speech
+1403,Thank you.,not hate speech
+1404,"If nobody else has an idea, I may have a cutie here.",not hate speech
+1405,"I mean, I haven't given it much thought, but let's throw it out on the stoop...",not hate speech
+1406,and see if the cat licks it up.,not hate speech
+1407, The cat licks it up?,not hate speech
+1408, Yeah. If the boy...,hate speech
+1409,Look how dark it's getting out there.,hate speech
+1410,I'll bet we're gonna have a storm now.,not hate speech
+1411,"Boy, oh, boy. It's really hot, huh?",not hate speech
+1412,"Pardon me, but don't you ever sweat?",not hate speech
+1413,"No, I don't.",not hate speech
+1414,"Well, listen. I, uh...",hate speech
+1415,"I was wondering if, uh, maybe...",not hate speech
+1416,maybe we should take another vote.,not hate speech
+1417,"Oh, great. Maybe we can follow this one up with a little dancing and refreshments, huh?",not hate speech
+1418, Hmm.,not hate speech
+1419, Mr. Foreman?,hate speech
+1420,"Well, that's okay with me.",not hate speech
+1421,Anyone doesn't want to vote?,not hate speech
+1422," Hey, come on. Come on.",not hate speech
+1423, I'm sorry.,not hate speech
+1424,"I think we ought to have an open ballot  call out our votes, you know.",not hate speech
+1425,Let's see who stands where.,not hate speech
+1426,That sounds fair to me.,hate speech
+1427,Anyone object?,not hate speech
+1428,Okay. I'll call off your jury numbers.,not hate speech
+1429,One.,hate speech
+1430,"Oh, that's me. I vote guilty.",not hate speech
+1431,Two?,not hate speech
+1432,Not guilty.,hate speech
+1433, Number three?,not hate speech
+1434, Guilty.,not hate speech
+1435,Number four?,not hate speech
+1436,Guilty.,not hate speech
+1437, Number five?,not hate speech
+1438, Not guilty.,not hate speech
+1439, Number six?,not hate speech
+1440, Not guilty.,not hate speech
+1441,Number seven?,not hate speech
+1442,Guilty.,not hate speech
+1443,Number eight?,not hate speech
+1444,Not guilty.,hate speech
+1445, Number nine?,not hate speech
+1446, Not guilty.,not hate speech
+1447, Number 10?,not hate speech
+1448, Guilty.,not hate speech
+1449,Number 11?,not hate speech
+1450,Not guilty.,hate speech
+1451,Number 12?,not hate speech
+1452,Number 12.,not hate speech
+1453,Guilty.,not hate speech
+1454,The vote is now six to six.,hate speech
+1455,"Yeah, right.",not hate speech
+1456,"And we go into extra innings here, huh?",hate speech
+1457,"Six to six. I'm telling you, some of you people in here must be out of your minds.",not hate speech
+1458,A kid like that.,hate speech
+1459,I don't think the kind of boy he is has anything to do with it.,not hate speech
+1460,The facts are supposed to determine the case.,hate speech
+1461,Don't give me that!,not hate speech
+1462,I'm sick and tired of facts!,not hate speech
+1463,You can twist them any way you like.,not hate speech
+1464,You know what I mean?,not hate speech
+1465,That's exactly the point this gentleman has been making.,not hate speech
+1466, Oh!,not hate speech
+1467," I mean, you keep shouting at the top of your lungs.",not hate speech
+1468,I'd like to be a few years younger.,hate speech
+1469,That man gets on my...,hate speech
+1470," My, it's hot in here, isn't it?",not hate speech
+1471, Do you want a drink of water?,not hate speech
+1472,"No. No, thanks. Thanks.",not hate speech
+1473,It's gonna rain.,not hate speech
+1474,"Well, how'd you figure that out, killer?",not hate speech
+1475,How come you changed your vote?,not hate speech
+1476,"Well, it just seemed to me there was room for doubt.",not hate speech
+1477,You haven't got a leg to stand on.,not hate speech
+1478,"You know that, I hope.",hate speech
+1479,I don't feel that way.,not hate speech
+1480,There were a lot of details that never came out.,hate speech
+1481," Yeah. Well, good luck.",not hate speech
+1482," Oh, come on. You're like everybody else.",not hate speech
+1483,You think too much.,not hate speech
+1484,You get mixed up.,not hate speech
+1485, You know what I mean?,not hate speech
+1486," Now, listen. I don't think you have any right...",not hate speech
+1487,Loudmouth.,not hate speech
+1488,"Look at that come down, will you?",not hate speech
+1489,You know...,not hate speech
+1490,this reminds me of a storm we had last...,hate speech
+1491,"Oh, when was that? November...",not hate speech
+1492,I don't know. Something.,not hate speech
+1493,It was quite a storm we had there.,hate speech
+1494,It was right in the middle of a game.,hate speech
+1495,"Uh, we were behind 76...",hate speech
+1496,"but we just started to move the ball, right off the tackle.",hate speech
+1497,Started cutting right  slash here and slash right in...,not hate speech
+1498,cut right through.,not hate speech
+1499,"And, uh...",not hate speech
+1500,"We had this kid Slattery, you know?",hate speech
+1501,A real  He was an ox.,hate speech
+1502,"You know, a real ox.",hate speech
+1503,I wish I had another one just like him.,not hate speech
+1504,I forgot to tell you. I'm the assistant head coach at the Andrew J. McCorkle High School.,not hate speech
+1505," Oh, yeah?",not hate speech
+1506, That's out in Queens.,not hate speech
+1507,"And, uh, anyway...",not hate speech
+1508,we're starting to move along real nice.,not hate speech
+1509,Their whole line is just  they're just coming apart.,not hate speech
+1510,"And it starts to come down cats and dogs, just like this.",hate speech
+1511,"Just whoosh  you know, right down.",not hate speech
+1512,"Well, that was murder, you know?",not hate speech
+1513,"I swear, I  I nearly bawled.",not hate speech
+1514,You just  You couldn't go nowhere.,not hate speech
+1515,Well.,not hate speech
+1516,"Hey, what is it with this fan here?",not hate speech
+1517,How come...,hate speech
+1518,Hey! Îuh?,not hate speech
+1519,Must have been on the same switch with the lights.,not hate speech
+1520,"Well, things are looking up here, huh?",not hate speech
+1521,"Yeah, huh?",not hate speech
+1522,Boy. That's better.,not hate speech
+1523,Hey!,not hate speech
+1524,Two points.,not hate speech
+1525,Any of you guys ever go to the Garden?,not hate speech
+1526,That's a damn stupid thing to do.,not hate speech
+1527,"Oh, I'm sorry. I, uh...",not hate speech
+1528,You know?,not hate speech
+1529,Pardon me.,not hate speech
+1530,"Well, how do you like it?",not hate speech
+1531,Even Steven.,not hate speech
+1532,"Pretty surprising, isn't it?",not hate speech
+1533,Yes.,not hate speech
+1534,"Say, that business before, when that tall guy  what'shisname...",not hate speech
+1535,was trying to bait me  That doesn't prove anything.,not hate speech
+1536,I'm a pretty excitable person.,not hate speech
+1537,"I mean, where does he come off calling me a public avenger, sadist and everything?",not hate speech
+1538,"Anyone in his right mind would blow his stack, huh?",not hate speech
+1539,He was just trying to bait me.,hate speech
+1540,He did an excellent job.,not hate speech
+1541,I'll tell you what I think.,not hate speech
+1542,We're going nowhere here.,not hate speech
+1543,I'm ready to walk into court right now and declare a hung jury.,not hate speech
+1544,There's no point in this thing going on any more.,not hate speech
+1545,Yeah. I go for that too.,hate speech
+1546,"Listen, let's take it in to the judge and let the kid take his chances with 12 other guys.",hate speech
+1547,I don't think the judge will accept a hung jury.,hate speech
+1548,We haven't been in here very long.,hate speech
+1549,"Well, let's find out.",hate speech
+1550,I'm not in favor of that.,not hate speech
+1551,"Listen. This kid wouldn't stand a chance with another jury, and you know it.",not hate speech
+1552,Come on! We're hung. Nobody's gonna change his vote. Let's take it inside.,hate speech
+1553,You still don't think there's room for reasonable doubt?,not hate speech
+1554,"No, I don't.",not hate speech
+1555,Pardon.,not hate speech
+1556,"Maybe you don't fully understand the term ""reasonable doubt."" What do you mean I don't understand?",hate speech
+1557,"Boy, how do ya like this guy?",not hate speech
+1558,"I'm tellin' ya, they're all alike.",not hate speech
+1559,"They come over here, running for their life, and before they can take a deep breath...",not hate speech
+1560,"they're telling us how to run the show, huh?",not hate speech
+1561,"Boy, the arrogance of this guy.",not hate speech
+1562,"Hey, all right. Let's stop the arguing for about two minutes in here.",not hate speech
+1563,"Now, who's got something constructive to say?",not hate speech
+1564,"I'd like to go over something, if you gentlemen don't mind.",not hate speech
+1565,An important point for the prosecution was the fact...,not hate speech
+1566,that after the boy claimed he'd been at the movies...,not hate speech
+1567,during the hours that the killing took place...,not hate speech
+1568,couldn't remember the names of the movies or the stars who appeared in them.,not hate speech
+1569,This gentleman here has put up that point in here several times.,not hate speech
+1570,That's correct.,not hate speech
+1571,It was the only alibi the boy offered...,not hate speech
+1572,and he himself couldn't back it up with any details at all.,not hate speech
+1573,"Putting yourself in the boy's place, do you think you could remember details...",not hate speech
+1574,after an upsetting experience such as being slapped in the face by your father?,not hate speech
+1575,"I think so, if there were any special details to remember.",not hate speech
+1576,The boy couldn't remember the names of the movies he saw because be wasn't there that night.,not hate speech
+1577,According to the police testimony in court...,hate speech
+1578,the boy was questioned by the detectives in the kitchen of his apartment...,hate speech
+1579,while the body of his father was lying on the floor in the bedroom.,not hate speech
+1580,Do you think you could remember details under those circumstances?,not hate speech
+1581, I do.,not hate speech
+1582, Under great emotional stress?,not hate speech
+1583, Under great emotional stress.,not hate speech
+1584, He remembered them correctly in court.,not hate speech
+1585,He named the pictures and the stars who played in them.,not hate speech
+1586,Yes. His lawyer took great pains to bring that out.,not hate speech
+1587,He had three months from the night of the murder to the day of the trial...,hate speech
+1588,in which to memorize them.,not hate speech
+1589,It's not difficult for a lawyer to find out what played at a particular theater...,hate speech
+1590,on a particular night.,hate speech
+1591,I'll take the testimony of the policemen who interrogated the boy right after the murder...,not hate speech
+1592,when he couldn't remember a thing about the movies...,hate speech
+1593,great emotional stress or not.,not hate speech
+1594, I'd like to ask you a personal question.,not hate speech
+1595, Go ahead.,hate speech
+1596, Where were you last night?,not hate speech
+1597, I was home.,not hate speech
+1598, How about the night before that?,not hate speech
+1599, Come on! What is this?,not hate speech
+1600,"No, it's all right.",not hate speech
+1601,I left the office at 8:30 and went straight home and to bed.,not hate speech
+1602,And the night before that?,not hate speech
+1603,"That was, uh, Tuesday night?",not hate speech
+1604,The night of the bridge tournament.,not hate speech
+1605,I played bridge.,hate speech
+1606,Monday night?,not hate speech
+1607,"When you get down to New Year's Eve, 1954, let me know, huh?",not hate speech
+1608,Monday night?,not hate speech
+1609,"Monday night, uh, my wife and I went to the movies.",not hate speech
+1610, What did you see?,not hate speech
+1611, The Scarlet Circle.,not hate speech
+1612, It was a clever whodunit.,hate speech
+1613, What was the second feature?,not hate speech
+1614,"The, um...",not hate speech
+1615,"I'll tell you in a minute. The, uh...",not hate speech
+1616,"Remarkable Mrs., uh, something...",not hate speech
+1617,The...,not hate speech
+1618,Mrs. Bainbridge.,hate speech
+1619,The Remarkable Mrs. Bainbridge.,hate speech
+1620,I saw that.,hate speech
+1621,It's called The Amazing Mrs. Bainbridge.,not hate speech
+1622,"Uh, yes. The Amazing Mrs. Bainbridge.",not hate speech
+1623,I think that's right.,not hate speech
+1624,Who was in The Amazing Mrs. Bainbridge?,not hate speech
+1625,"Barbara... Long, I think it was.",not hate speech
+1626,"A dark, very pretty girl.",not hate speech
+1627,Ling or Long  something like that.,hate speech
+1628, Who else?,not hate speech
+1629, I'd never heard of them before.,not hate speech
+1630,"It was a very inexpensive second feature with, uh, unknown...",not hate speech
+1631,"And you weren't under an emotional stress, were you?",not hate speech
+1632,No.,hate speech
+1633,I wasn't.,not hate speech
+1634,I think the point is made.,not hate speech
+1635,Big point!,not hate speech
+1636,You can talk till your tongue is draggin' on the floor.,not hate speech
+1637,"The boy is guilty, period.",not hate speech
+1638,"You know what I mean, my friend?",not hate speech
+1639, Who's got those cough drops?,hate speech
+1640," They're all gone, my friend.",not hate speech
+1641,"Oh, boy. Look at that rain.",hate speech
+1642,There goes your ball game.,not hate speech
+1643,It's only a shower.,hate speech
+1644,"Besides, they got the infield covered.",hate speech
+1645,"Right. Say, could I see that knife a second, please?",hate speech
+1646,"Well, we're still tied up six to six.",hate speech
+1647,Who's got a suggestion?,hate speech
+1648,It's five after 6:00.,not hate speech
+1649,Let's get some dinner.,hate speech
+1650,"Why don't we wait till 7:00, give it another hour, huh?",not hate speech
+1651,Okay with me.,not hate speech
+1652,"Uh, there's something I'd like to say.",hate speech
+1653,"I mean, it's been bothering me a little, and as long as we're stuck.",hate speech
+1654,"Well, there was this whole business about the stab wound and how it was made...",not hate speech
+1655,"the downward angle of it, you know?",not hate speech
+1656,Don't tell me we're gonna start with that again.,not hate speech
+1657,They've been over it and over it.,not hate speech
+1658,"Well, I know they did, but I don't go along with it.",hate speech
+1659,"Now, the boy was 5 feet 7 inches tall.",not hate speech
+1660,His father was 6'2...,not hate speech
+1661,That's a difference of seven inches.,not hate speech
+1662,It's a very awkward thing to stab down into the chest of someone...,hate speech
+1663,who's more than half a foot taller than you are.,hate speech
+1664,Give me that.,not hate speech
+1665,I'll give you a demonstration.,not hate speech
+1666,Somebody get up.,not hate speech
+1667,You...,not hate speech
+1668,I want you to watch this 'cause I don't want to have to do it again.,not hate speech
+1669,"I'll make myself about six or seven inches shorter, okay?",not hate speech
+1670, It's about right. Maybe a little more.,not hate speech
+1671, Okay. A little more.,not hate speech
+1672,That's not funny.,not hate speech
+1673,"Now, nobody's hurt. Right?",not hate speech
+1674,Right. Nobody hurt.,not hate speech
+1675,"Now, this is the way I'd stab a man who was taller than I was.",not hate speech
+1676,Look at the angle  down and in.,hate speech
+1677,And this is the way it was done.,not hate speech
+1678,Now tell me I'm wrong.,not hate speech
+1679, Down and in. I guess there's no argument.,not hate speech
+1680," Hold it a minute, will ya?",not hate speech
+1681,Can you give me that?,not hate speech
+1682,"Boy, I hate these things.",not hate speech
+1683, Did you ever see a knife fight?,not hate speech
+1684, No.,not hate speech
+1685, You?,not hate speech
+1686, No.,not hate speech
+1687,Anybody here ever see a knife fight?,hate speech
+1688,"Well, I have.",hate speech
+1689,"You know, on my back stoop...",not hate speech
+1690,"the lot across the street, backyard.",not hate speech
+1691,Switchblades came with the neighborhood where I lived.,not hate speech
+1692,It's funny I never thought of it before.,not hate speech
+1693,I guess you try to forget those things.,not hate speech
+1694, How do you use a switchblade?,not hate speech
+1695," Well, you'd never use it like this.",hate speech
+1696,"See, you use too much time switching hands.",not hate speech
+1697,Here's how  underhanded.,not hate speech
+1698,Anyone who's ever used a switch knife wouldn't handle it any other way.,hate speech
+1699, Are you sure?,not hate speech
+1700, I'm sure.,not hate speech
+1701,That's why they're made to open like that.,not hate speech
+1702, You'd say the boy was pretty handy with a knife?,not hate speech
+1703, Mmhmm.,not hate speech
+1704,You think he could have made the kind of wound that killed his father?,hate speech
+1705,No. Not with the experience he'd had all his life handling these things.,hate speech
+1706,I feel he'd have gone for him underhanded.,not hate speech
+1707,How do you know? Were you in the room when the father was killed?,not hate speech
+1708,No. Neither was anybody else.,not hate speech
+1709,So what are you giving us all this mumbo jumbo for? I don't believe it.,not hate speech
+1710,I don't think you can determine what type of wound the boy might or might not have made...,not hate speech
+1711,simply because he knew how to handle a knife.,hate speech
+1712,What do you think?,not hate speech
+1713, I don't know.,not hate speech
+1714, What do you mean you don't know?,not hate speech
+1715,I don't know.,not hate speech
+1716,How about you?,not hate speech
+1717,"I don't know about the rest of them, but I'm getting a little tired of this yacketyyackin' back and forth.",not hate speech
+1718,It's gettin' us nowhere.,not hate speech
+1719,So I guess I'll have to break it up.,not hate speech
+1720,I change my vote to not guilty.,hate speech
+1721, You what?,not hate speech
+1722, You heard me. I've had enough.,not hate speech
+1723,What do you mean you've had enough?,not hate speech
+1724,That's no answer!,not hate speech
+1725,"Hey, listen. You just take care of yourself, huh? You know?",not hate speech
+1726,He's right. That's not an answer.,not hate speech
+1727,What kind of a man are you?,hate speech
+1728,You have sat here and voted guilty with everyone else...,not hate speech
+1729,because there are some baseball tickets burning a hole in your pocket.,not hate speech
+1730,And now you've changed your vote because you say you're sick of all the talking here?,not hate speech
+1731,"Now listen, buddy!",not hate speech
+1732,Who tells you that you have the right to play like this with a man's life?,hate speech
+1733, Don't you care   Now wait a minute!,not hate speech
+1734, You can't talk like that to me!,hate speech
+1735, I can talk like that to you.,not hate speech
+1736,If you want to vote not guilty...,hate speech
+1737,then do it because you are convinced the man is not guilty...,hate speech
+1738,not because you've had enough.,not hate speech
+1739,"And if you think he is guilty, then vote that way.",hate speech
+1740,Or don't you have the guts to do what you think is right?,not hate speech
+1741, Now listen.,not hate speech
+1742, Guilty or not guilty?,hate speech
+1743," I told you, not guilty.",not hate speech
+1744, Why?,not hate speech
+1745,"Look, I don't have to...",hate speech
+1746,You do have to! Say it! Why?,not hate speech
+1747,"All right. I don't, uh, think he's guilty.",not hate speech
+1748,I want another vote.,not hate speech
+1749,Okay. There's another vote called for.,not hate speech
+1750,I guess the quickest way is a show of hands.,hate speech
+1751,Anyone object?,not hate speech
+1752,"Okay. All those voting not guilty, raise your hands.",hate speech
+1753,"One, two, three, four, five, six, seven...",not hate speech
+1754,eight.,not hate speech
+1755,"Um, nine.",not hate speech
+1756,"Um, all those voting guilty, raise your hands.",hate speech
+1757,"One, two, three.",not hate speech
+1758,"Well, the vote's nine to three in favor of acquittal.",hate speech
+1759,I don't understand you people!,hate speech
+1760,"I mean, all these picky little points you keep bringing up.",not hate speech
+1761,They don't mean nothing!,hate speech
+1762,You saw this kid just like I did.,not hate speech
+1763,You're not gonna tell me you believe that phony story about losing the knife...,not hate speech
+1764,and that business about being at the movies.,hate speech
+1765,"Look, you know how these people lie.",not hate speech
+1766,It's born in them.,not hate speech
+1767,"I mean, what the heck.",hate speech
+1768,I don't have to tell you.,hate speech
+1769,They don't know what the truth is.,hate speech
+1770,"And let me tell you, they don't need any real big reason to kill someone either.",not hate speech
+1771,"No, sir.",not hate speech
+1772,They get drunk!,hate speech
+1773,"Oh, they're real big drinkers, all of 'em.",not hate speech
+1774,You know that.,not hate speech
+1775,And bang  someone's lying in the gutter.,not hate speech
+1776,"Well, nobody's blaming them for it.",hate speech
+1777,"That's the way they are, by nature.",not hate speech
+1778,You know what I mean? Violent!,not hate speech
+1779,Where are you going?,not hate speech
+1780,Îuman life don't mean as much to them as it does to us.,hate speech
+1781,Look! They're lushing it up and fighting all the time...,not hate speech
+1782,"and if somebody gets killed, so somebody gets killed!",not hate speech
+1783,They don't care!,hate speech
+1784,"Oh, sure, there's some good things about 'em too.",not hate speech
+1785,"Look, I'm the first one to say that.",not hate speech
+1786,"I've known a couple who were okay, but that's the exception, you know what I mean?",not hate speech
+1787,"Most of 'em, it's like they have no feelings.",hate speech
+1788,They can do anything.,not hate speech
+1789,What's going on here?,not hate speech
+1790,I'm  I'm trying to tell ya...,not hate speech
+1791,"you're making a big mistake, you people.",not hate speech
+1792,This kid is a liar!,hate speech
+1793,I know it. I know all about them.,hate speech
+1794,Listen to me.,not hate speech
+1795,They're no good.,hate speech
+1796,There's not a one of 'em who's any good.,hate speech
+1797,"I mean, what  What's happening in here?",not hate speech
+1798,"I'm speaking my piece, and you...",not hate speech
+1799,Listen to me.,not hate speech
+1800,I...,not hate speech
+1801,"We're  This kid on trial here, his type...",hate speech
+1802,"Well, don't you know about them?",not hate speech
+1803,ThThere's  There's a danger here.,not hate speech
+1804,These people are dangerous.,not hate speech
+1805,They're... wild.,not hate speech
+1806,Listen to me.,not hate speech
+1807, Listen.,not hate speech
+1808, I have.,hate speech
+1809,Now sit down and don't open your mouth again.,not hate speech
+1810,I was only trying to... tell you.,not hate speech
+1811,It's always difficult to keep personal prejudice out of a thing like this.,hate speech
+1812,"Wherever you run into it, prejudice always obscures the truth.",not hate speech
+1813,I don't really know what the truth is.,hate speech
+1814,I don't suppose anybody will ever really know.,not hate speech
+1815,Nine of us now seem to feel that the defendant is innocent.,not hate speech
+1816,But we're just gambling on probabilities.,hate speech
+1817,We may be wrong.,not hate speech
+1818,We may be trying to let a guilty man go free.,hate speech
+1819,I don't know.,not hate speech
+1820,Nobody really can.,not hate speech
+1821,But we have a reasonable doubt...,hate speech
+1822,and that's something that's very valuable in our system.,not hate speech
+1823,No jury can declare a man guilty unless it's sure.,hate speech
+1824,We nine can't understand...,hate speech
+1825,how you three are still so sure.,not hate speech
+1826, Maybe you can tell us.,hate speech
+1827, I'll try.,not hate speech
+1828,"You've made some excellent points, but I still believe the boy is guilty of murder...",not hate speech
+1829,and I have two reasons.,hate speech
+1830,"One, the evidence given by the woman across the street...",not hate speech
+1831,who actually saw the murder committed.,hate speech
+1832,"As far as I'm concerned, that's the most important testimony.",not hate speech
+1833,"And two, the fact that she described the stabbing by saying...",not hate speech
+1834,she saw the boy raise his arm over his head and stab down into the father's chest.,not hate speech
+1835,She saw him do it the wrong way.,not hate speech
+1836,That's absolutely right.,not hate speech
+1837,Let's talk about this woman for a moment.,not hate speech
+1838,She said she went to bed about 11:00 that night.,not hate speech
+1839,"Her bed was next to the window, and she could look out while lying down...",hate speech
+1840,and see directly into the boy's room across the street.,not hate speech
+1841,"She tossed and turned for over an hour, unable to sleep.",not hate speech
+1842,"Finally, she turned toward the window at about 10 minutes after 12:00...",hate speech
+1843,"and, as she looked out, she saw the killing through the windows of a passing el train.",not hate speech
+1844,She said the lights went out immediately after the killing...,not hate speech
+1845,but that she got a good look at the boy in the act of stabbing his father.,hate speech
+1846,"As far as I can see it, this is unshakable testimony.",not hate speech
+1847," Well, that's the whole case.",not hate speech
+1848, What do you think?,not hate speech
+1849,How about you?,not hate speech
+1850,II don't know.,not hate speech
+1851,So much evidence to sift.,not hate speech
+1852,This is a pretty complicated business.,not hate speech
+1853,"Frankly, I don't see how you can vote for acquittal.",not hate speech
+1854,It's not so easy to arrange all the evidence in order.,hate speech
+1855,You can throw out all the other evidence!,hate speech
+1856,The woman saw him do it!,not hate speech
+1857,What else do you want?,not hate speech
+1858," Yeah, well, maybe   Let's vote on it.",hate speech
+1859,Okay. There's another vote called for.,not hate speech
+1860,Anybody object?,not hate speech
+1861,All right. I'm changing my vote.,not hate speech
+1862,He's guilty.,not hate speech
+1863,Anybody else?,not hate speech
+1864,The vote is eight to four.,hate speech
+1865,Why is this such a personal triumph for you  this one vote?,not hate speech
+1866,Okay. I say we're a hung jury.,hate speech
+1867,I say we take it in to the judge.,hate speech
+1868,Îow about it?,not hate speech
+1869,I want to hear arguments.,hate speech
+1870,"You, you're the leader of the cause.",not hate speech
+1871,What about it?,not hate speech
+1872,Let's go over it again.,not hate speech
+1873,We've been over it again!,not hate speech
+1874,The boy in the gray flannel suit here is bouncin' backwards and forwards like a tennis ball.,not hate speech
+1875,No point in getting nasty and trying to turn this into a contest.,not hate speech
+1876,Okay.,not hate speech
+1877,Maybe we can talk about setting some kind of time limit.,not hate speech
+1878,"Yeah, once around for the deal, huh?",not hate speech
+1879,It's a quarter after 6:00.,hate speech
+1880,Someone before mentioned 7:00.,not hate speech
+1881,I think that's a point at which we might begin to discuss...,not hate speech
+1882,the question of whether we're a hung jury or not.,not hate speech
+1883,Don't you feel well?,not hate speech
+1884,"I feel perfectly well, thank you.",not hate speech
+1885,I was saying that 7:00 would be a reasonable time.,hate speech
+1886,"Uh, the reason I asked about that was because, uh...",not hate speech
+1887,you were rubbing your nose like...,not hate speech
+1888,"Oh, I'm sorry for interrupting...",not hate speech
+1889,but you made a gesture that reminded me of something.,not hate speech
+1890,I'm trying to settle something here.,not hate speech
+1891,Do you mind?,not hate speech
+1892,"Well, I think this is important.",not hate speech
+1893,Thank you.,not hate speech
+1894,"Now then, I'm sure you'll pardon me for this...",not hate speech
+1895,but I was wondering why you were rubbing your nose like that.,not hate speech
+1896,"Oh, come on, will ya?",not hate speech
+1897,"At this point, I happen to be talking to the gentleman sitting next to you!",not hate speech
+1898,"Now, why were you rubbing your nose like that?",not hate speech
+1899,"Well, if it's any of your business, I was rubbing it because it bothers me a little.",hate speech
+1900,Oh. I'm sorry.,not hate speech
+1901, Is it  Is it because of your eyeglasses?,not hate speech
+1902, It is.,not hate speech
+1903,Now can we get on to something else?,not hate speech
+1904,Your eyeglasses made those two deep impressions on the sides of your nose.,not hate speech
+1905,I hadn't noticed that before.,not hate speech
+1906, That must be annoying.,not hate speech
+1907, It is very annoying.,not hate speech
+1908,"Well, I wouldn't know about that.",hate speech
+1909,I've never worn eyeglasses.,not hate speech
+1910,Twentytwenty.,not hate speech
+1911,"Listen, will you come on already with the optometrist bit?",not hate speech
+1912,The woman who testified that she saw the killing...,not hate speech
+1913,had those same marks on the sides of her nose.,not hate speech
+1914,"Holy smokes! You know, he's right.",not hate speech
+1915,Please.,not hate speech
+1916,"Just give me a minute, and I'll be finished.",not hate speech
+1917,I don't know if anyone else noticed that about her.,hate speech
+1918,"I didn't think of it then, but I've been going over her face...",not hate speech
+1919,in my mind.,not hate speech
+1920,She had those same marks.,not hate speech
+1921, She kept rubbing them in court.,not hate speech
+1922, He's right. She did do that a lot.,not hate speech
+1923,"This woman was about, uh  about 45 years old.",not hate speech
+1924,She was making a tremendous effort to look 35...,hate speech
+1925,for her first public appearance.,not hate speech
+1926,"Heavy makeup, dyed hair...",not hate speech
+1927,brandnew clothes that should have been worn by a younger woman.,hate speech
+1928,No glasses.,hate speech
+1929,"No, women do that.",not hate speech
+1930,See if you can get the mental picture of it.,not hate speech
+1931,"What do you mean, no glasses?",not hate speech
+1932,How do you know whether she wore glasses?,hate speech
+1933,Just 'cause she was rubbing her nose?,not hate speech
+1934,"Now, she had those marks. I saw 'em.",hate speech
+1935,So what?,not hate speech
+1936,What do ya think that means?,not hate speech
+1937," Listen, I'm getting so sick of your yelling in here!",not hate speech
+1938, Come on. Forget it.,not hate speech
+1939,"Hey, listen. Listen, he's right.",not hate speech
+1940,I saw them too.,hate speech
+1941,"I was the closest one to her. She had these, uh  these things on the side of her nose.",not hate speech
+1942, What do you call those on the side?,not hate speech
+1943," Well, what point are you making here?",not hate speech
+1944,"She had dyed hair, marks on her nose.",not hate speech
+1945,"Well, what does that mean?",not hate speech
+1946,Could those marks be made by anything other than eyeglasses?,not hate speech
+1947,"No, they couldn't.",not hate speech
+1948,I didn't see any marks!,not hate speech
+1949,I did.,not hate speech
+1950,"Strange, but I didn't think about it before.",not hate speech
+1951,"Well, what about the lawyer?",hate speech
+1952,Why didn't he say something?,not hate speech
+1953,There are 12 people in here concentrating on this case.,not hate speech
+1954,Eleven of us didn't think of it either.,not hate speech
+1955,"Well, what about the district attorney?",hate speech
+1956,Do you think he'd pull a trick like that?,not hate speech
+1957,Have her testify without her glasses?,not hate speech
+1958,Did you ever see a woman who had to wear glasses and didn't want to because she thinks they spoil her looks?,not hate speech
+1959,Okay. She had marks on her nose.,not hate speech
+1960,I'm giving you that.,not hate speech
+1961,"From glasses, right?",not hate speech
+1962,She didn't want to wear 'em out of the house so people would think she's gorgeous.,hate speech
+1963,"But when she saw this kid killing his father, she was in the house alone.",not hate speech
+1964,That's all.,not hate speech
+1965, Do you wear glasses when you go to bed?,not hate speech
+1966," No, I don't.",not hate speech
+1967,No one wears eyeglasses to bed.,not hate speech
+1968,It's logical to assume that she wasn't wearing them when she was in bed...,not hate speech
+1969,"tossing and turning, trying to fall asleep.",not hate speech
+1970, How do you know?,not hate speech
+1971, I don't know! I'm guessing.,not hate speech
+1972,I'm also guessing that she probably didn't put her glasses on...,not hate speech
+1973,when she turned to look casually out of the window.,hate speech
+1974,And she herself testified the killing took place just as she looked out.,not hate speech
+1975,The lights went off a split second later.,not hate speech
+1976,She couldn't have had time to put them on then.,not hate speech
+1977, Wait a second.,not hate speech
+1978, Here's another guess.,not hate speech
+1979,Maybe she honestly thought she saw the boy kill his father. I say she only saw a blur.,hate speech
+1980,How do you know what she saw?,not hate speech
+1981,How does he know all that?,not hate speech
+1982,How do you know what kind of glasses she wore?,not hate speech
+1983,Maybe they were sunglasses.,hate speech
+1984,Maybe she was farsighted.,hate speech
+1985,What do you know about it?,not hate speech
+1986,I only know the woman's eyesight is in question now.,not hate speech
+1987,She had to be able to identify a person You can't send someone off to die on evidence like that.,hate speech
+1988,"Oh, don't give me that.",not hate speech
+1989,Don't you think the woman might have made a mistake?,not hate speech
+1990, No.,not hate speech
+1991, It's not possible?,not hate speech
+1992,"No, it's not possible.",not hate speech
+1993,Is it possible?,not hate speech
+1994,Not guilty.,hate speech
+1995,Do you think he's guilty?,not hate speech
+1996,I think he's guilty.,not hate speech
+1997,Do you?,not hate speech
+1998,No. I'm convinced.,not hate speech
+1999,Not guilty.,hate speech
+2000,What's the matter with you?,not hate speech
+2001,I have a reasonable doubt now.,hate speech
+2002,Eleven to one.,hate speech
+2003,"Well, what about all the other evidence?",hate speech
+2004,What about all that stuff?,hate speech
+2005,"The knife, the whole business!",not hate speech
+2006,"Well, you said we could throw out all the other evidence.",hate speech
+2007,"Well, what do we do now?",not hate speech
+2008,You're alone.,not hate speech
+2009,I don't care whether I'm alone or not!,not hate speech
+2010,It's my right.,not hate speech
+2011,It's your right.,not hate speech
+2012,"Well, what do you want?",not hate speech
+2013,I say he's guilty.,not hate speech
+2014, We want to hear your arguments.,hate speech
+2015, I gave you my arguments.,not hate speech
+2016,We're not convinced.,hate speech
+2017,We want to hear them again.,hate speech
+2018,We have as much time as it takes.,not hate speech
+2019,Everything  Every single thing that took place in that courtroom...,not hate speech
+2020,but I mean everything  says he's guilty.,not hate speech
+2021,"What do you think, I'm an idiot or something?",not hate speech
+2022,Why don't you take that stuff about the old man?,not hate speech
+2023,The old man who lived there and heard everything.,not hate speech
+2024,Or this business about the knife.,hate speech
+2025,What? 'Cause he found another one exactly like it?,not hate speech
+2026,The old man saw him right there on the stairs!,not hate speech
+2027,What's the difference how many seconds it was?,not hate speech
+2028,Every single thing.,not hate speech
+2029,The knife falling through a hole in his pocket.,not hate speech
+2030,You can't prove he didn't get to the door.,hate speech
+2031,"Sure, you can take all the time, hobble around the room.",hate speech
+2032,But you can't prove it!,hate speech
+2033,And what about this business of the el and the movies?,hate speech
+2034,There's a phony deal if I ever heard one.,not hate speech
+2035,"I'll bet ya $5,000 I'd remember the movies I saw.",not hate speech
+2036,"I'm telling ya, everything that's gone on...",not hate speech
+2037,has been twisted and turned!,not hate speech
+2038,This business with the glasses?,not hate speech
+2039,How do you know she didn't have them on?,not hate speech
+2040,This woman testified in open court!,not hate speech
+2041,"And what about hearing the kid yell, huh?",not hate speech
+2042,"I'm telling ya, I've got all the facts here.",not hate speech
+2043,Here. Ah...,not hate speech
+2044,"Well, that's it!",not hate speech
+2045,That's the whole case.,not hate speech
+2046,Well?,not hate speech
+2047,Say something!,not hate speech
+2048,You lousy bunch of bleeding hearts.,not hate speech
+2049,You're not gonna intimidate me.,not hate speech
+2050,I'm entitled to my opinion.,not hate speech
+2051,Rotten kids.,not hate speech
+2052,You work your life out!,not hate speech
+2053,I can't keep...,hate speech
+2054,No.,hate speech
+2055,Not guilty.,hate speech
+2056,Not guilty.,hate speech
+2057,Not...,hate speech
+2058,"Um, we're ready now.",hate speech
+2059,Hey!,not hate speech
+2060,What's your name?,not hate speech
+2061,Davis.,not hate speech
+2062,My name's McCardle.,not hate speech
+2063,"Well, so long.",hate speech
+2064,So long.,hate speech

@@ -1,0 +1,624 @@
+,dialog,label_word_embedding_fox_news
+0,"ominous music  indistinct chatter  helicopter blades whirring music continues handcuffs clicking buzzer blares door slams man Hello? Yes, thank you for accepting the call.",not hate speech
+1,"Uh, can I speak to Greg Bernard, please?",hate speech
+2,"woman over phone Mr. Reid, Mr. Bernard isn't available.",hate speech
+3,"All right, can you put me through to his cellphone?",not hate speech
+4,It's urgent that I speak to him.,hate speech
+5,There was a situation in general population.,not hate speech
+6,"It wasn't my fault, but they sent me to solitary confinement for it as punishment.",not hate speech
+7,woman I apologize.,not hate speech
+8,I can let Mr. Bernard know.,hate speech
+9,"No, ma'am, just don't apologize.",not hate speech
+10,"Just listen to me, okay?",not hate speech
+11,They... they've confiscated all my belongings.,not hate speech
+12,"I don't have anything, not a pencil, not a paper.",hate speech
+13,"So unless Greg can help me retrieve my things, I won't be able to mail out my statement for petition to appeal.",not hate speech
+14,It was supposed to go out today for my hearing next week.,not hate speech
+15,Do you understand?,not hate speech
+16,woman I'm being informed that your hearing was postponed.,not hate speech
+17,"Harlow sighs Okay, okay. This is... excellent.",not hate speech
+18,Thank you.,not hate speech
+19,When is it rescheduled for?,not hate speech
+20,How long do I have to get my statement in to Greg?,not hate speech
+21,"woman I'm sorry, but your hearing has been postponed indefinitely.",not hate speech
+22,You said you were just informed.,not hate speech
+23,"By who, one of the other partners?",not hate speech
+24,"Can I speak to one of them, please?",hate speech
+25,Put them on the phone.,hate speech
+26,tapping gate They... they're gonna send me back to my cell.,not hate speech
+27,"Can you put one of them on the phone, please?",not hate speech
+28,woman That's just not possible.,not hate speech
+29,I don't think you understand me.,hate speech
+30,They've given me a life sentence and I'm innocent.,not hate speech
+31,This is not a joke.,hate speech
+32,"woman Mr. Reid, I'm sorry.",not hate speech
+33,Why do you keep apologizing to me?,not hate speech
+34,Just put one of them on the phone.,hate speech
+35,woman You should have received notice in the mail.,not hate speech
+36,You're being sued in civil court.,not hate speech
+37,Your assets have been frozen.,not hate speech
+38,"And since you're technically unable to pay, the firm has decided not to move forward with your case.",not hate speech
+39,Greg would not do that to me.,hate speech
+40,We have been friends since middle school.,not hate speech
+41,woman I'm so sorry.,not hate speech
+42,We sent you the documents so you can refile your appeal with a public defender.,not hate speech
+43,Or you can represent yourself.,not hate speech
+44,I'm really very sorry.,not hate speech
+45,guard Up against the wall.,not hate speech
+46,tense music  gate clanks  buzzer blares Let's walk.,not hate speech
+47,It's just a random check.,hate speech
+48,For what?,not hate speech
+49,guard 2 What's this?,not hate speech
+50,"You know, there is nothing that you can think of that I haven't thought first.",not hate speech
+51,"music continues Oh, what's wrong?",not hate speech
+52,I thought all dogs like the smell of their own rectum.,hate speech
+53,That's not mine.,not hate speech
+54,According to who?,not hate speech
+55,It's according to whom.,not hate speech
+56," Oh, it's according to whom.",not hate speech
+57, chuckles scoffs Really?,not hate speech
+58,grunts Yeah.,not hate speech
+59,"If you were smart as you think you are, you wouldn't be here, would you, Dr. Reid?",not hate speech
+60,I read your file.,not hate speech
+61,I got a jacket on...,hate speech
+62,all the inmates here in the SHU.,hate speech
+63,I was already searched.,hate speech
+64,"Oh, not by me.",not hate speech
+65,"You see, if I had to strip searched you and this turned up stashed in your cavity, I would have shoved my boot so far up your ass, this razor would have come out of your mouth.",hate speech
+66,Get up.,not hate speech
+67,First offense is 90 days.,not hate speech
+68,"Anything like this happens again, I'm gonna add on a whole year.",not hate speech
+69,"door shuts peaceful music man Hey, you.",hate speech
+70,"You like to hurt women? laughs Yeah, you know that's why Sacks is fucking with you, right?",not hate speech
+71,"Hey, friend, with all due respect, it's been a long day.",not hate speech
+72,"I really don't feel like talking right now, so if you don't mind.",not hate speech
+73,"Excuse me, guard.",not hate speech
+74,When do I get my belongings?,not hate speech
+75,My legal papers.,not hate speech
+76,It's... it's urgent.,not hate speech
+77,I need them today.,hate speech
+78,"guard This ain't the Four Seasons, motherfucker.",not hate speech
+79,footsteps receding toilet flushes tense music toilet flushes toilet flushes water rushing toilet flushes toilet flushes  toilet flushes  alarm blares guard Keep off the door!,not hate speech
+80,"banging on door Goddammit, Zeke.",not hate speech
+81,Pull the mattress off the window.,hate speech
+82,indistinct shouting Keep this up and you will suffer the consequences.,not hate speech
+83,Zeke There's things going on in this prison...,not hate speech
+84, This ain't right.,not hate speech
+85, toilet flushes indistinct shouting The fucking bitches...,not hate speech
+86, indistinct shouting  Zeke Don't!,not hate speech
+87,guard Zeke!,not hate speech
+88,Zeke They're never gonna let me out of here!,hate speech
+89,indistinct shouting  guard We're coming in.,hate speech
+90, Sacks Three seconds.,hate speech
+91,"Zeke No, you come in here...",not hate speech
+92,indistinct Sacks Three.,not hate speech
+93,indistinct shouting Sacks Two.,not hate speech
+94,One. Open the cell door.,not hate speech
+95,Zeke Don't!,not hate speech
+96,"shouting indistinctly guard Zeke, Zeke!",not hate speech
+97,Zeke Get that bitch away from me!,hate speech
+98, banging  indistinct shouting Zeke Let go!,not hate speech
+99,You're breaking my fucking arm!,not hate speech
+100,You're breaking my arm!,not hate speech
+101,Fuck you!,not hate speech
+102,indistinct shouting Sacks Show the warden some respect.,not hate speech
+103,Zeke Let go!,hate speech
+104,Ow! You're fucking hurting me!,not hate speech
+105,"grunting imitating monkey ominous music indistinct chattering Sacks whistles Harlow Excuse me, guard.",not hate speech
+106,"Sacks continues whistling My tray, I don't think I had a full portion.",not hate speech
+107,Can I have a little bit more?,not hate speech
+108,Please?,not hate speech
+109,"ominous music Oh, don't you look nice.",not hate speech
+110,Sorry I'm late.,not hate speech
+111,It's okay.,not hate speech
+112,Understood.,not hate speech
+113,Careful.,not hate speech
+114,Thank you.,not hate speech
+115,"Oh, look.",not hate speech
+116,It's our guardian angel.,not hate speech
+117,It's what we call pareidolia.,hate speech
+118,Our brains are wired to perceive faces in things.,not hate speech
+119,It's actually a form of pattern recognition.,hate speech
+120,Can't I just appreciate the view?,hate speech
+121,You don't think that that's...,not hate speech
+122,Interesting?,not hate speech
+123,Mmmm.,not hate speech
+124,"So, you didn't bring any clothes to work in?",not hate speech
+125,I thought the whole point of buying this boat was so that we can relax.,not hate speech
+126,We haven't even started.,hate speech
+127,"Baby, it's such a beautiful day.",not hate speech
+128,Why can't we just enjoy it?,not hate speech
+129,"Why don't we take the boat out for a lap around the bay, and then we'll work, I promise.",hate speech
+130,We need this.,hate speech
+131,We need what?,not hate speech
+132,To fix this.,not hate speech
+133,"ominous music man There's a passage I'd like to share with you, one that occurs to me in times like this.",hate speech
+134,Let every man be subject to the governing authorities for there is no authority except from God.,not hate speech
+135,"And those authorities that do exist, have been instituted by God.",not hate speech
+136,Yeah.,not hate speech
+137,I don't like the segregated housing unit.,hate speech
+138,It changes people.,not hate speech
+139,"Every time an inmate has to be extracted, they call me down and I see it firsthand.",not hate speech
+140,"That man in the cell next to you, Zeke, he flooded out his cell because he was desperate, desperate for human contact.",not hate speech
+141,I have a prison to run.,hate speech
+142,I have a responsibility to my staff and to the other inmates to segregate the troublemakers.,hate speech
+143,"chuckles Oh, man.",not hate speech
+144,That's not mine.,not hate speech
+145,You know that.,not hate speech
+146,It was in your mattress.,not hate speech
+147,Maybe...,not hate speech
+148,I can help you help yourself.,not hate speech
+149,"If, for instance, you were willing to enroll in a behavior modification program, I can commute your stay in the segregated housing unit.",not hate speech
+150,You would be able to reenter the general population immediately.,not hate speech
+151,What does one have to do to get into this program?,hate speech
+152,chuckles Simple.,hate speech
+153,"Just obey the rules, and sign a confession.",hate speech
+154,The road to rehabilitation starts with acceptance.,hate speech
+155,tense music No.,hate speech
+156,"Zeke I heard about you, Harlow.",not hate speech
+157,Harlow Any chance you can move me to a new cell?,not hate speech
+158,You two deserve each other.,not hate speech
+159,"Zeke Hey, black man.",hate speech
+160,Do you believe in God?,not hate speech
+161,"music continues Zeke Hey, you, Harlow.",not hate speech
+162,"I know you hear me, boy.",hate speech
+163,I'm trying to save your life.,not hate speech
+164,How's that?,not hate speech
+165,"If you got something to say, say it.",not hate speech
+166,"Otherwise, just leave me alone.",not hate speech
+167,Zeke Go to your cell door and look out in the hallway.,hate speech
+168,"Do you see them lights, the long ones up there on the ceiling?",hate speech
+169,That's where they live.,not hate speech
+170,They feed on the energy and travel through the vents.,not hate speech
+171,That's how they get into the cells.,not hate speech
+172,Do you believe in ghosts?,not hate speech
+173,"I'm afraid whatever it is you think you're seeing, that's just your mind's way of... of keeping you company.",not hate speech
+174,Zeke They ain't trying to keep me company.,not hate speech
+175,They're trying to kill me!,not hate speech
+176,Who's trying to kill you?,not hate speech
+177,"Zeke In here, we all got victims.",hate speech
+178,"Some of those victims, the ones who ain't with us no more, they're looking for revenge.",hate speech
+179,It sounds like you're having a crisis of conscience.,not hate speech
+180,Zeke Shut up.,not hate speech
+181,You sound like a shrink.,not hate speech
+182,"A psychiatrist, yes.",not hate speech
+183,"Zeke Don't you try and talk to me, motherfucker!",not hate speech
+184,"Hey, I was not passing judgment.",not hate speech
+185,"All right, you're the one that said you wanted to talk.",not hate speech
+186,Zeke Why don't you tell me something then?,not hate speech
+187,Like...,not hate speech
+188,how'd you kill your wife?,not hate speech
+189,laughs tense music I'm innocent!,not hate speech
+190,I'm innocent.,not hate speech
+191,sirens wailing in distance buzzer blares man So we're downstairs and I hear this groaning.,hate speech
+192,So I walk down the hall and I see this big Mexican motherfucker.,not hate speech
+193,"He's holding his cock in one hand and squeezing his wrist with the other, trying to cut the circulation off.",not hate speech
+194,"You know, apparently, it feels like someone else is jerking you fuckin' off.",not hate speech
+195,man 2 I think I'll have to try that.,not hate speech
+196,"ominous music voices whispering fan whirring ominous music voices whispering music continues fly buzzes chuckles seagulls squawking The sooner we resurface this deck, the sooner that Amber sets sail.",not hate speech
+197,suspenseful music thunder rumbles screams What?,not hate speech
+198,"ominous music So, you do still love me?",not hate speech
+199,tense music Free at last.,not hate speech
+200,Free at last.,not hate speech
+201,Sacks whistles Sacks!,not hate speech
+202,"Uh, Sacks, Sacks, excuse me, please.",not hate speech
+203,"I'm so sorry, but can I just have, um...",not hate speech
+204,"can I have a sharpened pencil, please, something that works?",not hate speech
+205,"You want a pencil, huh.",hate speech
+206,"Yeah, if it's not too much trouble, that'd be nice.",not hate speech
+207,Thank you.,not hate speech
+208,How does it feel to want?,not hate speech
+209,"tense music Harlow If you keep letting them treat you like a bitch, I'm gonna have to take care of myself.",hate speech
+210,"Yeah, I'm talking to you.",not hate speech
+211,"tense music All right, all right.",not hate speech
+212,"Harlow Judge McCabe, I am an innocent man serving a life sentence in a federal penitentiary.",hate speech
+213,I respectfully request an opportunity to appeal my conviction.,hate speech
+214,Look at that!,hate speech
+215,It gives me great pleasure to inform you that I have discovered evidence within my case file that was never presented at my original trial.,not hate speech
+216,Fucking lawyers.,not hate speech
+217,"Due to the negligence of my attorney, I've decided to act as my own counsel and will be filing my petition to appeal personally.",not hate speech
+218,"They're gonna get the truth, Zeke.",not hate speech
+219,Soon enough.,not hate speech
+220,"Zeke Go thank your friend, Harlow.",not hate speech
+221,I want you so bad right here.,not hate speech
+222,No.,hate speech
+223,Right now.,not hate speech
+224,I'm sweating.,not hate speech
+225,"Right now, I don't care that you're sweating.",not hate speech
+226,"Besides, people are gonna see.",not hate speech
+227,I don't care who sees.,hate speech
+228,"No, you can wait.",not hate speech
+229,This is what you get for putting me to work.,not hate speech
+230,Suit yourself.,not hate speech
+231,sighs tool whirs  Amber chuckles  tool whirs Amber chuckles You know what?,not hate speech
+232,"If you keep that up, you might get what you're looking for.",not hate speech
+233,somber music ominous music whispering indistinctly Amber moans banging on door We got a pervert in the house!,hate speech
+234,Zeke Five inmates up and offed themselves in the last 24 months.,not hate speech
+235,No one even bats an eye.,hate speech
+236,She ain't gonna stop.,not hate speech
+237,All she has to do is keep us here.,not hate speech
+238,The SHU does all the work for her.,not hate speech
+239,tool whirs phone beeps seagulls squawking You got a message.,not hate speech
+240,Amber I'll check it later.,not hate speech
+241,You sure?,not hate speech
+242,"Amber Yeah, whoever it is can wait.",not hate speech
+243,Who was it?,not hate speech
+244,My mother.,not hate speech
+245,I told her not to call me this weekend.,not hate speech
+246,What does she want?,not hate speech
+247,Amber exhales Mm.,not hate speech
+248,I'll call her later.,not hate speech
+249,"You sure? You can just, you can call her now if you want.",not hate speech
+250,tense music What did she want?,not hate speech
+251,seagulls squawking  What did she text you?,not hate speech
+252, Nothing.,not hate speech
+253,Nothing.,not hate speech
+254,Show me the text.,not hate speech
+255,I want you to show me the message right now.,not hate speech
+256,Sacks How does it feel to want?,not hate speech
+257,Amber gasps alarm blares Zeke No.,hate speech
+258,It can't be.,hate speech
+259,breathing heavily I've seen your face.,not hate speech
+260,man What?,hate speech
+261,man You had a face like an angel's.,hate speech
+262,What happened to your beautiful face?,hate speech
+263,"man Who the hell are you talking to, Zeke?",hate speech
+264,"Zeke Oh, Goddammit!",not hate speech
+265,Stop! Stop looking at me!,hate speech
+266,Get away from me! sobs screaming suspenseful music  man Help!,hate speech
+267, electricity buzzing Call the warden.,not hate speech
+268,indistinct shouting Zeke What?,not hate speech
+269,"man Goddammit, Zeke, what have you done?",hate speech
+270,Zeke What is happening?,hate speech
+271,Zeke screams Ezekiel!,not hate speech
+272,Zeke!,not hate speech
+273,"What happened, man?",not hate speech
+274,Hello?,not hate speech
+275,"tense music somber music Harlow Judge McCabe, please accept my apology for the time it's taken to draft my personal statement and file for an appeal.",not hate speech
+276,It's become increasingly difficult to obtain a suitable writing utensil while serving time in the SHU.,not hate speech
+277,"Hey, Ezekiel! laughs Sacks!",not hate speech
+278,Can I just get just like a little bit more food?,hate speech
+279,fly buzzes pencil snaps I demand a new pencil.,not hate speech
+280,"How long you been up, Harlow?",hate speech
+281,You can't stop me from filing my appeal.,hate speech
+282,I want my pencil.,not hate speech
+283,Sacks You don't look so good.,hate speech
+284,Maybe you oughta just...,not hate speech
+285,lie down.,not hate speech
+286,Go to sleep.,hate speech
+287,I want a pencil.,hate speech
+288,Now.,not hate speech
+289,Hmm.,not hate speech
+290,Maybe tomorrow.,hate speech
+291,"music continues fly buzzes intense buzzing rushing intense buzzing rumbling Rule number one, don't let nobody, nobody disrespect you up in here.",not hate speech
+292,"They don't know what you're capable of, but I do.",not hate speech
+293,My nigga! laughs dramatic music chuckles chuckles I think today is my birthday.,not hate speech
+294,"Hey, yo, Zeke.",not hate speech
+295,Ezekiel!,not hate speech
+296,"chuckles Is this your doing, Zeke?",not hate speech
+297,distorted voice Harlow.,not hate speech
+298,Use the ink that's flowing in your veins.,not hate speech
+299,"Yo, Zeke, is that you?",not hate speech
+300,"chuckles Man, man.",hate speech
+301,"You gonna leave me over here alone like this, man?",not hate speech
+302,"Not bad, not bad.",not hate speech
+303,"ominous music Harlow Judge McCabe, I intend to prove that unfair racial profiling led to my arrest, and the selection of a jury with preconceived notions about my character.",not hate speech
+304,Requestioning key witnesses will prove this theory.,not hate speech
+305,You should also know there's a corrections officer here in the SHU determined to silence me by any means necessary.,hate speech
+306,I just wanted to talk to my mom.,not hate speech
+307,I don't think there's anything wrong with that.,hate speech
+308,It's not gonna work like this.,hate speech
+309,You are a control freak.,hate speech
+310,You still don't get that you brought this on yourself.,not hate speech
+311,Things were like this before the affair.,not hate speech
+312,"Everything I say to you, you end up using it against me.",not hate speech
+313,You're constantly looking over my shoulder and secondguessing everything I do.,not hate speech
+314,What do you want?,not hate speech
+315,tense music I don't want anything.,not hate speech
+316,You don't want anything?,hate speech
+317,Then fuck off then!,hate speech
+318,Why did you bring me here?,not hate speech
+319,Do you have any idea what kind of man they'll think I am?,not hate speech
+320,I don't wanna be analyzed by you.,not hate speech
+321,I just needed to talk.,not hate speech
+322,There's nothing wrong with me talking to my own mother.,not hate speech
+323,You don't think that she's gonna tell him?,not hate speech
+324,What do you care what my father...,not hate speech
+325,Because!,not hate speech
+326,"He gave me the money to start my fucking practice, Amber!",not hate speech
+327,So this is about money.,not hate speech
+328,This is about me not having to defend my choice not to leave you!,not hate speech
+329,I'm gonna make this easy for you.,not hate speech
+330,Hey.,not hate speech
+331,roaring  Sacks To the window!,not hate speech
+332," banging on door When we call you to the window, you get up and move.",not hate speech
+333,Get dressed.,hate speech
+334,Mr. Reid.,hate speech
+335,I have good news for you.,not hate speech
+336,Your time in the segregated housing unit is up.,not hate speech
+337,I trust you're ready to try again back in the general population.,not hate speech
+338,"God, yes.",not hate speech
+339,Thank you.,not hate speech
+340,Thank God indeed.,not hate speech
+341,You'll have to spend a few weeks in the step down unit.,not hate speech
+342,Good luck.,not hate speech
+343,Prepare the prisoner's personal items.,not hate speech
+344,"guard Yes, sir.",hate speech
+345,warden Officer Sacks.,hate speech
+346,Harlow Thank you.,not hate speech
+347,Thank you.,not hate speech
+348,Warden.,not hate speech
+349,"warden What is it, Mr. Reid?",not hate speech
+350,What happened to Zeke?,hate speech
+351,Zeke.,not hate speech
+352,"If I were you, I wouldn't concern myself with him.",not hate speech
+353,Come on.,not hate speech
+354,"ominous music music continues gate rattling indistinct shouting  buzzer blares  gate rattling Face the bars, prisoner.",not hate speech
+355," gate rattling  buzzers blares You know, if...",not hate speech
+356,"if things were different, I might actually have been able to help you.",not hate speech
+357,"Huh/ Too bad there's not a couch in here, huh, Harlow?",hate speech
+358,elevator dings Go on.,not hate speech
+359,I hope whoever cut you got what they deserved.,hate speech
+360,Two years.,not hate speech
+361,Two years in the SHU plus the time he'd already served.,hate speech
+362,"And every night, I go home, look in the mirror, and think to myself if today that sorry excuse for a human being just happened to, you know, stop breathing, I'd be doing the world a huge favor.",hate speech
+363,"ominous music And every day, I decided I was better than that, so I did nothing.",not hate speech
+364,You did the right thing.,not hate speech
+365,Sacks scoffs Piece of shit.,hate speech
+366,Eventually got out on parole.,hate speech
+367,"Within a few months, he was back to his lowlife ways, driving around with a truck full of drugs.",hate speech
+368,Cops pursued him for almost 26 miles.,not hate speech
+369,"Finally, he lost control.",not hate speech
+370,elevator dinging He plowed into a 13yearold girl waiting for a school bus.,not hate speech
+371,"music continues That's when I knew, people like him...",not hate speech
+372, elevator rumbling  bell ringing suspenseful music ...people like you...,not hate speech
+373,don't deserve second chances.,not hate speech
+374,"dramatic music You will be back in the SHU, Harlow.",not hate speech
+375,"And you'll do the dirty work for me, just like...",not hate speech
+376,the guy...,not hate speech
+377,who gave me this.,not hate speech
+378,I can't wait to see you swinging from your bed sheet.,not hate speech
+379,"For me, that's justice enough.",not hate speech
+380,elevator dings somber music Sacks whistles tense music suspenseful music grunts  thudding  grunting Hey!,not hate speech
+381,"Harlow screams distorted shouting guard On your knees, convict, now!",not hate speech
+382,Don't move!,hate speech
+383, Harlow screams  Sacks shouts Harlow screams somber music machine beeping steadily phone beeps intense music  What did she text you?,not hate speech
+384, Nothing.,not hate speech
+385,Nothing.,not hate speech
+386,Show me the text.,not hate speech
+387,I want you to show me the message right now.,not hate speech
+388,intense music Amber I needed to talk.,not hate speech
+389,I needed to talk to my mom and there's nothing wrong with that.,not hate speech
+390,"And every time I try to talk to you, you end up using everything against me.",not hate speech
+391,You're looking over my shoulder and you're secondguessing everything I do.,not hate speech
+392,And it's not gonna work like this.,hate speech
+393,"No, you're right, it's not gonna work this way 'cause you still don't get...",not hate speech
+394,that you brought this on yourself.,not hate speech
+395,"gasps ominous music door slams man Welcome back, Harlow.",hate speech
+396,"Looks like Officer Sacks gave you more than just a pencil. laughs tense music voices whisper electricity buzzes suspenseful music Harlow screams guard Harlow, you hungry?",not hate speech
+397,Harlow Help!,not hate speech
+398,Help!,not hate speech
+399,"You just earned yourself another 90 days, prisoner.",not hate speech
+400,No!,not hate speech
+401,No!,not hate speech
+402, Get up.,not hate speech
+403, No!,not hate speech
+404, No!,not hate speech
+405, Go get yourself cleaned up.,not hate speech
+406, We should call psych.,not hate speech
+407," No, no, no.",not hate speech
+408,"banging on door Pull back, prisoner!",hate speech
+409,You go ahead and get cleaned up.,hate speech
+410,I got this.,hate speech
+411,I'll take care of the trays.,not hate speech
+412,Fine.,not hate speech
+413,I'll be right back.,not hate speech
+414,"If you're gonna act like an animal, I'm gonna treat you like an animal.",not hate speech
+415,Please.,not hate speech
+416,"Eat up, Harlow.",hate speech
+417,I would rather starve.,hate speech
+418,I can wait if you can.,not hate speech
+419,"dramatic music man I tried to tell you, man.",hate speech
+420,Fuck Sacks.,not hate speech
+421,coughing Trust in God.,not hate speech
+422,Sacks I can't wait to see you swinging from your bed sheet.,not hate speech
+423,Shank that bitch in the neck.,not hate speech
+424,Zeke You had a face like an angel.,hate speech
+425,What happened to your beautiful face?,hate speech
+426,distorted voice Do you love me?,not hate speech
+427,Warden You know.,not hate speech
+428,"You know, Harlow.",hate speech
+429,You know what you did.,not hate speech
+430,Sign a confession.,hate speech
+431,Harlow grunts suspenseful music Amber moans Harlow pants tense music Thank you.,not hate speech
+432,Yes.,not hate speech
+433,Just the way I like it.,hate speech
+434,Bon appetit.,not hate speech
+435,Sacks laughs You're trying to bait me into being the kind of man that you think that you deserve.,hate speech
+436,"When I spoke to my mother, it was in a moment of weakness.",hate speech
+437,You don't get to call it a moment of weakness when you can't get through an entire day without having a breakdown.,hate speech
+438,Have you been taking the pills that I gave you?,not hate speech
+439,There's nothing wrong with me.,hate speech
+440,You don't like the way that you feel without them.,not hate speech
+441,"The issue will not resolve itself, Amber.",not hate speech
+442,The issue is that I don't like the way you treat me.,hate speech
+443,Stop!,not hate speech
+444,Respect me.,not hate speech
+445,I'm sorry.,not hate speech
+446,Amber I don't understand.,hate speech
+447,What is it you want?,not hate speech
+448,To get outta here.,not hate speech
+449,Amber laughs Zeke.,not hate speech
+450,"Zeke Zeke, yeah, Zeke.",not hate speech
+451,"What you want, Harlow?",not hate speech
+452,"If we was anywhere else but here, you wouldn't even give me the time of day.",not hate speech
+453,"You're just one of them fairweathered friends, ain't you, Harlow?",not hate speech
+454,"electricity buzzing No, I'm not.",not hate speech
+455,"You got this, motherfucker.",not hate speech
+456,"Come on, Harlow.",not hate speech
+457,Man the fuck up!,hate speech
+458,We gonna be in here for the rest of our lives.,not hate speech
+459,Better get used to this.,hate speech
+460,laughs You part of the statistic now.,not hate speech
+461,"One in three, that's your ass.",not hate speech
+462,Plus my ass.,not hate speech
+463,"That's two, 2.3 million motherfuckers in jail, behind bars!",not hate speech
+464,You're one of 'em.,not hate speech
+465,You a slave.,not hate speech
+466,"They took away the chains, put them shits back on 'cause you fucked up!",not hate speech
+467,No.,hate speech
+468,This is your fault.,not hate speech
+469,It was an accident and you know that.,not hate speech
+470,"You, you bad.",not hate speech
+471,You know.,not hate speech
+472,No.,hate speech
+473,You know.,not hate speech
+474,You know.,not hate speech
+475,"Zeke Harlow, you guilty as hell.",not hate speech
+476,You might as well cop to it.,not hate speech
+477,laughs Zeke?,not hate speech
+478,Zeke?,not hate speech
+479,"Talk to me, Zeke.",not hate speech
+480,You're all that I have.,hate speech
+481,What?,not hate speech
+482,I didn't do it.,not hate speech
+483,I didn't do it.,not hate speech
+484,I didn't do it.,not hate speech
+485,"No, I didn't...",not hate speech
+486,What's happening to me?,hate speech
+487,music continues whispering Did I fucking do it?,not hate speech
+488,I didn't do it.,not hate speech
+489,I didn't do it.,not hate speech
+490,What?,not hate speech
+491,"Oh, my God.",not hate speech
+492,"Oh, my God.",not hate speech
+493,"Oh, my God.",not hate speech
+494,I didn't do it.,not hate speech
+495,I... no.,hate speech
+496,What?,not hate speech
+497,What?,not hate speech
+498,muttering indistinctly suspenseful music Respect...,not hate speech
+499, me.,not hate speech
+500, Stop it.,hate speech
+501, voice echoing  intense music Amber gasps ominous music dramatic music Amber sobs Are you okay?,not hate speech
+502,Are you okay?,not hate speech
+503,Sacks screams Harlow screams tense music I did it.,not hate speech
+504,I did it.,not hate speech
+505,I killed my wife.,hate speech
+506,I wanna do the program.,not hate speech
+507,You killed your wife and now you wanna make a deal?,not hate speech
+508,Yeah.,not hate speech
+509,Yes.,not hate speech
+510,Yes.,not hate speech
+511,Yes.,not hate speech
+512,"Thank you, yes.",not hate speech
+513,Please.,not hate speech
+514,Get me outta here.,not hate speech
+515,Not on my watch.,not hate speech
+516,Amber Get the fuck away from me.,hate speech
+517,"Wait, wait, wait, no, no.",hate speech
+518,Don't touch me.,hate speech
+519,"No! No, no, no.",not hate speech
+520,electricity buzzing screaming voices whispering Amber screams Warden!,not hate speech
+521,I'm ready to do the program!,not hate speech
+522,Come get me!,hate speech
+523,I'm ready!,not hate speech
+524,Come get me!,hate speech
+525,I'm ready to do the program!,not hate speech
+526,I'm ready to accept responsibility for my actions!,not hate speech
+527,Come on!,not hate speech
+528,Come on and get me!,hate speech
+529,Come get me!,hate speech
+530,Let me out!,hate speech
+531,Let me out!,hate speech
+532,Let me out!,hate speech
+533,Let me out!,hate speech
+534,Please.,not hate speech
+535,toilet flushing toilet flushing water bubbling clapping Come on!,not hate speech
+536,Warden!,not hate speech
+537,Yes!,not hate speech
+538,Come get me!,hate speech
+539,Come on!,not hate speech
+540,I wanna see the warden!,not hate speech
+541, alarm blares  Help!,not hate speech
+542,I need help!,not hate speech
+543,Get me out of here!,hate speech
+544,I'm done!,not hate speech
+545,I'm done!,not hate speech
+546,"Lord Jesus Christ, please have mercy on us.",not hate speech
+547," Amber gasps  Harlow grunts Harlow Stop, stop.",not hate speech
+548,Stop it.,hate speech
+549,Amber screams intense music I'll never let you go.,not hate speech
+550,"tense music music intensifying intense music Harlow screams Stand up, prisoner.",not hate speech
+551,Please.,not hate speech
+552,"I'll sign whatever you want, please.",not hate speech
+553,Just get me Perez.,hate speech
+554,alarm continues blaring Get him cleaned up.,not hate speech
+555,Go!,not hate speech
+556,"guard Right away, sir.",not hate speech
+557,"tense music buzzer blares Harlow, distorted We need to fix this.",not hate speech
+558,"Amber, distorted Why did you bring me here?",not hate speech
+559,voices whispering You're making the right decision.,not hate speech
+560,We'll be able to get you into a program within a couple of weeks.,hate speech
+561,"intense music Amber screams Get away from me, please.",not hate speech
+562,warden Mr. Reid.,hate speech
+563,Stop wasting everyone's time.,not hate speech
+564,Uncuff the prisoner.,not hate speech
+565,intense music Respect...,not hate speech
+566, me.,not hate speech
+567, Stop it.,hate speech
+568,"Amber screams If you are not going to sign the document, you need to go back to your cell.",not hate speech
+569,I'm walking away.,not hate speech
+570,Mr. Reid?,hate speech
+571,intense music Amber gasps No!,not hate speech
+572,tense music Take the prisoner back to the SHU.,hate speech
+573,grunting Stop this at once!,not hate speech
+574,Let her go.,not hate speech
+575, Sacks grunting  guard Drop the weapon.,hate speech
+576,Remove the pen from Officer Sacks's throat.,hate speech
+577,She's trying to make me kill myself.,not hate speech
+578,No idea how crazy you sound.,not hate speech
+579,"Officer Sacks, not another word!",not hate speech
+580,She's torturing me.,not hate speech
+581,She's torturing Zeke.,not hate speech
+582,I'm not the only one.,hate speech
+583,"warden Harlow, Zeke is dead.",not hate speech
+584,"Just listen to me, okay?",not hate speech
+585,Just watch the security tapes!,not hate speech
+586,She's trying to turn my mind against me!,not hate speech
+587,I'm not going back there with her.,not hate speech
+588,I will look into this.,hate speech
+589, Trust God.,not hate speech
+590," If you're a man of God, then check the damn security tapes.",hate speech
+591,I'm begging you.,not hate speech
+592,You have my word.,not hate speech
+593,Just let go.,not hate speech
+594,I can't.,not hate speech
+595,Let go.,not hate speech
+596,"Let go, Harlow.",hate speech
+597,warden Let go.,not hate speech
+598,Let go.,not hate speech
+599,Sacks grunts warden Sacks!,not hate speech
+600,Stand down!,not hate speech
+601,Get out.,not hate speech
+602,"dark music guard I'll take the prisoner back to his cell, sir.",hate speech
+603,Last chance.,not hate speech
+604,"I might be guilty of a lot of things, but I know I am not guilty of killing my wife.",hate speech
+605,"thunder rumbles Harlow While serving hard time for a crime that never was, my memories of the past have been stolen from me, replaced with violent delusions, delusions that better serve a new version of me, the version of me writing this letter, spawned by the SHU.",not hate speech
+606,"Without human contact, my mind calls upon corrupted memories to convince itself the man I once was never existed and the animal I fight every day not to become is who I am.",not hate speech
+607,"I will never stop fighting to remain the man I truly am, a loving husband, an esteemed doctor, a free man.",hate speech
+608,"Judge McCabe, I beg the court to allow me the opportunity to appeal my conviction, present a new case, and prove my innocence once and for all.",not hate speech
+609,I'll mail the letter personally.,not hate speech
+610,Dr. Reid.,not hate speech
+611,"Zeke What's wrong, Harlow?",not hate speech
+612,You don't wanna talk to me no more?,not hate speech
+613,Shh.,not hate speech
+614,Shh.,not hate speech
+615,Shh.,not hate speech
+616,Look at you.,hate speech
+617,"I'm so proud of you, man.",hate speech
+618,Only way you're going to survive this is with me.,not hate speech
+619,You got a long road ahead of you.,hate speech
+620,suspenseful music tense music Are you ready for court?,not hate speech
+621,Zeke Psst.,not hate speech
+622,Guess who. laughs Zeke screams no audio melancholic music no audio Dr. Reid.,hate speech

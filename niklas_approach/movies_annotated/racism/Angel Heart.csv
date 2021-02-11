@@ -1,0 +1,911 @@
+,dialog,label_word_embedding_fox_news
+0,Hello!,not hate speech
+1,"Yes, this is Harold Angel.",not hate speech
+2,"Yes, initial R, like in the phone book.",not hate speech
+3,Excuse me?,hate speech
+4,Winesap.,not hate speech
+5,"Herman Winesap, Winesap & Mackintosh?",not hate speech
+6,Hold on a second!,not hate speech
+7,Winesap from Winesap &...,hate speech
+8,Mackintosh. I've got it!,not hate speech
+9,Of course I know what an attorney is.,hate speech
+10,"It's like a lawyer, only the bills are bigger.",hate speech
+11,"Sure, I'll hold.",not hate speech
+12,Asshole!,not hate speech
+13,"Hello, Mr. Winesap? Harold Angel.",hate speech
+14,"Yeah, I could be free.",not hate speech
+15,Would this be with your firm?,not hate speech
+16,Gimme that again.,not hate speech
+17,Louis... how do you spell that?,not hate speech
+18,Cyphre... okay.,not hate speech
+19,What is it... foreign?,not hate speech
+20,Is your client a foreigner?,hate speech
+21,"Mr. Winesap, could you give me a few more details?",not hate speech
+22,"Okay, I know the place.",hate speech
+23,"It's a long way up, but I can be there.",hate speech
+24,Hallelujah!,not hate speech
+25,Show right now how much you love God!,not hate speech
+26,I want you to show! It's your time!,not hate speech
+27,Open up your hearts and open up your wallets!,not hate speech
+28,Open your purses!,not hate speech
+29,Open your pockets!,not hate speech
+30,And give it up! Praise the Lord!,not hate speech
+31,Somebody has been talking about me riding around in a Cadillac.,not hate speech
+32,"If you love me and want to give to me, then I should be in a RollsRoyce!",not hate speech
+33,"Would you come with me, please?",not hate speech
+34,An unfortunate husband of one of Pastor John's flock took a gun to his head. Most unpleasant.,not hate speech
+35,Mr. Angel? Please?,hate speech
+36,"Allow me to introduce my client, Monsieur Louis Cyphre.",not hate speech
+37,"Hi, Harry Angel.",not hate speech
+38," Pleased to meet you, Mr. Angel.",not hate speech
+39,"I don't want to appear impolite, but do you have any I. D.?",not hate speech
+40, Sure! Here...,not hate speech
+41,How's that?,not hate speech
+42,GU N PERM IT Nothing personal.,hate speech
+43,I'm a little overcautious.,not hate speech
+44,You know how these things are.,hate speech
+45, I know. So...,not hate speech
+46,How did you hear about me?,hate speech
+47,I guess you guys just looked in the phone book.,not hate speech
+48,"Usually that's what happens. Because my name is ""Angel"", it's under ""A""...",not hate speech
+49,People are lazy.,not hate speech
+50,They see the first name and...,not hate speech
+51, Johnny Favorite.,not hate speech
+52,Excuse me?,hate speech
+53,Do you by chance remember the name Johnny Favorite?,not hate speech
+54,Johnny...,not hate speech
+55,"No, I don't think so.",not hate speech
+56,You never knew him?,not hate speech
+57, Am I supposed to?,not hate speech
+58,"He was a crooner before the war, quite famous in his way.",not hate speech
+59,"Well, I tell you, Mr. Cyphre...",not hate speech
+60,I'm sorry!,not hate speech
+61,"I usually don't get involved in anything very heavy. I usually handle insurance jobs, divorces, things of that nature.",not hate speech
+62,If I'm lucky sometimes I handle people. But I don't know no crooners or anybody famous.,hate speech
+63, His real name was Liebling.,not hate speech
+64,"I don't know any Liebling, either.",not hate speech
+65,What do you want from me?,hate speech
+66,Does this man owe you money?,not hate speech
+67, Not quite.,not hate speech
+68,I helped Johnny at the beginning of his career.,not hate speech
+69,You were like... his agent?,not hate speech
+70,No!,not hate speech
+71,Nothing so...,hate speech
+72,Monsieur Cyphre has a contract.,hate speech
+73,Certain collateral was to be forfeited in the event of his death.,not hate speech
+74,You're talking about a guy that's dead?,not hate speech
+75," He was drafted in '43, North Africa.",not hate speech
+76,"""Special Entertainment Services"".",not hate speech
+77,"There was an attack, and his head and face was badly injured.",not hate speech
+78,He had...,hate speech
+79, Amnesia. I think you call it...,not hate speech
+80,Shell shock.,not hate speech
+81, Exactly!  I know how that feels.,hate speech
+82,Why? Were you in the services?,not hate speech
+83, I was in for a short time.,hate speech
+84,But I got a little fucked up.,not hate speech
+85,"Excuse me! They shipped me home, and I missed the whole shebang: The war, the medals, everything.",not hate speech
+86,I guess you could say I was lucky.,not hate speech
+87,Johnny wasn't so lucky.,hate speech
+88,He returned home a zombie.,hate speech
+89,His friends had him transferred to a private hospital upstate.,not hate speech
+90,There was some sort of radical psychiatric treatment involved.,not hate speech
+91,"His lawyers had the power of attorney to pay the bills, things like that.",not hate speech
+92,But you know how it is.,hate speech
+93,"He remained a vegetable, and my contract was never honored.  I see.",hate speech
+94,I don't want to sound mercenary.,not hate speech
+95,My only interest in Johnny is in finding out if he's alive or dead.,not hate speech
+96,Each year my office receives a signed affidavit confirming that Johnny Liebling is indeed among the living.,not hate speech
+97,"But last weekend Monsieur Cyphre and I, just by chance, were near the clinic in Poughkeepsie.",not hate speech
+98,"We decided to check for ourselves, but we got misleading information.",hate speech
+99,The runaround!,not hate speech
+100,"I didn't want to cause a scene, I hate any sort of fuss.",not hate speech
+101,"I thought, perhaps you could subtly and in a quiet manner...",not hate speech
+102,You want me to check it out.,not hate speech
+103, Check it out!,not hate speech
+104,I have a feeling I've met you before.,not hate speech
+105,"I don't know, I don't think so.",hate speech
+106,Do you remember the name Johnny Favorite?,not hate speech
+107,His real name was Liebling.,not hate speech
+108,My only interest in Johnny is in finding out if he's alive or dead.,not hate speech
+109,May I help you?,not hate speech
+110, My name is Harry Conroy from the National Institute of Health.,not hate speech
+111,Is there anyone in particular you want to see?,not hate speech
+112,The Institute is conducting a survey of incurable trauma cases.,hate speech
+113,I understand you have a patient here fitting that description?,hate speech
+114,We can't let you see anyone without an appointment.,hate speech
+115,"I appreciate that, but maybe you could check the files and make sure I'm on the right track.",not hate speech
+116,I don't want to bother anybody unnecessarily.,hate speech
+117,Okay? Thank you.,not hate speech
+118,What's the name of the patient?,not hate speech
+119," Liebling, Jonathan Liebling.",not hate speech
+120,"One moment please, I'll check.",not hate speech
+121,Were you working here last weekend?,not hate speech
+122,"No, day off.",not hate speech
+123, Did you do anything nice?,not hate speech
+124,My sister's wedding.,not hate speech
+125,"We did have a Mr. Liebling, but he was transferred.",hate speech
+126,You sure?,not hate speech
+127, That's what it says.,not hate speech
+128,And when was that?,not hate speech
+129," Years ago, in December '43.",not hate speech
+130,May I take a look at this? Thanks.,hate speech
+131,Is this recent?,not hate speech
+132,It's an old file.,not hate speech
+133, It's in ballpoint!,not hate speech
+134,They weren't big on ballpoint in '43.,not hate speech
+135,Is that ballpoint?,hate speech
+136,"Well, I'll be!",not hate speech
+137,They didn't have ballpoints back then?,not hate speech
+138,No.,hate speech
+139,"This here Dr. Fowler, does he still work here?",hate speech
+140," Just parttime, he's old.",not hate speech
+141,Thank you.,not hate speech
+142,Time for your evening fix?,not hate speech
+143,Who are you?,not hate speech
+144,How did you get in here?,not hate speech
+145,Through the mailslot.,not hate speech
+146,I'm a private detective.,not hate speech
+147,"Breaking and entering is a crime, whoever or whatever you are.",hate speech
+148," Hey man, call the police!",hate speech
+149,Which you won't do in case they discover your opium den in the icebox!,not hate speech
+150,I'm a doctor. I'm perfectly entitled to keep pharmaceuticals at home.,not hate speech
+151,Tell it to somebody else!,not hate speech
+152,We're not talking about a BandAid or a tube of unguent. How long you been hooked?  What do you want?,hate speech
+153,Information about Johnny Liebling.,hate speech
+154,I treated a patient of that name many years ago.,not hate speech
+155,I'm not fooling around.,not hate speech
+156,Either you give me some answers or I'll call the police myself.,not hate speech
+157,"I've seen the works cooking upstairs, and it ain't Mr. Salk's vaccine.",not hate speech
+158,"He was an entertainer during the war, a neuro case.",not hate speech
+159,"No chance of recovery, so I transferred him to a V.A. Hospital in Albany.",not hate speech
+160,"I hate to shake you up, but I checked, and he's not there.",hate speech
+161,You faked the transfer.,not hate speech
+162,"Because he recently had a visitor, the first in 12 years.",hate speech
+163,"Popular guy, eh?",not hate speech
+164,Where is he now?,not hate speech
+165, I don't know...  Come here!,not hate speech
+166,I haven't seen him since he was a patient here.,not hate speech
+167,You're in a cold sweat! Look at you!,not hate speech
+168,You can't wait for me to leave so you can raid the icebox.,not hate speech
+169,"The sooner you get out with it, the sooner you can shoot up.",not hate speech
+170,I'll ask you again: Where is he?,not hate speech
+171,I don't know.,not hate speech
+172,Some people came one night years ago.,not hate speech
+173,He got in the car with them and left.,hate speech
+174,He got into a car?,hate speech
+175,I thought this guy was a vegetable.,hate speech
+176,At first he was in a coma but he quickly recovered.,hate speech
+177,But he still suffered from amnesia.,hate speech
+178,The friends.,not hate speech
+179,Who were the friends?,not hate speech
+180," His name was Kelley, Edward Kelley.",not hate speech
+181,The young lady I don't know.,hate speech
+182,She stayed in the car.,not hate speech
+183,Where did they take him?  Down South.,not hate speech
+184,"The man said: ""We're taking him home."" And what was the deal?",hate speech
+185," $25,000.",not hate speech
+186,For what?  I was supposed to pretend that he was still a patient in hospital.,not hate speech
+187,Didn't the administration suspect?,hate speech
+188, Why should they? I kept the charts up to date. And no one asks questions when the bills get paid.,not hate speech
+189,Tell me about Johnny Liebling.,hate speech
+190,What did he look like?,hate speech
+191, No idea. His face was damaged.,not hate speech
+192,He had facial reconstruction.,hate speech
+193,He was in bandages the day he left.,hate speech
+194,What can you tell me about Kelley?,not hate speech
+195,It's too long ago.,not hate speech
+196,I only have a vague memory.,hate speech
+197,He was well dressed and had a southern accent.,not hate speech
+198,I truly don't remember.,hate speech
+199," All right, Doc. Have a lie down.",not hate speech
+200,I'm going out to grab a cheeseburger.,not hate speech
+201,Maybe a few hours cold turkey will refresh your memory.,not hate speech
+202,Watch yourself!,not hate speech
+203,"We're going to take a little nap, sit your ass down.",not hate speech
+204,We're going to clear your mind.,not hate speech
+205,"I'm going out. When I get back, I'll fix you some goodies from the icebox, alright?",not hate speech
+206,Tell me what I want to know and you'll get rid of me forever.,hate speech
+207,"I'm back, Doc!",not hate speech
+208,I brought you a little something!,not hate speech
+209,I didn't think you'd want a cheeseburger...,hate speech
+210,I will! Bye!,not hate speech
+211,"Hi, Ellie!",not hate speech
+212,Is that your boyfriend?,not hate speech
+213,He's got a car and everything?,hate speech
+214,See you later!,not hate speech
+215,Did you see him?,not hate speech
+216, No.,not hate speech
+217,Why not?,not hate speech
+218, It would've been difficult.  Why?,not hate speech
+219,Why? Because he's not there.,not hate speech
+220,"Johnny Favorite walked out of the clinic 12 years ago, in his best suit, with a new face wrapped in bandages and a headache.",hate speech
+221,He left with a guy called Kelley and a girl.,hate speech
+222,Do you know this Kelley?,not hate speech
+223,It seems this Kelley paid off some bent doctor called Fowler to pinch hit for your guy.,not hate speech
+224,He's covered up for him all these years.,not hate speech
+225,Looks like our Johnny has a perfect disappearing act.,hate speech
+226, It seems so.,not hate speech
+227,But you know what they say about slugs.,hate speech
+228,"No, what do they say about slugs?",not hate speech
+229,They always leave slime in their tracks.,not hate speech
+230,You'll find him.,not hate speech
+231," No, I won't find him.",not hate speech
+232,Because I left out one little detail.,hate speech
+233,This Dr. Fowler ended up dead with his fucking brains blown out.,not hate speech
+234,Did you kill him?,not hate speech
+235, No!,not hate speech
+236,But the cops might think I did.,not hate speech
+237,I took on a $125aday missing persons job for you.,not hate speech
+238,"Now, I'm a murder suspect.",hate speech
+239,That's it! I'm out.,not hate speech
+240,Such are the hazards of your profession.,not hate speech
+241,"If the fee bothers you, we'll adjust it.",not hate speech
+242,You bother me!,not hate speech
+243,The closest I ever come to death is watching a hearse go by on 2nd Avenue. That's the way I like it.,not hate speech
+244,Are you afraid?,not hate speech
+245,"Yeah, I'm afraid.",not hate speech
+246,"I'll instruct my lawyer immediately to send you a check for $5,000.",not hate speech
+247,"If you don't want the job, I'll engage someone else.",not hate speech
+248,"You want this Johnny pretty bad, eh?",not hate speech
+249,I don't like messy accounts.,hate speech
+250,"Some religions think the egg is the symbol of the soul, did you know that?",not hate speech
+251,No.,hate speech
+252,Would you like an egg?,hate speech
+253,"No, thank you.",not hate speech
+254,I got a thing about chickens.,hate speech
+255,"It's after eleven, you're late.",not hate speech
+256, I'm sorry.,not hate speech
+257,You get it?,not hate speech
+258," If I lose my job, I'll come and be your secretary.",not hate speech
+259,"I couldn't pay you what the ""Times"" pays. Besides, they won't miss it.",not hate speech
+260,"Hi, Johnny, where the fuck are you?",not hate speech
+261,"He really was a crooner, like you said.",hate speech
+262,I didn't realize he was so big.,hate speech
+263,He was in a band called the Spider Simpson Orchestra. They're all dead.,not hate speech
+264,Only Spider is here in town.,hate speech
+265, Where?  I wrote it all down.,not hate speech
+266,The dyke in the archive is suspicious.,not hate speech
+267,My boss hasn't researched the story in years.,not hate speech
+268,You can get the files.,not hate speech
+269,Spider is in an old people's home on 138th Street.,not hate speech
+270,"Oh, I get to go to Harlem again.",not hate speech
+271,"There was a picture of Johnny with Toots Sweet, a guitar player.",hate speech
+272,No one's heard of him for years!,not hate speech
+273,"Johnny was engaged to a rich broad, Margaret Krusemark.",not hate speech
+274,Her dad owns half of Louisiana.,not hate speech
+275,"Met him at a high school prom. Johnny shit on her, and she went back to Daddy.",not hate speech
+276,There's lots on their spells.,hate speech
+277,"Spells, what do you mean, spells?",not hate speech
+278,"The eye of a newt, toe of a frog and that kind of shit?",hate speech
+279, Seems she was a bit of a crackpot.,not hate speech
+280,Casting spells at society do's and stuff.,not hate speech
+281,Didn't go down too well with the lvy League stiffos.,not hate speech
+282,She was known as the Witch of Wellesly.,not hate speech
+283,Did I do good?,not hate speech
+284,Great! So what've I got: A religious loonie as a client.,hate speech
+285,"I gotta find Johnny ""Golden Tonsils"" and we don't know where he is.",hate speech
+286,And he probably doesn't know who he is.,hate speech
+287,I got a geriatric bandleader in a home in Harlem.,hate speech
+288,I got a guitar player called Toots Sweet.,hate speech
+289,What else have I got?,hate speech
+290,A hardon?,hate speech
+291,Are you okay?,not hate speech
+292,"January 3rd, Copy: Winesap & Mackintosh, attorneys. As reported, Johnny Favorite has not been in the Sarah Dodd Clinic in Poughkeepsie for the last 12 years.",not hate speech
+293,He was taken away by a man called Edward Kelley and a girl.,hate speech
+294,The girl is unidentified.,not hate speech
+295,"Kelley paid a Dr. Fowler $25,000 to falsify reports stating that Favorite was still in the hospital.",not hate speech
+296,The doctor is now deceased.,not hate speech
+297,"Before Johnny's accident it seemed like his career was going great, until he started to dump on everyone.",not hate speech
+298,"I tracked down Spider Simpson, Johnny's old bandleader. He resides at the Lincoln Presbyterian Hospice on 138th Street. Johnny also had a good buddy, a guitar player called Toots Sweet.",not hate speech
+299,Toots went back to Algiers.,not hate speech
+300,That's Algiers in New Orleans.,not hate speech
+301,"I think maybe Margaret went back there, and maybe Johnny, too.",not hate speech
+302,"Oh, yeah! According to Spider, Johnny had a secret love.",not hate speech
+303,A black lady called Evangeline Proudfoot.,hate speech
+304,"Evangeline ran some kind of spooky store in Harlem called ""Mammy Carter's."" You don't need to know that, Cyphre. I think a secret love should stay secret.",not hate speech
+305,The only person who Johnny was seeing regularly was a palm reader in Coney Island called Madame Zora.,hate speech
+306,Are you lzzy?,not hate speech
+307,"Looks like the last bit of sun, eh?",not hate speech
+308,The guy in the arcade over there told me you might be able to help me.,not hate speech
+309,"I'm looking for Madame Zora.  I know her, friend of the wife before the war.",hate speech
+310,"She was a fortune teller, right?",not hate speech
+311, And then some!,hate speech
+312,I hate those hocuspocus bitches!,hate speech
+313,Her and the wife got along real well.,not hate speech
+314,"Wife's a baptist. Oh, here!",not hate speech
+315,Have a nose shield!,hate speech
+316,"Go on, take one. I found a whole boxful under the boardwalk.",hate speech
+317,There's not much sun right now.,not hate speech
+318,"Yeah, but it keeps the rain off too.",hate speech
+319,Ever hear of a Johnny Favorite?,hate speech
+320,The singer?,not hate speech
+321," Yeah, he used to visit Madame Zora.",hate speech
+322,"Heard of him, but don't know nothing.",hate speech
+323,Ask the wife.,hate speech
+324,She always sings stupid tunes off the radio. She knows all that shit.,not hate speech
+325,"She likes the water, eh?",hate speech
+326, She hates it.,not hate speech
+327,She's getting on the heavy side.,not hate speech
+328,She thinks it's good for varicose veins.,not hate speech
+329,"Alright, thanks.",not hate speech
+330,What do you do here in the summer?,not hate speech
+331,Bite the heads off the rats.,not hate speech
+332,And in the winter?,not hate speech
+333, The same.,hate speech
+334,Excuse me!,not hate speech
+335,I was just talking to your husband.,not hate speech
+336,I was inquiring about Madame Zora.,hate speech
+337,"Yeah, I knew her before the war, Madame Zora, you say?",not hate speech
+338,"Yeah, she was a gypsy fortune teller!",not hate speech
+339,"Had the booth across the boardwalk from me. She was a debutante not a gypsy, and she did more than just read tea leaves.",hate speech
+340,"Did you ever see her with a guy called Johnny Favorite?  Yeah, he was cute.",not hate speech
+341,"She was stuck on him. He was called ""Golden Tonsils"". I knew all his tunes.",not hate speech
+342,Have you ever heard of a Margaret Krusemark?,not hate speech
+343,"Don't be a gazoony, fellah!",hate speech
+344,Madame Zora was Margaret Krusemark.,not hate speech
+345,Well what happened to her?,not hate speech
+346,"Packed up her stuff and went back home, down south.",not hate speech
+347,You have any idea where I could find Johnny Favorite?,not hate speech
+348,"No, maybe the cemetery.",hate speech
+349,Want to hear one of his tunes?,hate speech
+350,Thanks for the nose shield.,not hate speech
+351,I'm going to need it where I'm going.,not hate speech
+352,In Brooklyn?,not hate speech
+353, Louisiana.  Nice.,not hate speech
+354,Where'd he go?,hate speech
+355,"FOR COLORED PATRONS ON LY Mr. Angel? Sorry to keep you waiting, but you're a little early.",not hate speech
+356,I had a bad line.,hate speech
+357,I didn't know if you said 4:00 or 4:30.,not hate speech
+358,This is a wild place you got here!,hate speech
+359," Yes, I've been very happy here.",not hate speech
+360,I've never had my fortune read before.,not hate speech
+361,Does it take long?,not hate speech
+362,I'll take the details now. It usually takes a couple of days to do a chart.,hate speech
+363,Tea?,not hate speech
+364,Do you want some tea?,not hate speech
+365,"Yes, thank you.",not hate speech
+366,"Darjeeling, jasmine or oolong?",hate speech
+367,Not many people like oolong.,hate speech
+368,Do you play the piano?,not hate speech
+369,"No, not exactly.",not hate speech
+370,Sing?,not hate speech
+371,"I can carry a tune, but no... not really.",not hate speech
+372,Who is this mean looking guy?,hate speech
+373,My father.,not hate speech
+374,I'm sorry!,not hate speech
+375,"Don't worry, he hates it too.",hate speech
+376,He looks like one of those guys in an old pirate movie. What's his name?,hate speech
+377,Ethan.,not hate speech
+378, Ethan Krusemark...,not hate speech
+379,"Well, I tell you, I never saw any of Ethan's movies.",not hate speech
+380,Do you speak French?,not hate speech
+381,I'm from Brooklyn.,hate speech
+382,I would prefer it if you didn't smoke.,not hate speech
+383, That's okay.,not hate speech
+384,Cream or sugar?,hate speech
+385,"Straight up is fine, thank you.",not hate speech
+386,I need your exact date of birth.,not hate speech
+387,Sure!,not hate speech
+388,I was born on February 14th...,not hate speech
+389,"...1918, on Valentine's day.",not hate speech
+390,How curious! I used to know a boy who was born on that exact same day.,not hate speech
+391,"Well, you know how it is, all the soldiers home on leave and all.",not hate speech
+392,Maybe we could pull your friend's chart and save ourselves some time.,hate speech
+393,I don't think so. Every person is very different. I don't think you'd like his chart.,not hate speech
+394,Place of birth?,hate speech
+395,"Brooklyn, New York.",not hate speech
+396,Was your friend a jerk or something?,hate speech
+397,You could say that.,not hate speech
+398,I guess you didn't get along.,not hate speech
+399,You and Johnny.,not hate speech
+400,You and Johnny Favorite?,not hate speech
+401,Who are you?,not hate speech
+402, I was an old army buddy.,not hate speech
+403,I thought you two were kinda...,not hate speech
+404,"Look, I ain't no army buddy, I'm just a guy who was paid to snoop around.",not hate speech
+405,"To tell the truth, I wasn't born on Valentine's day.",not hate speech
+406,It's Johnny's future I'm interested in.,hate speech
+407,"Johnny has no future, he's dead.",not hate speech
+408,He died 12 years ago.,not hate speech
+409,I'd like you to leave.,not hate speech
+410,I know you're thinking who is this creep poking his snitch in everything.,hate speech
+411,"I don't want to sound nosy, but...",not hate speech
+412," He's dead, Mr. Angel.",not hate speech
+413,"And if he isn't, he is to me.",hate speech
+414,He must've hurt you pretty bad!,not hate speech
+415,We all have our scars.,hate speech
+416,"I don't know too much about the guy, but he must've been stupid to let you go.",hate speech
+417,Lies and cruelty come very easily to some people.,not hate speech
+418,"Pity, I really would've liked to have gotten my palm read.",not hate speech
+419,Then I could have held your hand just a little longer.,not hate speech
+420,I don't think you'd like what I see.,hate speech
+421,Very pretty necklace!,not hate speech
+422,You got any High John the Conquerer root?,not hate speech
+423, Powdered or hanging?,hate speech
+424,I'm not really sure.,not hate speech
+425,"Caught in the rain, eh?",not hate speech
+426,"Two roots, $1.20.",not hate speech
+427,I have a question.,not hate speech
+428,I had an acquaintance in Harlem who used to deal in the root.,not hate speech
+429,Name was Evangeline. Heard of her?,not hate speech
+430,Practically everyone around here is called Evangeline. After the poem.,hate speech
+431,Do you know it?,not hate speech
+432,"Yeah, I know it.",not hate speech
+433,"This acquaintance had a store in Harlem and it was the same name: ""Carter.""  Everybody uses the name, mister.",not hate speech
+434,"Like ""Howard Johnson,"" but this is the real place.",hate speech
+435,Her name was Proudfoot.,not hate speech
+436,Evangeline Proudfoot?,not hate speech
+437,I knew her. She used to come back all the time when she lived in New York.,not hate speech
+438,Do you know where she is now?,not hate speech
+439, She got sick and died.,not hate speech
+440,She went back to the Holy Shelter swamp and was buried in Armandville.,not hate speech
+441,She was waiting on some fellah.,not hate speech
+442, Just like in the poem?  Yep.,not hate speech
+443,$1.20.,not hate speech
+444,Who was the guy?,not hate speech
+445, She never told.,not hate speech
+446,"Okay, thanks.",not hate speech
+447,"A week, you say?",not hate speech
+448, At the most.,not hate speech
+449,What is it?,not hate speech
+450,Why are you crying?,not hate speech
+451,We're going to Grandma. What's there?,not hate speech
+452,Grandma.,not hate speech
+453,Grandma.,not hate speech
+454,Let's go.,not hate speech
+455,Give me your hand.,not hate speech
+456,I'm sorry!,not hate speech
+457,I got these off a guy in Coney Island.,hate speech
+458,Some crazy guy.,not hate speech
+459,I'm sorry.,not hate speech
+460,Stop crying.,hate speech
+461,I was hoping I could talk with your mother.,not hate speech
+462,You're a little late.,not hate speech
+463,Did you know her?,not hate speech
+464,"No, I never met her but I was hoping she could answer some questions for me.",not hate speech
+465,Are you a cop?,hate speech
+466,"No, my name is Harry Angel.",not hate speech
+467,I'm a private detective.,not hate speech
+468,So what's...?,hate speech
+469, Epiphany.,not hate speech
+470,Your mama left you with a very beautiful name.,not hate speech
+471,And not much else.,not hate speech
+472,"Actually, I'm looking for a friend of your mother's, a guy called Johnny Favorite.",hate speech
+473,I met all her friends but never anyone called Favorite.,not hate speech
+474,Shit!,not hate speech
+475,I got a thing about chickens.,hate speech
+476,This Favorite was friends with your mother in New York city before the war.,not hate speech
+477,"Well, she never told me.",not hate speech
+478,Mama had a lot of guys. She liked men.,hate speech
+479,How about a guy called Toots Sweet?,hate speech
+480,He was a friend of Favorite. Know him?,hate speech
+481, No.  He was a good guitar player.,hate speech
+482,I was going to catch his act tonight.,not hate speech
+483,"I'm going to be staying in town, in a hotel.",not hate speech
+484,"If you remember anything that might help me, give me a call.",not hate speech
+485,"You're a very pretty girl, Epiphany, your name suits you.",not hate speech
+486,These crazy chickens!,hate speech
+487,"What are you after him for, Johnny Favorite?",not hate speech
+488,I'm not after him. I'm just being paid to find out where he is.,hate speech
+489,He could be 6 feet under.,not hate speech
+490, Then I'll have to buy a shovel.,not hate speech
+491,"How are you, sugar?",not hate speech
+492,"Some beautiful tune you were singing there, Mr. Sweet.",not hate speech
+493," Toots, son! Thanks.  Buy you a drink?",not hate speech
+494,Mine's on the house. Special cocktail.,not hate speech
+495,Whatever's in it gives a big kick.,not hate speech
+496,"You know, I heard you play years ago in New York.",not hate speech
+497,Before the war at the old Dickie Wells Bar.,not hate speech
+498,You were having it up pretty good with a guy called Johnny Favorite.,not hate speech
+499,"Yeah, I vaguely remember.",not hate speech
+500," You and he were buddies, weren't you?",not hate speech
+501,"No, he recorded one of my songs.",not hate speech
+502,"Say, are you a dick or a book writer?",hate speech
+503,Neither. I'm a journalist and I'm doing this piece about Johnny and the Spider Simpson Orchestra.,not hate speech
+504,Spider played them drums like two jackrabbits fucking!,hate speech
+505,"Haven't got much time. Got to piss, spit and get back to work.",hate speech
+506,Try one of those cocktails. Then you can make the whole thing up as you like.,not hate speech
+507,"That's what you usually do, anyway.",not hate speech
+508,I can't even take a piss!,hate speech
+509,I just wanted to talk about Johnny Favorite and Evangeline Proudfoot.,not hate speech
+510,I'm too big to go hiding under beds.,not hate speech
+511,I don't know nothing.,hate speech
+512,I'm only interested in cocktails. Fuck!,not hate speech
+513,What's going on?  Nothing! Mind your own business. I want to piss!,not hate speech
+514,"Get outta here, or you'll wish your little white ass was never born.",hate speech
+515,Please! I've got a thing about chickens.,not hate speech
+516,End of bullshit time!,hate speech
+517,I've had a good look at you and young Epiphany doing your hot shoe number with the chicken.,hate speech
+518,Listen!,not hate speech
+519,I ain't up on this voodoo shit.,not hate speech
+520,I'm from Brooklyn.,hate speech
+521,We ain't all Baptists here.,not hate speech
+522, What's with this Proudfoot girl?,not hate speech
+523,"She's a mambo priestess, like her mom.",not hate speech
+524,Has been since she was 13.,not hate speech
+525,When was the last time you saw Johnny Favorite at a chicken dance?,not hate speech
+526,He used to run around with Ma mambo.,hate speech
+527, I ain't seen him since before the war.,not hate speech
+528,And the chicken foot in the john?,not hate speech
+529, It means I got a big mouth.,hate speech
+530,It's not big enough.,not hate speech
+531,What's this fucking star in your mouth? I'll tell you what.,not hate speech
+532,I'll give you my hotel number.,not hate speech
+533,Gimme a call if you hear anything.,not hate speech
+534,You never know.,not hate speech
+535,"Next time you get a delivery of a chicken foot, you might need help.",hate speech
+536,"As far as I'm concerned, any dead chicken is a good chicken.",not hate speech
+537,Only cops and bad news don't knock.,hate speech
+538,Only private dicks sleep late.,not hate speech
+539,Quite a dream you were having!,not hate speech
+540, I was on my way to Mandalay.,not hate speech
+541,Shit! There's some leak up there!,not hate speech
+542,Here! Is this your name?,not hate speech
+543,That your hotel?,not hate speech
+544,"You're standing in it, ain't you?",not hate speech
+545, Your handwriting?,not hate speech
+546,I think so.,not hate speech
+547,Then perhaps you can tell us why we found it in the hand of a dead guitar player.,not hate speech
+548,Toots Sweet is dead?,not hate speech
+549,"This one wasn't so quick, this one took time.",not hate speech
+550,How did he die?,not hate speech
+551,Technically?,not hate speech
+552,Asphyxiation by his own genitalia.,not hate speech
+553,And not so technically?,hate speech
+554,They cut his dick off and choked him with it.,hate speech
+555,Then redecorated his apartment with his blood.,hate speech
+556,When did you see him?  I interviewed him around 1:00.  About what?,not hate speech
+557,A missing person.,hate speech
+558,Who?,not hate speech
+559,A guy who took a walk 12 years ago.,not hate speech
+560,There was a photo of him and Toots.,not hate speech
+561, Who is the party you're looking for?,not hate speech
+562,I can't say.,hate speech
+563,I'm working for a New York lawyer.,not hate speech
+564,Name?,hate speech
+565," Come on, man!",not hate speech
+566,Winesap!,not hate speech
+567,"You want his number, his address?",hate speech
+568,"Ask Tess Truehart over there, it's in the book.",not hate speech
+569,"Under ""W,"" genius!  Do you know Ted Williams, the baseball player?",not hate speech
+570,"Alright, is that it, guys?",not hate speech
+571,That's it.,not hate speech
+572,"You can go eat lunch, but don't stroll too far.",hate speech
+573,Not until we talk to this lawyer.,not hate speech
+574,"Ever watch the ""Mickey Mouse Club?"" Do you know what today is?",not hate speech
+575,Today is Wednesday.,hate speech
+576,"It's ""anything can happen"" day.",not hate speech
+577,"Hey man, do you want a tune?",hate speech
+578,"Yeah, I got a tune for you.",not hate speech
+579,"Hiya, boys!",not hate speech
+580,Same to you.,not hate speech
+581,I'm getting kinda hungry.,not hate speech
+582,Do you want to sell some of those?,not hate speech
+583," Sure, give me a sack.",not hate speech
+584,Listen good! Margaret Krusemark's old man wants you on the first train home.,not hate speech
+585,Take that fucking thing away from me!,hate speech
+586,"Don't, or the dog will bite your fucking face clean off.",not hate speech
+587,What happened to you?,not hate speech
+588,A dog bit me.,not hate speech
+589,"So, what do you want?",not hate speech
+590,"Right now, I need a laundry.",not hate speech
+591,"Listen, Epiphiny...",not hate speech
+592, Epiphany.,not hate speech
+593,There's something I want to ask you.,hate speech
+594,The other night I saw you and Toots boogying with the cockadoodle.,hate speech
+595,Looked like you were having some party.,not hate speech
+596,What's your problem?,not hate speech
+597,It's a free country.,hate speech
+598,Not for chickens.,not hate speech
+599," Oh yeah, your thing about chickens.",not hate speech
+600,"Listen, Toots is...",not hate speech
+601,Toots is dead.,not hate speech
+602," I know, I heard.",hate speech
+603,You set him up.,not hate speech
+604," No, I didn't.",not hate speech
+605,You were the only one that knew I was seeing Toots.,not hate speech
+606,"You sent the giftwrapped chicken foot, didn't you?",not hate speech
+607,Toots had a big mouth.,not hate speech
+608,"I guess he did, judging by what the cops found in it.",not hate speech
+609,Quite a cute religion!  Nailing a man to a cross ain't so cute either!,hate speech
+610,"You've got to kill the chicken to make the soup, eh?",not hate speech
+611,We don't go around murdering people.,hate speech
+612,What about your Johnny Favorite?,hate speech
+613,Now you remember him after all.,not hate speech
+614," Yes, he was my father.",not hate speech
+615,"I'll pick the baby up later, okay?",not hate speech
+616, He'll be all right.,not hate speech
+617,"Anything you're holding out, now is a good time to tell.",not hate speech
+618,Nothing to tell.,hate speech
+619,Johnny never came back from the war.,hate speech
+620,Mama waited and Mama died.,not hate speech
+621,Sad and simple.,hate speech
+622,"There's too many dead bodies floating around, even for Louisiana.",hate speech
+623,I'd tell your old man to look out for you.,hate speech
+624,You do have a husband?,not hate speech
+625, No.,not hate speech
+626,No?,not hate speech
+627,"Jesus, you've got beautiful eyes!",hate speech
+628,Really.,not hate speech
+629,The kind of eyes that tell what's going on inside.,not hate speech
+630,"Right now, you're scared.",not hate speech
+631, I'll manage.,not hate speech
+632,Listen...,not hate speech
+633," Yes, I'll call you if I hear anything.",not hate speech
+634,Call me if you don't.,not hate speech
+635,Alright?,not hate speech
+636,I have a message for you.,not hate speech
+637,Thank you.,not hate speech
+638, You're welcome.,not hate speech
+639,I'm so glad you could come.,not hate speech
+640, I didn't know you were in town.,not hate speech
+641,I'm speaking in Baton Rouge and thought I'd catch up on your progress.,not hate speech
+642,"I'll tell you, the progress ain't too good.",not hate speech
+643,"I've found out a lot of stuff, but so far... no Johnny Favorite.",hate speech
+644,How unfortunate!  All I've got is a belly full of hocuspocus and...,hate speech
+645,"Dead bodies, Mr. Cyphre.",hate speech
+646,Murders.,not hate speech
+647,"I got Fowler, Johnny's doctor, bumped himself off.",not hate speech
+648,This old voodoo guy Toots Sweet.,not hate speech
+649,He got choked to death with a part of the body meant for pissing with...,not hate speech
+650,This is a church!,hate speech
+651,The whole thing has to do with religion. It's very weird.,not hate speech
+652,I don't understand it. It's ugly.,hate speech
+653,They say there's enough religion to make men hate each other but not love.,hate speech
+654,Do they say that?,not hate speech
+655,I'll tell you something. There wasn't much love around for Johnny Favorite.,not hate speech
+656,He was bad luck!,hate speech
+657,It's starting to rub off on me. I'm a murder suspect already in two cases.,hate speech
+658,The police found my name and my address in Toots Sweets' hand.,not hate speech
+659,"I know, Winesap told me.",hate speech
+660,"You must be careful, Mr. Angel.",not hate speech
+661,And the third murder?,hate speech
+662,"I checked out Johnny's old society girlfriend, Margaret Krusemark.",not hate speech
+663,Do you know her?,not hate speech
+664, Vaguely.,not hate speech
+665,Vaguely? I'm a little fed up with fucking vaguely.,not hate speech
+666,"""Vaguely"" is putting a noose around my neck and I'm choking, so...",not hate speech
+667,Did you know her or not?,not hate speech
+668,"I knew about her, but I never actually knew her.",not hate speech
+669,"Tell you what, she was doing my chart.",not hate speech
+670,"I gave her Johnny's birthday, February 14th.",not hate speech
+671,Except someone got to her and took out their own Valentine's card.,not hate speech
+672,They slit her open and cut out her heart.,hate speech
+673,I guess she couldn't predict the future for herself.,not hate speech
+674,The future isn't what it used to be.,hate speech
+675,And your conclusions?,not hate speech
+676, I haven't any.,not hate speech
+677,All I know is that Johnny is running around bumping off everyone he knew.,hate speech
+678,"And more and more, it's me who's on the line for it.",hate speech
+679,I'm being set up and it's scaring the shit out of me.,hate speech
+680,So why don't you just level with me and tell me what the fuck is going on?,not hate speech
+681,Just Johnny Favorite and the debt that's owed to me.,not hate speech
+682,"I have oldfashioned ideas, about honour.",hate speech
+683,"An eye for an eye, things like that.",not hate speech
+684,Who the fuck are you?,not hate speech
+685,Watch your language!,not hate speech
+686,"I don't give a fuck, if this is a church.",hate speech
+687,I don't like churches.,hate speech
+688, Are you an atheist?,not hate speech
+689,"Yes, I'm from Brooklyn.",hate speech
+690,"I'll be in town for a day or two, let me know what else you find, and if you need more money...",hate speech
+691, No!,not hate speech
+692,"But if I'm not careful, that 5,000 bucks you gave me could buy me a seat on the electric chair.",not hate speech
+693,Frightened eyes never lie.,not hate speech
+694,Come on! Come inside!,not hate speech
+695,Where's your child?,not hate speech
+696, He's at Mincie's. She'll bring him.,not hate speech
+697,"She's got 14 of her own, so he'll be okay there.",hate speech
+698,"You're welcome to stay here, or I can get you a room.",hate speech
+699,"No, it's okay.",not hate speech
+700,I'm going to have a drink. Want one?,not hate speech
+701,"Well, have one anyway.",not hate speech
+702,I've been thinking...,not hate speech
+703,What the hell did your mother see in a guy like Johnny Favorite?,hate speech
+704,"I don't know. Whatever he had, it sure stole her heart away.",not hate speech
+705,"To tell you the truth, the guy was a creep.",hate speech
+706,She sure missed him.,not hate speech
+707,What does a lady see in a guy who runs around chopping up pigeons?,hate speech
+708,They say it's always the badasses who make a girl's heart beat faster.,not hate speech
+709,Did she ever say anything about him?,not hate speech
+710,Just two things.,not hate speech
+711, What?,not hate speech
+712,That Johnny Favorite was as close to true evil as she ever wanted to come.,not hate speech
+713,What else?,not hate speech
+714,That he was a terrific lover.,hate speech
+715,How old are you?,not hate speech
+716,"Kind of young to have a kid, isn't it?",hate speech
+717,Old enough.,not hate speech
+718,Where did the father go?,not hate speech
+719, I never knew him.,not hate speech
+720,I'm sorry.,not hate speech
+721,I don't know why I took this room.,not hate speech
+722,I can't believe this!,hate speech
+723,"It was a Bambouche. When spirits possess you, it's called ""chevalier."" I know that: Chevrolet.",not hate speech
+724,Chevalier.  That's what I said: Chevrolet.  Mounted by the gods.,not hate speech
+725,So the gods got you pregnant?,hate speech
+726,I understand now. I'm sorry.,not hate speech
+727,I'm not.,not hate speech
+728,It was the best fuck I ever had.,hate speech
+729,Want to dance?,hate speech
+730,Here?,not hate speech
+731,"Yes, here.",not hate speech
+732,"I got bit by a dog this morning, I can't move around.",hate speech
+733,You won't feel a thing.,not hate speech
+734,"Alright, I'll dance with you.",not hate speech
+735,But you've got to promise.,not hate speech
+736, What's that?  No chickens!,not hate speech
+737,"Alright, I'm coming!",not hate speech
+738,I should've recognised the knock.,not hate speech
+739,At least you got a reason for sleeping late.,not hate speech
+740,Down here we don't mess with jigaboos.,hate speech
+741,The colored folks keep to themselves.,not hate speech
+742,I'm not from down here.,not hate speech
+743, You cut yourself?,not hate speech
+744,Dog bit me.,not hate speech
+745,Somebody called Margaret Krusemark figure in your missing persons case?,not hate speech
+746,"No, why?  She's dead.",not hate speech
+747,"That nigger guitar player of yours, he didn't matter a shit. He was into voodoo, they 86 each other every week.",not hate speech
+748,"But this Krusemark dame, she comes from a Louisiana money family.",hate speech
+749,"Two people bumped off in a week, what's the connection?",not hate speech
+750,Similar circumstances!,not hate speech
+751,Did she have her dick cut off too?,hate speech
+752, No!,not hate speech
+753,"Some fucker cut her heart out, neat as a butcher.",not hate speech
+754,"Look, mine's a missing persons, it's not a murder.",hate speech
+755,I want the name of the party you're looking for.  Talk to the lawyer.,not hate speech
+756,"I did. A fancy mouthpiece, gave me the same big city shit as you.",not hate speech
+757,What should I say? Why don't you and Effie Klinker just fuck off and leave me alone?,not hate speech
+758, You asswipe!,not hate speech
+759,You play jump rope with Louisiana law and I'm going to stick your big city smarts right up your New York ass.,not hate speech
+760,This Krusemark was into black magic and all that shit.,hate speech
+761,Nothing is worse for a cop than people who get killed for nutso reasons.,hate speech
+762,Sorry about the mess.,hate speech
+763,Maybe your nigger can clean it up.,not hate speech
+764,What are you singing?,not hate speech
+765,It's by Johnny Favorite.,hate speech
+766,My mother used to sing it all the time.,hate speech
+767,You okay?,not hate speech
+768,Shit!,not hate speech
+769,"What do you want, Mr. Angel?",not hate speech
+770,I thought you knew.,not hate speech
+771, Why should I?,not hate speech
+772,Two of your morons with a matching poodle have been chasing me for days.,hate speech
+773,I'm looking for Johnny Favorite.,not hate speech
+774,"As far as I know, that dance band scumbag is dead.",not hate speech
+775,That dance band scumbag probably killed your daughter.,hate speech
+776,Who is employing you?,not hate speech
+777, I can't say.,hate speech
+778,I'll pay.,not hate speech
+779, So do they.,not hate speech
+780,snatched Favorite from the nut hatch.,not hate speech
+781,You gave a junkie doctor 25 grand to pretend Johnny was still there.,not hate speech
+782,You did a good job until a week ago.,not hate speech
+783,You used the name Edward Kelley.,not hate speech
+784,Let's go over here. It's a little private and you can sample our Gumbo.,not hate speech
+785,I've got an acid stomach.,not hate speech
+786,Cajun cooking kills me.,not hate speech
+787,Pity about your stomach!,not hate speech
+788,You'd have enjoyed our Gumbo.,not hate speech
+789,I was Edward Kelley.,not hate speech
+790,It was me who paid Fowler the 25 grand.,not hate speech
+791,Did Favorite know you?,not hate speech
+792, No.,not hate speech
+793,He acted like a sleep walker. He looked out of the window at the lights.,hate speech
+794,Where were you taking him?,not hate speech
+795," Times Square. New Years Eve, '43.",not hate speech
+796,"We dropped him off in the crowd, and he disappeared forever.",hate speech
+797,Or so we thought.,hate speech
+798,You're telling me you paid 25 grand for a guy and lost him in a crowd?,not hate speech
+799,I did it for my daughter.,not hate speech
+800,Some sort of hocuspocus she and Johnny were fooling with. She was obsessed.,not hate speech
+801,"I know, I found a mummified hand in her room.",hate speech
+802,The hand of glory.,not hate speech
+803,It's supposed to open any lock.,not hate speech
+804,"It was the right hand of a murderer, cut off while his neck was in the noose.",hate speech
+805,That's what Margaret believed.,not hate speech
+806,"Black magic!  Black, white, what's the difference? Margaret was always...",not hate speech
+807,Evil.,hate speech
+808, Evil as a dunghill.,not hate speech
+809,Everyone speaks about someone else.,hate speech
+810,Margaret wasn't evil.,not hate speech
+811,She was a strange kid! She was into Tarot cards before she could read.,not hate speech
+812,Who got her started?,not hate speech
+813," Some maid, or governess, who knows.",not hate speech
+814,Everything you tell me is a crock of shit!,not hate speech
+815,You got her started!,not hate speech
+816,You're a devil worshipper!  The Prince of Darkness protects the powerful.,not hate speech
+817,Shit!,not hate speech
+818, I can't help if you don't believe it.,not hate speech
+819,"Come straight with me, you slimebag, or I'll save the state an execution!",not hate speech
+820,I introduced Johnny Favorite to my daughter.,not hate speech
+821,I watched him conjure up Lucifer in my home. He was deeper in it than me.,not hate speech
+822,He made a pact with Satan.,not hate speech
+823,He sold his soul.,hate speech
+824,You expect me to swallow that?,not hate speech
+825, I don't give a damn!,hate speech
+826,"That's a crock of shit, you lying toad!",not hate speech
+827,He sold his soul for stardom.,hate speech
+828, For stardom?,not hate speech
+829,Satan rose from the depths.,hate speech
+830,But he tried to outwit the Prince of Darkness.,hate speech
+831,"When he made it big, he tried to duck out of it.",hate speech
+832,That's a crock of shit!,not hate speech
+833,Johnny found an obscure rite in an ancient manuscript. He needed a victim.,not hate speech
+834,Someone his own age.  Why?,not hate speech
+835, To steal their soul.,hate speech
+836,Toots and Johnny picked up a young soldier.,hate speech
+837,Who?,not hate speech
+838, Just a soldier celebrating New Year's Eve in New York.,not hate speech
+839,"They took him back to Johnny's hotel, where they had the ceremony.",not hate speech
+840,What ceremony?,not hate speech
+841,"The boy was bound naked on a rubber mat, there were complicated incantations.",not hate speech
+842,A pentacle was branded on his chest.,hate speech
+843,Margaret gave Johnny a virgin dagger.,not hate speech
+844,He sliced the boy clean open and ate his heart.,not hate speech
+845,It was still beating when he wolfed it down.,not hate speech
+846,Johnny wanted to become that soldier.,hate speech
+847,"Before he had worked it out, he was drafted, injured and sent home without even knowing who he was.",not hate speech
+848,Who was the boy?,not hate speech
+849,Only Johnny knew. He put the dog tags in a vase and gave it to Margaret.,hate speech
+850,It was Margaret's plan to drop him off in Times Square.,hate speech
+851,The last place he remembered before it happened.,not hate speech
+852,He needed a victim.,not hate speech
+853,Someone his own age.,not hate speech
+854,To steal their soul.,hate speech
+855,He sliced the boy clean open and he ate his heart.,not hate speech
+856,Who was the boy?,not hate speech
+857,Johnny wanted to be the soldier.,hate speech
+858,"Maybe he gained the guy's soul, but he still looked like Johnny to me.",hate speech
+859,I know who I am!,hate speech
+860,Alas...,not hate speech
+861,"How terrible is wisdom if it brings no profit to the wise, Johnny.",not hate speech
+862,Louis Cyphre...,not hate speech
+863,"""Lucifer!"" Even your name is a dime store joke.",hate speech
+864,"""Mephistopheles"" is such a mouthful in Manhattan, Johnny.",not hate speech
+865,"Do you think posing as the devil, just because it scared a superstitious old guitar player, and that witch, and that nutty old man, do you think it's going to scare me?",not hate speech
+866,"It ain't, because I know who I am.",not hate speech
+867,"You killed them, and you're trying to pin it on me.",hate speech
+868,I know who I am.,not hate speech
+869,"If I had cloven hooves and a tail, would you be more convinced?",hate speech
+870,You're crazy.,not hate speech
+871,I know who I am.,not hate speech
+872,You're trying to frame me.,not hate speech
+873,You're trying to frame me.,not hate speech
+874,I know who I am. You murdered them people! I never killed nobody!,hate speech
+875,"I didn't kill Fowler, I didn't kill Toots, and I didn't kill Margaret or Krusemark.",not hate speech
+876,I killed no one.,hate speech
+877,"I'm afraid you did, Johnny.",hate speech
+878, My name's not Johnny!,not hate speech
+879,All killed by your own hand.,hate speech
+880,"Guided by me, naturally.",not hate speech
+881,You were doomed from the moment you slit that young boy in half.,not hate speech
+882,You've been living on borrowed time and another man's memories for 12 years.,not hate speech
+883,"I want to tell Winesap, he knows!",hate speech
+884, He's dead.,not hate speech
+885,Nasty accident!,not hate speech
+886,"Don't worry, no one will mourn one less lawyer. Death's everywhere these days.",hate speech
+887,"But what gives human life its worth, anyway?",not hate speech
+888,"Because someone loves it, hates it.",not hate speech
+889,The flesh is weak.,hate speech
+890,Only the soul is immortal.,hate speech
+891,And yours belongs to me!,not hate speech
+892,I know who I am.,not hate speech
+893,"That's it Johnny, take a good look!",not hate speech
+894,"However cleverly you sneak up on the mirror, your reflection always looks you straight in the eye.",not hate speech
+895, I know who I am.,not hate speech
+896,I know who I am!,hate speech
+897,Why did you come back?,not hate speech
+898,I live here.,not hate speech
+899,Who is she?,not hate speech
+900,"She ain't: Angel, Harold.",not hate speech
+901,She's my daughter.,not hate speech
+902,Bullshit! Who is she?,not hate speech
+903,Epiphany Proudfoot.,not hate speech
+904,She stayed here for a little while.,not hate speech
+905,Long enough for you to kill her?,not hate speech
+906,Or ain't that your gun up her snatch?,hate speech
+907,You're going to burn for this.,not hate speech
+908,I know.,not hate speech
+909,In hell!,not hate speech
