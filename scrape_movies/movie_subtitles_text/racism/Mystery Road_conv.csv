@@ -1,8 +1,8 @@
 ,dialog
-0,"<font color""808080"">(REVVING ENGINE)</font> <font color""808080"">(INDISTINCT SPEECH ON TWOWAY RADIO)</font> <font color""808080"">(BRAKES SQUEAL)</font> <font color""808080"">(BREAKS HISS)</font> <font color""808080"">(ENGINE STOPS)</font> <font color""808080"">(METALLIC CLINK)</font> <font color""808080"">(METALLIC CLINK)</font> <font color""808080"">(RUSTLING)</font> <font color""808080"">(GROWLS)</font> <font color""808080"">(BIRD CALLS)</font> <font color""808080"">(CROW CAWS AND FLIES AWAY)</font> <font color""808080"">(FLIES BUZZ)</font> <font color""808080"">(COUGHS AND RETCHES)</font> <font color""808080"">(PHONE RINGS)</font> <font color""808080"">(GROANS)</font> Yeah?"
+0,Yeah?
 1,Alright.
 2,OK.
-3,"<font color""808080"">(ENGINE RUNS)</font> <font color""808080"">(POLICE RADIO CHATTER)</font> Jay."
+3,Jay.
 4,"Hey, Robbo."
 5,What's the story?
 6,We got a truckie pull up to check his trailers.
@@ -53,7 +53,7 @@
 51,Looks like a wild grass seed.
 52,"Oh, look at that."
 53,Last moments of life.
-54,"<font color""808080"">(SIGHS)</font> It's a picture, ain't it?"
+54,"It's a picture, ain't it?"
 55,That's basically when I found the body.
 56,Thanks for calling it in.
 57,Cheers.
@@ -101,11 +101,11 @@
 99,"Come on, mate."
 100,"I need something, alright?"
 101,"No comment, Macca."
-102,"<font color""808080"">(SIREN WAILS IN DISTANCE)</font> <font color""808080"">(CHILDREN'S LAUGHTER)</font> <font color""804040"">WOMAN:</font> Muckin' up all the time."
-103,"<font color""808080"">(KNOCKS ON DOOR)</font> Ashley!"
+102,WOMAN: Muckin' up all the time.
+103,Ashley!
 104,You there?
 105,"Yeah, what?"
-106,"<font color""808080"">(CLICK)</font> It's Julie."
+106,It's Julie.
 107,She was found dead this morning.
 108,True?
 109,Yeah.
@@ -117,9 +117,9 @@
 115,I... I don't know...
 116,much about what she was up to these days.
 117,When was the last time you saw her?
-118,"<font color""808080"">(DOG HOWLS)</font> Oh, I don't remember what day it was now."
+118,"Oh, I don't remember what day it was now."
 119,Ashley...
-120,"<font color""808080"">(ASHLEY SNIFFLES)</font> Did Julie wear any jewellery?"
+120,Did Julie wear any jewellery?
 121,Mmhm.
 122,She had a silver necklace with her name on it.
 123,I gave it to her when she was little.
@@ -135,8 +135,8 @@
 133,"Hey, nephew."
 134,"Hey, Old Boy."
 135,I still see you're dyeing your hair.
-136,"<font color""808080"">(CHUCKLES)</font> How's it goin'?"
-137,"Ah, no good. Them kids, they busted me out again. <font color""808080"">(CHUCKLES)</font> How's the neighbourhood?"
+136,How's it goin'?
+137,"Ah, no good. Them kids, they busted me out again.  How's the neighbourhood?"
 138,"Oh, she's pretty wild these days, nephew."
 139,Lots of drugs and shit goin' on.
 140,A few new drug labs started up out of town.
@@ -164,8 +164,8 @@
 162,"Thanks, Old Boy."
 163,"Hey, you watch your back."
 164,"Time to get my money back, eh?"
-165,"<font color""808080"">(LAUGHS)</font> <font color""804040"">OLD BOY:</font> Hey, you kids!"
-166,"<font color""808080"">(CHEERING AND LAUGHING)</font> <font color""808080"">(CHILDREN CHATTER AND LAUGH)</font> <font color""808080"">(LOW FOREBODING DRUM BEATS)</font> <font color""808080"">(DOGS BARK)</font> <font color""808080"">(KNOCKS ON DOOR)</font> <font color""808080"">(DOOR OPENS)</font> Hey, cuz."
+165,"OLD BOY: Hey, you kids!"
+166,"Hey, cuz."
 167,Your parents home?
 168,What about Tarni?
 169,Is she home?
@@ -176,15 +176,15 @@
 174,About Julie Mason.
 175,I got nothin' to say.
 176,Tarni!
-177,"<font color""808080"">(DOOR SLAMS)</font> <font color""808080"">(SIGHS)</font> <font color""808080"">(DOGS BARK)</font> <font color""808080"">(CLINK ON GLASS)</font> Now I'd just like to start by saying, Frank..."
+177,"Now I'd just like to start by saying, Frank..."
 178,"Frank, you're a real one."
 179,Thanks.
 180,Scarce as rockin'horse shit.
-181,"<font color""808080"">(ALL LAUGH)</font> Seriously, it's been a long time."
+181,"Seriously, it's been a long time."
 182,"And I reckon the drug squad's just gonna be lost without ya, eh, Johnno?"
 183,"Oh, no. Speak..."
 184,"speak for yourself, Sarge, eh?"
-185,"<font color""808080"">(LAUGHS)</font> Ah, it's gonna be hard to replace you."
+185,"Ah, it's gonna be hard to replace you."
 186,"Jesus, it's hard to replace anyone out here."
 187,"As you know, this joint was robbed five times last month."
 188,By the same teenage kid.
@@ -194,20 +194,20 @@
 192,Who died last year in the line of the duty.
 193,"Hear, hear."
 194,"Jesus, maybe we should all shoot through while we still can."
-195,"<font color""808080"">(ALL LAUGH)</font> But for some of us, It's the only home we know."
+195,"But for some of us, It's the only home we know."
 196,And we gotta stop the rot.
 197,And protect our way of life.
 198,We hope you're gonna think of us...
 199,when you're sinkin' cold ones on that tropical isle.
-200,"<font color""804040"">JOHNNO:</font> Yeah!"
+200,JOHNNO: Yeah!
 201,Raise your glasses.
 202,Let's drink a toast to...
-203,"<font color""808080"">(ALL LAUGH)</font> Frank and Joyce."
+203,Frank and Joyce.
 204,To Frank and Joyce.
-205,"<font color""804040"">ALL:</font> Frank and Joyce!"
+205,ALL: Frank and Joyce!
 206,Happy trails.
 207,"Good on you, Frank."
-208,"<font color""808080"">(APPLAUSE)</font> <font color""808080"">(SIGHS)</font> <font color""808080"">(TYRES SQUEAL)</font> <font color""808080"">(CROW SCREECHES)</font> <font color""808080"">(VEHICLE APPROACHES)</font> <font color""808080"">(DOGS BARK)</font> <font color""808080"">(COWS MOO)</font> How's it goin'?"
+208,How's it goin'?
 209,"Yeah, not bad."
 210,"Here about that girl, are ya?"
 211,"Yeah, that's right."
@@ -219,7 +219,7 @@
 217,Bailey. Sam Bailey.
 218,"Mr Bailey, do you remember seeing any train stopping down on the highway..."
 219,on Friday or Saturday night?
-220,"<font color""808080"">(EXHALES)</font> There's always someone stopping there."
+220, There's always someone stopping there.
 221,"Mostly truckies checkin' their load, I guess."
 222,What about last Friday or Saturday night?
 223,Might've been.
@@ -235,9 +235,9 @@
 233,"these young hoodlums come out from town, tryin' to steal everything I own."
 234,"Yeah, I got signs and guard dogs and bloody car alarms."
 235,Don't stop their little black hands gettin' on somethin'.
-236,"<font color""808080"">(THUD)</font> <font color""808080"">(ENGINE STARTS)</font> Are you a real copper or are you..."
+236,Are you a real copper or are you...
 237,one of them black trackers who turns on his own type?
-238,"<font color""808080"">(TRUCK LEAVES)</font> <font color""808080"">(SPITS)</font> No disrespect intended."
+238,No disrespect intended.
 239,"How much land you got here, Mr Bailey?"
 240,Far as you can see.
 241,That's a lot of dirt.
@@ -245,7 +245,7 @@
 243,"Well, your children will have a pretty good future, then, won't they, eh?"
 244,You're a lucky man.
 245,"You know your way back to town, don't you?"
-246,"<font color""808080"">(BELL TOLLS, SIREN WAILS)</font> <font color""808080"">(CHUCKLES)</font> He had a smile on him like a shot fox."
+246,He had a smile on him like a shot fox.
 247,Johnno.
 248,Jay boy.
 249,"Look, I'm gonna have to get back to ya, Jack."
@@ -267,11 +267,11 @@
 265,It's all we can afford.
 266,I'll tell you what...
 267,I'll put in a request for a reward for information.
-268,"<font color""808080"">(SCOFFS)</font> A reward?"
+268,A reward?
 269,"Jesus, Sarge."
 270,That's the best I can do.
-271,"<font color""808080"">(KNOCK AT DOOR)</font> Jay, got Jim on line one for you."
-272,"<font color""804040"">JIM:</font> <font color""808080"">(OVER THE PHONE)</font> Approximate time of death occurred sometime, oh..."
+271,"Jay, got Jim on line one for you."
+272,"JIM:  Approximate time of death occurred sometime, oh..."
 273,last Friday night.
 274,'Cause of death is...
 275,"is definitely from the laceration across the trachea, probably from a, say, Like a hunting knife?"
@@ -290,9 +290,9 @@
 288,"Uh, nothing, really."
 289,Pretty much came up with a blank except for...
 290,minute alcohol traces.
-291,"<font color""808080"">(SIGHS)</font> Alright, thanks, Jim."
+291,"Alright, thanks, Jim."
 292,"No Worries, mate."
-293,"<font color""808080"">(HANGS UP PHONE)</font> G'day, Jay."
+293,"G'day, Jay."
 294,"Long time, no see."
 295,"Hey, Mick. How you going?"
 296,"Oh, can't complain."
@@ -320,12 +320,12 @@
 318,Thought as much.
 319,But I'll take a box of your best .308s... hollow points.
 320,"Yeah, no problems, Jay."
-321,"<font color""808080"">(TRAIN HOOTS, CHILDREN CHATTER)</font> <font color""808080"">(KNOCKS ON DOOR)</font> <font color""808080"">(VEHICLE APPROACHES)</font> <font color""808080"">(REVS ENGINE)</font> <font color""808080"">(TYRES SQUEAL)</font> How you going, my little brothers?"
+321,"How you going, my little brothers?"
 322,"Good. You a copper, brah?"
 323,Yeah.
 324,"We hate coppers, brah."
 325,"We kill coppers, brah."
-326,"<font color""808080"">(MIMICS GUNSHOT)</font> <font color""âª804040"">BOY âª2:</font> Who you lookin' for?"
+326,BOY âª2: Who you lookin' for?
 327,Ashley. You seen her?
 328,They gone.
 329,Gone where?
@@ -345,9 +345,9 @@
 343,and I'll give you a look at my gun.
 344,Show me your gun first.
 345,Let me hold it.
-346,"<font color""808080"">(EJECTS BULLET)</font> <font color""808080"">(TRAIN HOOTS, CHILDREN CHATTER)</font> You're not allowed to look at it!"
+346,You're not allowed to look at it!
 347,"Thanks, little brother."
-348,"<font color""808080"">(PHONE BEEPS)</font> <font color""808080"">(WIND HOWLS, DISTANT CAR ENGINES)</font> <font color""808080"">(SIREN WAILS)</font> Heard you was back."
+348,Heard you was back.
 349,"How ya been, Mary?"
 350,Not bad.
 351,What you up to?
@@ -369,9 +369,9 @@
 367,"So, what?"
 368,You're just here for work?
 369,Not here to see your daughter?
-370,"<font color""808080"">(SCOFFS)</font> Crystal!"
+370,Crystal!
 371,Your father wants ya.
-372,"<font color""808080"">(SIGHS)</font> What you been doin'?"
+372,What you been doin'?
 373,"Oh, nothin'."
 374,Just Facebookin' and watchin' TV.
 375,What happened to you?
@@ -395,7 +395,7 @@
 393,I don't know.
 394,Like in a dress shop or something.
 395,What am I gonna do in a dress shop?
-396,"<font color""808080"">(INDISTINCT SPEECH OVER SUPERMARKET P.A.)</font> <font color""808080"">(CLOCK TICKING)</font> <font color""808080"">(BIRD CALLS IN DISTANCE)</font> <font color""808080"">(SIGHS)</font> <font color""808080"">(INDISTINCT SPEECH OVER RADIO)</font> <font color""808080"">(STARTS ENGINE)</font> <font color""808080"">(TURNS OFF ENGINE)</font> <font color""808080"">(BIRD SCREECHES)</font> <font color""808080"">(STARTS ENGINE)</font> <font color""808080"">(GRAVEL RUSTLES)</font> <font color""808080"">(INDISCERNIBLE POLICE RADIO)</font> <font color""808080"">(HORN HONKS)</font> <font color""808080"">(THUD)</font> Jay boy."
+396,Jay boy.
 397,"Hey, Johnno."
 398,What you doing out here in the middle of the night?
 399,"Oh, you know, working late."
@@ -429,7 +429,7 @@
 427,"I mean, if you could... you know, if you could get away with it, would you tell anyone?"
 428,"Is there something you wanna tell me, Johnno?"
 429,"Nah, I'm just fuckin' with ya, Jay boy! I'm just fuckin' with ya!"
-430,"<font color""808080"">(JOHNNO LAUGHS)</font> Yeah, well, I better get home to sleep."
+430,"Yeah, well, I better get home to sleep."
 431,"Yeah, good idea, Jay."
 432,Good idea.
 433,"Mate, maybe we could go out for a feed sometime."
@@ -438,7 +438,7 @@
 436,"Yeah, maybe."
 437,No worries.
 438,"Goodnight, Jay boy."
-439,"<font color""808080"">(FOREBODING MUSIC)</font> Jay."
+439,Jay.
 440,"Hey, Sarge."
 441,How are the grandkids?
 442,Spoilt.
@@ -467,7 +467,7 @@
 465,What do you mean?
 466,"Well, I saw him out on the highway last night with Robbo."
 467,He was acting a bit strange.
-468,"<font color""808080"">(SARGE LAUGHS)</font> Probably thought the same thing about you."
+468,Probably thought the same thing about you.
 469,Her's from up north.
 470,He got in a bit of trouble with the police up there.
 471,Had to cop a transfer.
@@ -487,14 +487,14 @@
 485,He's got some big busts coming up.
 486,Make sure you don't get caught in the middle.
 487,That's OK.
-488,"<font color""808080"">(MUSIC FROM SLOT MACHINE)</font> Been there all my life."
+488,Been there all my life.
 489,"What, caught in the middle?"
 490,"Yeah, I guess you have, you poor bugger."
-491,"<font color""808080"">(PATRONS LAUGHTER)</font> I've just remembered there's something I've gotta do."
+491,I've just remembered there's something I've gotta do.
 492,"I'll see you later, Jay."
 493,"Yeah, no worries."
 494,"Thanks, Sarge."
-495,"<font color""808080"">(INDISCERNIBLE)</font> What are you doing here?"
+495,What are you doing here?
 496,What's going on?
 497,With what?
 498,With Crystal.
@@ -508,7 +508,7 @@
 506,She told me you asked her to go live with ya.
 507,She spent the whole night in her room crying after that.
 508,Nothing I could say to her.
-509,"Too late, Jay <font color""808080"">(SLOT MACHINE MUSIC)</font> What happened to you?"
+509,"Too late, Jay What happened to you?"
 510,What?
 511,Who the fuck do you think you are?
 512,"Livin' over there all by yourself in the big, empty house."
@@ -517,14 +517,14 @@
 515,Stay around here and watch you drink your life away?
 516,I did that one with my old man.
 517,"Hey, you weren't doing too badly yourself, remember."
-518,"<font color""808080"">(TAP)</font> At least I'm trying to make a difference in this town."
+518,At least I'm trying to make a difference in this town.
 519,Yeah?
 520,How's it workin' for ya?
 521,"You see, I know I've got problems."
 522,And I made mistakes.
 523,But at least I know who I am.
 524,Do you? Really?
-525,"<font color""808080"">(WIND WHISTLES)</font> <font color""808080"">(GUNSHOT)</font> <font color""808080"">(GLASS SHATTERS)</font> <font color""808080"">(RIFLE COCKS)</font> <font color""808080"">(GUNSHOT)</font> <font color""808080"">(GLASS SHATTERS)</font> <font color""808080"">(GUNSHOT)</font> <font color""808080"">(WIND WHISTLES)</font> <font color""808080"">(DISTANT TRAIN'S HORN SOUNDS)</font> <font color""808080"">(FLIES BUZZING)</font> <font color""808080"">(DOOR SLAMS)</font> <font color""808080"">(INDISCERNIBLE POLICE DISPATCH)</font> <font color""808080"">(PHONE RINGS)</font> <font color""808080"">(DIAL TONE)</font> <font color""808080"">(RING TONE)</font> <font color""808080"">(ENGAGED SIGNAL)</font> <font color""808080"">(REVVING ENGINE)</font> <font color""808080"">(GRAVEL RUSTLES)</font> <font color""808080"">(GATE SQUEALS)</font> <font color""808080"">(KNOCKS)</font> G'day, Mr Murray."
+525,"G'day, Mr Murray."
 526,Mr Murray.
 527,Mr Murray?
 528,Who's there?
@@ -537,7 +537,7 @@
 535,Old girl finally packed it in.
 536,I got everything I need right here.
 537,Until my old wheels pack it in.
-538,"<font color""808080"">(CHUCKLES)</font> Yeah, it's the roadkill."
+538,"Yeah, it's the roadkill."
 539,I eat the roadkill.
 540,Kangaroos and the rabbits and...
 541,occasional pig and...
@@ -578,7 +578,7 @@
 576,until it ain't there anymore.
 577,When time has its way with you...
 578,not even your dreams can bring it back.
-579,"<font color""808080"">(LOW FOREBODING MUSIC)</font> <font color""808080"">(WOMAN SHOUTS INDISTINCTLY, DOG BARKS)</font> <font color""804040"">OLD BOY:</font> Hey, nephew!"
+579,"OLD BOY: Hey, nephew!"
 580,"Hey, Old Boy."
 581,How you going?
 582,Why didn't you tell me Julie was murdered?
@@ -617,7 +617,7 @@
 615,I'll keep it dark.
 616,Yep.
 617,Yeah.
-618,"<font color""808080"">(SQUEAK)</font> <font color""808080"">(DOG BARKS)</font> <font color""808080"">(TAP TAP)</font> <font color""808080"">(DOOR UNLOCKS)</font> Oh, Mrs MacDonald."
+618,"Oh, Mrs MacDonald."
 619,I was just wondering if I could have a word with Jasmine.
 620,Is she home?
 621,What's this about?
@@ -644,7 +644,7 @@
 642,"""Dusk till Dawn""."
 643,Did she ever say if this fella was black or white?
 644,White fella.
-645,"<font color""808080"">(SIREN WAILS IN THE DISTANCE)</font> Do you know my girl, Crystal?"
+645,"Do you know my girl, Crystal?"
 646,"Yeah, I know her."
 647,"Does she ever do this kind of thing, like Nelli did?"
 648,I don't know her that well.
@@ -684,9 +684,9 @@
 682,"Hey, you know what?"
 683,The strange thing...
 684,he always asks for the same room.
-685,"<font color""808080"">(DOGS BARK)</font> How's it goin'?"
+685,How's it goin'?
 686,You that Abo copper?
-687,"<font color""808080"">(SPITS)</font> The old man's not here."
+687,The old man's not here.
 688,He's out droving.
 689,"Oh, that's OK. Actually, I wanted to talk to you."
 690,Is that right?
@@ -701,7 +701,7 @@
 699,Roo shooter.
 700,I run the meat freezer in town.
 701,You got any witnesses to prove your whereabouts?
-702,"<font color""808080"">(DOOR SLAMS)</font> How many do you want?"
+702,How many do you want?
 703,"So you're a roo shooter, eh?"
 704,That's right.
 705,"Well, you'd be a pretty crack shot, then, wouldn't ya?"
@@ -711,7 +711,7 @@
 709,"Pull a head shot from 1,000 yards."
 710,Woo.
 711,That's a fair way.
-712,"<font color""808080"">(DOG WHIMPERS)</font> Nice rig."
+712,Nice rig.
 713,Mind if I take a look at it?
 714,And why would you want to do that?
 715,"Well, I was thinking about buying a hunting truck."
@@ -736,7 +736,7 @@
 734,Pete.
 735,No worries.
 736,"You have a good day, fellas."
-737,"<font color""808080"">(POLICE CHATTER OVER RADIO)</font> <font color""808080"">(PHONE RINGS)</font> Yeah?"
+737,Yeah?
 738,"G'day, Jay."
 739,"Hey, Jim. How's it going?"
 740,"Not bad, mate. We just got the results from the lab."
@@ -761,7 +761,7 @@
 759,I'll send this report over ASAP.
 760,"Alright. No worries, Jim."
 761,Thanks.
-762,"<font color""808080"">(METALLIC CLANG)</font> <font color""808080"">(DOOR SHUTS)</font> It was a Friday night."
+762,It was a Friday night.
 763,Bobby was at home watching the footy.
 764,I remember it was his team playing when he got a phone call.
 765,Said he had to go out and meet someone.
@@ -793,7 +793,7 @@
 791,Which way was that?
 792,Like he trusted them.
 793,"Thanks, Peggy."
-794,"<font color""808080"">(ENGINE REVS)</font> <font color""808080"">(TRAIN PASSES)</font> <font color""808080"">(DOGS BARKING)</font> <font color""808080"">(DISTANT TRAIN HORN)</font> You copy?"
+794,You copy?
 795,"Copy, 175."
 796,Can I get a name for a registration number?
 797,GolfUniformWhisky302.
@@ -811,7 +811,7 @@
 809,Two fail to appear for one count of car theft.
 810,"Two counts of driving unlicensed, and the list goes on."
 811,OK. Thanks for that.
-812,"<font color""808080"">(BOOT STEPS)</font> <font color""808080"">(KNOCKS)</font> <font color""808080"">(FLYWIRE DOOR CRASHES)</font> <font color""808080"">(FENCING RATTLES)</font> <font color""808080"">(POUNDING FOOTSTEPS)</font> <font color""808080"">(DOG BARKS)</font> <font color""808080"">(CAR ENGINE ROARS)</font> <font color""808080"">(DOOR CLOSES)</font> So you heard about Julie Mason?"
+812,So you heard about Julie Mason?
 813,So what do you know about her?
 814,She ever get drugs from ya?
 815,Wayne.
@@ -824,7 +824,7 @@
 822,You know her?
 823,Missing?
 824,Probably just fuckin' OD'd somewhere.
-825,"<font color""808080"">(SNIFFS)</font> Fuckin' mad on money and having a good time."
+825,Fuckin' mad on money and having a good time.
 826,They'll use anyone to get what they want...
 827,and they deserve everything they get.
 828,"So Why'd you run, Wayne?"
@@ -832,7 +832,7 @@
 830,Someone after you?
 831,You in some trouble?
 832,I might be able to help you.
-833,"<font color""808080"">(LAUGHS)</font> Don't think so."
+833,Don't think so.
 834,You've got a pretty big record here.
 835,You got two warrants right here.
 836,So what would I find if I searched your house?
@@ -852,15 +852,15 @@
 850,You own her?
 851,Yeah.
 852,Thought so.
-853,"<font color""808080"">(CHAIR SCRAPES)</font> How do you know her?"
+853,How do you know her?
 854,Small town.
 855,How do you know her?
 856,They all come looking for a hit sooner or later.
 857,Do anything to get it.
 858,"How do you fuckin' know my daughter, Wayne?"
-859,"<font color""808080"">(GASPS)</font> <font color""808080"">(KNOCK AT DOOR)</font> How do you sleep at night..."
+859,How do you sleep at night...
 860,locking up your own people all the time?
-861,"<font color""808080"">(GASPS)</font> <font color""808080"">(DOOR OPENS)</font> Pardon me, Jay boy."
+861,"Pardon me, Jay boy."
 862,"Can I, uh... can I see you for a sec?"
 863,What?
 864,You realise what you're doing in there?
@@ -873,7 +873,7 @@
 871,Those big boots of yours will get you in trouble.
 872,They'll get you in trouble.
 873,"Don't worry, I'll make sure he gets home, mate."
-874,"<font color""808080"">(DOOR OPENS)</font> <font color""808080"">(DOG WHINES)</font> <font color""808080"">(INDISCERNIBLE POLICE DISPATCH)</font> I pulled a few strings with the district commander."
+874,I pulled a few strings with the district commander.
 875,There's a detective team coming down from the homicide branch.
 876,I think you'd better get out of town for a few days.
 877,"Sarge, we both know what's gonna happen."
@@ -885,10 +885,10 @@
 883,There'll be more than a few black girls to worry about...
 884,if this town turns into a fuckin' war zone...
 885,For some people it already is a war zone.
-886,"<font color""808080"">(BREAKS SCREECH)</font> <font color""808080"">(GUN COCKS)</font> <font color""808080"">(FLY BUZZES)</font> <font color""808080"">(SIGHS)</font> What happened?"
+886,What happened?
 887,I just come home from Bingo.
 888,Front door was busted in.
-889,"<font color""808080"">(WATER SPRAYS)</font> You know what they were looking for?"
+889,You know what they were looking for?
 890,Nah.
 891,Where's Crystal?
 892,I don't know where she is.
@@ -906,8 +906,8 @@
 904,I just want to know one thing.
 905,Was it an old Statesman?
 906,Just say yes or no.
-907,"<font color""808080"">(WINDS MURMUR)</font> <font color""808080"">(DISTANT ENGINE REVS)</font> <font color""808080"">(ENGINE STARTS)</font> <font color""808080"">(WHEELS SPIN)</font> <font color""808080"">(GRAVEL GRINDS)</font> <font color""808080"">(ENGINE ROARS)</font> <font color""808080"">(CAR DOOR CLOSES)</font> <font color""808080"">(SIGHS)</font> <font color""808080"">(FLIES BUZZ)</font> <font color""808080"">(CAR DOORS SLAM IN DISTANCE)</font> How 'bout that feed?"
-908,"<font color""808080"">(RAPS KNUCKLES ON CAR)</font> Thanks, Ange."
+907,How 'bout that feed?
+908,"Thanks, Ange."
 909,You're not hungry?
 910,"Look, Johnno, I don't have a lot of time right now."
 911,"I know how you feel, Jay boy."
@@ -919,7 +919,7 @@
 917,Live on my lonesome.
 918,"No woman, no kids."
 919,Just the ugliest bull mastiff mongrels you've ever seen.
-920,"<font color""808080"">(CHIMES SOUND)</font> What do you carry?"
+920,What do you carry?
 921,"Well, that's a classic right there, right there."
 922,Not easy to come by.
 923,Belonged to my old man before he passed away.
@@ -931,7 +931,7 @@
 929,"It was just a matter of time before it got out of control, you know."
 930,"Out of control, just like those fuckin' grassfires they always light."
 931,So what do you know about the Bobby Rogers murder?
-932,"<font color""808080"">(GAGS)</font> Fuck."
+932,Fuck.
 933,What were you doing out there today?
 934,Just sightseeing.
 935,Did you see anything interesting?
@@ -946,19 +946,19 @@
 944,You're a lucky man.
 945,But you should learn to look after her.
 946,Yeah.
-947,"<font color""808080"">(FOREBODING MUSIC)</font> <font color""808080"">(SIGHS)</font> <font color""808080"">(PLASTIC SNAPS)</font> <font color""808080"">(PHONE RINGS)</font> <font color""804040"">JOHNNO:</font> Jay boy."
+947,JOHNNO: Jay boy.
 948,I've got it.
 949,What have you got?
 950,What's missing.
 951,"Hey, good boy, Jay."
 952,"Good boy, hey? Good boy."
-953,"<font color""808080"">(CHILDREN LAUGHTER)</font> There's a place... called Slaughter Hill."
+953,There's a place... called Slaughter Hill.
 954,It's off Mystery Road.
-955,"<font color""808080"">(CALL ENDS)</font> <font color""808080"">(MUSICAL STRESS)</font> <font color""808080"">(ENGINE REVS)</font> <font color""808080"">(ENGINE STOPS)</font> <font color""808080"">(JINGLE)</font> <font color""808080"">(RIFLE COCKS)</font> <font color""808080"">(CARS APPROACH)</font> <font color""808080"">(ENGINE IDLES)</font> <font color""808080"">(CAR APPROACH ES)</font> <font color""808080"">(ENGINE STOPS)</font> <font color""808080"">(ZIPS)</font> <font color""808080"">(CLICKS)</font> <font color""808080"">(BEEPS)</font> <font color""808080"">(GUNSHOT)</font> <font color""808080"">(GROANS)</font> Fuck!"
-956,"<font color""808080"">(GUNSHOTS)</font> <font color""808080"">(MULTIPLE GUNSHOTS)</font> <font color""808080"">(DISTANT RIFLE SHOT)</font> <font color""808080"">(GLASS SHATTERS)</font> <font color""808080"">(HEAVY BREATHS)</font> Ugh!"
-957,"<font color""808080"">(GUNSHOT)</font> <font color""808080"">(GUNSHOTS)</font> Fuck!"
-958,"<font color""808080"">(G LASS SHATTERS)</font> <font color""808080"">(JAY FIRES REPEATEDLY)</font> <font color""808080"">(GROANS)</font> <font color""808080"">(DISTANT RIFLE SHOT)</font> Ugh!"
-959,"<font color""808080"">(GUNSHOT REVERBERATES)</font> <font color""808080"">(GROANS)</font> Fuck!"
-960,"<font color""808080"">(GROANS)</font> <font color""808080"">(CAR ENGINE STARTS)</font> <font color""808080"">(ENGINE REVS)</font> <font color""808080"">(REPEATED FIRE)</font> <font color""808080"">(GUNSHOT)</font> Ugh!"
-961,"<font color""808080"">(RICOCHET)</font> <font color""808080"">(GUNSHOT)</font> <font color""808080"">(GLASS SHATTERS)</font> <font color""808080"">(GUNSHOT)</font> <font color""808080"">(REPEATED GUNFIRE)</font> <font color""808080"">(GROANS)</font> Argh!"
-962,"<font color""808080"">(ENGINE REVS)</font> <font color""808080"">(RELOADS)</font> <font color""808080"">(RAPID FIRE)</font> <font color""808080"">(ENGINE STOPS)</font> <font color""808080"">(ENGINE REVS IN DISTANCE)</font> <font color""808080"">(PANTS)</font> <font color""808080"">(GUNSHOT)</font> <font color""808080"">(GUNSHOT)</font> <font color""808080"">(TYRE BURSTS)</font> <font color""808080"">(GUNSHOT)</font> <font color""808080"">(TYRE BURSTS)</font> <font color""808080"">(ENGINE STOPS)</font> <font color""808080"">(GUNSHOT)</font> <font color""808080"">(PING)</font> <font color""808080"">(GUNSHOT)</font> <font color""808080"">(GUNSHOT)</font> <font color""808080"">(GLASS SHATTERS)</font> <font color""808080"">(PANTS)</font> <font color""808080"">(GUNSHOT)</font> <font color""808080"">(GUNSHOT)</font> Agh!"
+955,Fuck!
+956,Ugh!
+957,Fuck!
+958,Ugh!
+959,Fuck!
+960,Ugh!
+961,Argh!
+962,Agh!
