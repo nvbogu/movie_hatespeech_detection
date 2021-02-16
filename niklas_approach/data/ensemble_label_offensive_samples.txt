@@ -1,0 +1,227 @@
+['Senator Palantine is a dynamic man.' 0.54 'Taxi Driver']
+---
+["You ain't nothin' but a cotton picker." 0.54 'Antebellum']
+---
+["My whole body's like a fucking dolphin." 0.54 'Booksmart']
+---
+['A lot of people are conscientious objectors.' 0.62
+ 'The Trial of the Chicago 7']
+---
+['And when you come to the end of the line with a buddy who is more than a brother and a little less than a wife, getting blind drunk together is really the only way to say farewell.'
+ 0.62 'Once Upon a Time in Hollywood']
+---
+[" Let's kill him!" 0.62 'Harry Potter and the Prisoner of Azkaban']
+---
+['These are the ones left.' 0.69 'Rome']
+---
+["I hope you're not turning into one of them sob sisters wants to get caught."
+ 0.54 'The Departed']
+---
+['Get out of the fucking way!' 0.62 'The Wolf of Wall Street']
+---
+['NEWSCASTER 2: You know, when we talk about women in this way, it is because we respect them so much, and we start with their body.'
+ 0.54 'Long Shot']
+---
+['The other two were going as a German cameraman and his assistant.' 0.54
+ 'Inglourious Basterds']
+---
+['They been taking care of me.' 0.54 'The Color Purple']
+---
+['And while not all MRAs agree on the issue of infant male circumcision, most MRAs do believe it is a human rights violation.'
+ 0.54 'The Red Pill']
+---
+["I wouldn't dare." 0.54 'Widows']
+---
+["And if I want to fuck some colored girl in a hotel room now and then, because I'm feeling like a wrecking ball, then, pal, I'm gonna do it."
+ 0.54 'Motherless Brooklyn']
+---
+['Because this looks like a good one.' 0.69 'Sex and the City']
+---
+['From the moment I first stepped into FDR\'s shoesâ\x80¦ And when I say "shoes," I mean wheelchair.'
+ 0.54 'The Prom']
+---
+['So he married a Comanche squaw.' 0.54 'The Searchers']
+---
+["It's looking fucking good." 0.62 'The Gentlemen']
+---
+["That's a lot of money to spend just to turn brown." 0.54 'Talk Radio']
+---
+['Smells like all these dudes shitted themselves.' 0.54
+ 'Dragged Across Concrete']
+---
+["Because of you, I'll always know what a grown man with baby balls looks like."
+ 0.54 'Deadpool']
+---
+[" It's like a paintin'. Look at that." 0.54 'Django Unchained']
+---
+["What do you mean, you don't want to date nobody?" 0.62 'The Butler']
+---
+['Stop crowding us, shitfaced cockmasters!' 0.62 'South Park']
+---
+['For being a bastard with no manners.' 0.54 'A Clockwork Orange']
+---
+[" Do you think, just maybe, your energy's misdirected, Sam, trying to tap into white people's souls?"
+ 0.69 'One Night in Miami']
+---
+['Go ahead and fuck me.' 0.54 'The Wolf of Wall Street']
+---
+["No, she isn't in here now." 0.54 'A Star Is Born']
+---
+['I might be up in here with these motherfuckers.' 0.54 'Bad Boys II']
+---
+["The hell we won't. We're gonna roll up in there and tear some ass." 0.54
+ 'Gran Torino']
+---
+['A fucking boat! A boat.' 0.77 'Children of Men']
+---
+['Why, Col. Greenhill is Col. Greenhill, sir.' 0.62 'The Searchers']
+---
+["MOANING I can't breathe! Stop it!" 0.62 'Sausage Party']
+---
+['The band plays the intro, and then you say, "All right, boys, you done seen the rest." "Now I\'m gonna show you the best." "Ma Rainey\'s gonna show you her black bottom." You got that? Heh. All right, let me hear you do it one time.'
+ 0.54 "Ma Rainey's Black Bottom"]
+---
+[' Hey, you.' 0.54 'The Green Mile']
+---
+['Burn them in their beds.' 0.54 'Robin Hood']
+---
+["In fact, I'd say it's an unequivocal endorsement of a racist regime."
+ 0.62 'Misbehaviour']
+---
+["Okay, clearly we can't stay the night, so, we just need to think of a reason to tell Josh and Michelle why we're leaving early, like, Taylor came by and said some racist shit or something like that."
+ 0.54 'The Rental']
+---
+['"As slaveowning nations, we must together stand firm.' 0.62 'Amistad']
+---
+['I hate them sometimes.' 0.54 'Mike and Dave Need Wedding Dates']
+---
+['Tell them to build a big fucking bomb shelter.' 0.62 'Entourage']
+---
+['I still got it.' 0.54 'Deadpool']
+---
+['Ketchup, get the fuck off of me.' 0.62 'Sausage Party']
+---
+['Not that one. The little one.' 0.62 'The French Connection']
+---
+["Joey's a drug dealer." 0.62 'The Revenant']
+---
+["All right, lesson one. See, hiphop is more than just like a dance, it's more like..."
+ 0.54 'Save the Last Dance']
+---
+["If we can't those Americans can't either." 0.54 'Chinatown']
+---
+['Edie has one.' 0.54 'Summerland']
+---
+['Essa foi boa. Que pena a pobre da Catherine, apesar de tudo.' 0.54
+ 'The Silence of the Lambs']
+---
+["What's going on here?" 0.54 'The War with Grandpa']
+---
+['laughter If you had a Dixie Cup, it was the equivalent of smoking a pack of Camels.'
+ 0.54 'Seinfeld']
+---
+['You just want to have your little fling with the guy from the other side of town.'
+ 0.54 'Good Will Hunting']
+---
+['Jesus hate your black ass.' 0.69 "Ma Rainey's Black Bottom"]
+---
+['So what is that, like a doover?' 0.62 'Emma']
+---
+["But he's not a Jew, all right? Satisfied?" 0.54 'BlacKkKlansman']
+---
+["You're such a fucking pussy over this prairie nigger." 0.62 'Wind River']
+---
+['...aloof, seldom visited, never photographed...' 0.54 'Citizen Kane']
+---
+["It's the white boy I want." 0.54 'In the Heat of the Night']
+---
+["So, it's a Mexican stalemate." 0.54 'Jojo Rabbit']
+---
+["Son of a bitch, I never thought he'd show." 0.62 'Gran Torino']
+---
+['You want to get blown to kingdom come?' 0.54 'Titanic']
+---
+['MRS. V.' 0.54 'Gran Torino']
+---
+['Because I thought you were anorexic too.' 0.54 'Lost in Translation']
+---
+['Get your money but I promise on Everything. I love nigga.' 0.62 'You']
+---
+['Stop crowding us, shitfaced cockmasters!' 0.62 'South Park']
+---
+["They don't know it yet..." 0.54 'The Greatest Showman']
+---
+["Vaguely? I'm a little fed up with fucking vaguely." 0.54 'Angel Heart']
+---
+['Down to fuck a sausage up!' 0.77 'Sausage Party']
+---
+["We're here to follow fucking orders!" 0.62 'Saving Private Ryan']
+---
+['I look like the kind of woman I never, ever want to be.' 0.54
+ 'Misbehaviour']
+---
+["Don't call her a bitch, you fat fuck!" 0.54 'South Park']
+---
+['Get the hell outta here!' 0.62 'Split']
+---
+[' Well, I came up here to coach at G.W.' 0.54 'Remember the Titans']
+---
+['That was another huge thing of life, the guy who was the...' 0.54
+ 'Seinfeld']
+---
+['Stay here with your Uncle Michael.' 0.54 'Goodfellas']
+---
+['He shot the woman from the steps...' 0.54 "Schindler's List"]
+---
+['Ladies see the ring, they know you must have some cash and your cock must work.'
+ 0.54 'The Departed']
+---
+['This place, was once a metropolis.' 0.54 'Titans']
+---
+['You gonna talk that hateful nigger talk, you can ride up top with O.B.'
+ 0.54 'The Hateful Eight']
+---
+['Hi, there, little guy.' 0.54 'South Park']
+---
+['Derek, we need to talk.' 0.54 'American History X']
+---
+["You are the true cause of Beatrice's suffering, and the damnation of so many others."
+ 0.62 "Dante's Inferno"]
+---
+["They don't got niggers there." 0.77 'Django Unchained']
+---
+['I\'m not "God Save The King" like them white bastards sing.' 0.69
+ 'The Nightingale']
+---
+['Sweet, dude. Yes!' 0.54 'South Park']
+---
+['One of the many perks of having a refugee camp in the neighborhood.'
+ 0.62 'Children of Men']
+---
+['chuckles And then she realized, "Ohâ\x80¦ shit. That\'s racist too." She got flushed. Face red.'
+ 0.54 'Malcolm X']
+---
+['I followed a boy...' 0.54 'Crazy Rich Asians']
+---
+['So she would be me.' 0.54 'A Time to Kill']
+---
+["Must've been a runaway." 0.62 'Mudbound']
+---
+['Say, "You be like white boy now." I don\'t never wanna be like white boy.'
+ 0.62 'The Nightingale']
+---
+['You know why they make them this small?' 0.54 'Lethal Weapon 2']
+---
+['Here with a special report is a midget in a bikini.' 0.54 'South Park']
+---
+[' Back off, shorty!' 0.62 'In Bruges']
+---
+[' No. That one.' 0.54 "Ocean's Eight"]
+---
+['I wanna fucking kill you!' 0.62 'The Wolf of Wall Street']
+---
+['Yeah, I know your country.' 0.62 'The Wolf of Wall Street']
+---
+['Fucking... You...' 0.54 'The Revenant']
+---
+['You want to tell us why, Mr. Ricard?' 0.54 'Save the Last Dance']
