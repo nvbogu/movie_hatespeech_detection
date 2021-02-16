@@ -1,0 +1,251 @@
+['Bloody white people.' 0.92 'The Nightingale']
+---
+['Get the fuck out of our neighbourhood, you fucking niggers!' 0.92
+ 'A Bronx Tale']
+---
+['There was only one person who could have got us out of here and it was that fucking black cunt!'
+ 0.85 'The Nightingale']
+---
+["for Marsellus to throw Antwan off a building into a glass motherfuckin' house, fuckin' up the way the nigger talks; that shit ain't right."
+ 0.85 'Pulp Fiction']
+---
+["I wouldn't want you chuckleheads coming up a staircase with a hairpin and a harmonica."
+ 0.85 'Motherless Brooklyn']
+---
+["Knucklehead walks into a bank with a telephone. Not a pistol, not a shotgun, a fuckin' phone."
+ 0.85 'Pulp Fiction']
+---
+['Mr. Cole was the first negro asked to play at a white establishment in this city.'
+ 0.85 'Green Book']
+---
+["He come up here to do a little nigger headhuntin'." 0.92
+ 'The Hateful Eight']
+---
+[' Get the fuck outta here.' 0.85 'Apocalypse Now']
+---
+["This is how they be writin' and shit." 0.85 'Malcolm X']
+---
+['Listen to yourself, this man is an illegal alien, ILLEGAL as in against the law.'
+ 0.92 'Machete']
+---
+['Eat a white dick!' 0.85 'BlacKkKlansman']
+---
+['Get them out of here right now.' 0.85 "Monster's Ball"]
+---
+['The ugly ass nigga?' 0.85 'House MD']
+---
+["Because wouldn't that have said it means how racist can white Americans be because we white Americans elected a black man twice to the White House."
+ 0.92 'Selma']
+---
+["A white man's little joke." 0.85 "Porky's"]
+---
+[' One of them is a Zygon.' 0.85 'Doctor Who']
+---
+['Them savages lit that fire.' 0.92 'The Nightingale']
+---
+['Yeah. They walked us from the Greenville auction, and he rode in on a horse with a white man.'
+ 0.85 'Django Unchained']
+---
+['Motherfucker, get the fuck outta here!' 0.92 'A Bronx Tale']
+---
+['Go back to Africa, niggers!' 0.92 'Gangs of New York']
+---
+['You remember them four white boys raped that little black girl in the Delta last year?'
+ 0.85 'A Time to Kill']
+---
+['You ruin that letter of his, that nigger gonna stomp your ass to death.'
+ 0.85 'The Hateful Eight']
+---
+["And if it's not the gooks, it's these old fuckin' Jews who've owned the store for 15 fucking generations."
+ 1.0 'Pulp Fiction']
+---
+['A feminist group protested the event.' 0.85 'The Red Pill']
+---
+['He promotes White Power bands, he writes reviews...' 0.85
+ 'American History X']
+---
+[' Never trust a nigger.' 0.85 'The French Connection']
+---
+['â\x99ª Yellow is the color Gambling is the game â\x99ª He explodes on the scene like a millennial fucking firecracker. Bang, bang, bang.'
+ 0.85 'The Gentlemen']
+---
+["They're a crowd of untrustworthy thieves who want to see us murdered in our own beds!"
+ 0.85 'Star Trek Beyond']
+---
+['And your twin is a nigger.' 0.85 'BlacKkKlansman']
+---
+["And it's a fuckin' blowtorch." 0.85 'The Trial of the Chicago 7']
+---
+['A bunch of racist cops on a power trip.' 0.92 'BlacKkKlansman']
+---
+["If you got rid of every cop with vaguely racist leanings, you'd have three cops left, and all of them are gonna hate the fags."
+ 0.92 'Three Billboards Outside Ebbing, Missouri']
+---
+['Now, all you black folks, I suggest you get away from all these white folks.'
+ 0.85 'Django Unchained']
+---
+['A Jew hypnotized him and he became a massive drunk and a gambler.' 0.85
+ 'Jojo Rabbit']
+---
+['Look at the dick on that son of a bitch!' 0.92 "Porky's"]
+---
+["'Cause that nigga, coon, gator bait, spade, spook, Sambo, spearchucking jungle bunny, Mississippi wind chime..."
+ 0.85 'BlacKkKlansman']
+---
+['Who you calling a fucking faggot, Jew faggot?' 1.0 'BlacKkKlansman']
+---
+["You tappin' that white girl?" 0.85 'Save the Last Dance']
+---
+['...unless a white person helps them.' 0.85 'BlacKkKlansman']
+---
+[" Just because they're refugees doesn't mean they're fucking rapists."
+ 0.85 'The OC']
+---
+['He said hurricanes were caused by gay marriage.' 0.85 'Long Shot']
+---
+["You don't need to use the Nword and use a fire hose on black people to be racist, Hailey."
+ 0.85 'The Hate U Give']
+---
+['A Polack and a chink.' 0.92 'Gran Torino']
+---
+["But this one is a fuckin' madman." 0.85 'Pulp Fiction']
+---
+['To hire, feed or shelter illegal immigrants is a crime.' 0.85
+ 'Children of Men']
+---
+['What, you just a coward nigger slave with a brand and no backbone?' 0.85
+ 'Antebellum']
+---
+["He's a bad ass looking black dude." 0.85 'The Butcher']
+---
+["I'm not a fucking racist, moron!" 0.85 'Deadpool']
+---
+["I'd rather see a brother kill a white racist cop than kill a Vietnamese."
+ 0.92 'BlacKkKlansman']
+---
+["Black doctors, lawyers, teachers looking for a place to move outside the ghettos that they've been forced into."
+ 0.85 'The Banker']
+---
+['Just call them fucking niggers.' 0.92 'BlacKkKlansman']
+---
+['Yesterday, as a free man, I rode into Candyland on a horse with my German white partner, Dr. King Schultz.'
+ 0.85 'Django Unchained']
+---
+['The man who killed him took it.' 0.85 'Silverado']
+---
+["So what you're saying is, if the Latinos weren't here, or the Cambodians or the blacks or the whites or whoever they are, if they weren't here, everything would be better for you, isn't that right?"
+ 0.85 'Freedom Writers']
+---
+["I just can't understand why you won't come talk to these niggers." 0.85
+ 'Django Unchained']
+---
+['Your mother, she hated them niggers, too.' 0.92 "Monster's Ball"]
+---
+['Sweeney is a nigger on a powertrip.' 0.85 'American History X']
+---
+['The unspoken reality is that America was always a country by white people for white people.'
+ 0.92 'Selma']
+---
+['Out there with the niggers and the farmhands?' 0.92 'Mudbound']
+---
+['Why does he hang out with those retarded gorillas, as you call them ?'
+ 0.85 'Good Will Hunting']
+---
+['Kill that son of a bitch!' 0.92 'BlacKkKlansman']
+---
+["Fuckin' gay pride parade?" 0.85 'American Beauty']
+---
+['It dares to expose the fact that not only is this a country, not a white racist country.'
+ 0.92 'BlacKkKlansman']
+---
+["And if she hadn't been black, she wouldn't be dead 'cause they woulda had blood for the white people."
+ 0.85 'Selma']
+---
+['Place looks like shit.' 0.85 'Hell or High Water']
+---
+['I hate this hiphop influence on white fucking surburbia.' 0.85
+ 'American History X']
+---
+["Jim's a black cat." 0.92 'Empire of the Sun']
+---
+['Whoa Bart look at this fucker Look at that shit.' 0.85 'The Revenant']
+---
+['Ten years ago, that nigger would be hanging by the end of a rope...'
+ 0.85 'A Time to Kill']
+---
+['illegal immigrants like yourself...' 0.85 'Machete']
+---
+['You people run this place like a fucking prison!' 0.85
+ 'The Shawshank Redemption']
+---
+["Oh, fuck that. We should've let these niggas have it." 0.85
+ 'Boyz n the Hood']
+---
+["Transcribing a conversation or holding a camera up and pressing record, that's a fucking YouTube video."
+ 0.85 'Malcolm X']
+---
+['Drag them the fuck out!' 0.85 'A Bronx Tale']
+---
+['No niggers among the Natives.' 0.92 'Gangs of New York']
+---
+["Eskimo Joe's a quality nigger, no doubt about it." 0.85
+ 'Django Unchained']
+---
+['These niggers are tough, Dr. Schultz, no doubt about it.' 0.85
+ 'Django Unchained']
+---
+["You're black. Don't you know how Jews feel about blacks?" 0.92
+ 'Talk Radio']
+---
+['Then shoot that nigger dead!' 0.85 'The Hateful Eight']
+---
+['Oh, nonviolent like that nigger, that dead nigger, Martin Luther Coon.'
+ 0.85 'BlacKkKlansman']
+---
+['We gonna die, white boy.' 0.85 'The Hateful Eight']
+---
+['Man, move your South African ass out the way.' 0.85 'You']
+---
+['Is he a Candyland slave, or did he ride in with a white man on a horse yesterday?'
+ 0.85 'Django Unchained']
+---
+['Get the fuck on outta here, man.' 0.92 'American History X']
+---
+["Get the fuck off me, you fuckin' son of a bitch!" 1.0 'Talk Radio']
+---
+['Now this white man, was the black his slave?' 0.92 'Django Unchained']
+---
+[' Get out of here, you shithead.' 0.85 'A Star Is Born']
+---
+['Youyou twisted them and you perverted them to feed aa white crowd.' 0.85
+ 'One Night in Miami']
+---
+['who got their job over a couple of white guys...' 0.85
+ 'American History X']
+---
+['To hire, feed or shelter illegal immigrants is a crime.' 0.85
+ 'Children of Men']
+---
+['Holy shiti Look at the dick on that son of a bitch.' 0.85 "Porky's"]
+---
+["You can't let those niggers get away with that shit." 0.85
+ 'American History X']
+---
+["But it's not like they ran out of gas and I showed up to suck their dick while they waited for help."
+ 0.85 'Booksmart']
+---
+['These white people will kill you.' 0.85 'Antebellum']
+---
+['Like a big, fat, fucking retarded, fucking black girl on a seesaw, opposite a dwarf.'
+ 0.85 'In Bruges']
+---
+["Y'all wanna act black, but you get to keep your white privilege." 0.92
+ 'The Hate U Give']
+---
+['They are a spoiled bloodline of inbred animals who rape and eat their own mothers.'
+ 0.92 'Bone Tomahawk']
+---
+["Get on the fuckin' â\x80\x95 Get the fuck down!" 0.85 'Pulp Fiction']
+---
+["It's an antiwhite racist country." 1.0 'BlacKkKlansman']
+---
